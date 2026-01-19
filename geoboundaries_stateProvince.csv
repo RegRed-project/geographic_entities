@@ -1,0 +1,3128 @@
+locationID,country,stateProvince,countryCode,verbatimCountry
+MOBI_1,Andorra,Andorra la Vella,AD,Andorra
+MOBI_2,Andorra,Canillo,AD,Andorra
+MOBI_3,Andorra,Encamp,AD,Andorra
+MOBI_4,Andorra,Escaldes-Engordany,AD,Andorra
+MOBI_5,Andorra,La Massana,AD,Andorra
+MOBI_6,Andorra,Ordino,AD,Andorra
+MOBI_7,Andorra,Sant Julia de Loria,AD,Andorra
+MOBI_8,United Arab Emirates (the),Abu Dhabi,AE,United Arab Emirates
+MOBI_9,United Arab Emirates (the),Dubai,AE,United Arab Emirates
+MOBI_10,United Arab Emirates (the),Fujairah,AE,United Arab Emirates
+MOBI_11,United Arab Emirates (the),Ras al-Khaimah,AE,United Arab Emirates
+MOBI_12,United Arab Emirates (the),Sharjah,AE,United Arab Emirates
+MOBI_13,United Arab Emirates (the),Umm al-Quwain,AE,United Arab Emirates
+MOBI_14,Afghanistan,Badakhshan,AF,Afghanistan
+MOBI_15,Afghanistan,Badghis,AF,Afghanistan
+MOBI_16,Afghanistan,Baghlan,AF,Afghanistan
+MOBI_17,Afghanistan,Balkh,AF,Afghanistan
+MOBI_18,Afghanistan,Bamyan,AF,Afghanistan
+MOBI_19,Afghanistan,Daykundi,AF,Afghanistan
+MOBI_20,Afghanistan,Farah,AF,Afghanistan
+MOBI_21,Afghanistan,Faryab,AF,Afghanistan
+MOBI_22,Afghanistan,Ghanzi,AF,Afghanistan
+MOBI_23,Afghanistan,Ghor,AF,Afghanistan
+MOBI_24,Afghanistan,Helmand,AF,Afghanistan
+MOBI_25,Afghanistan,Herat,AF,Afghanistan
+MOBI_26,Afghanistan,Jowzjan,AF,Afghanistan
+MOBI_27,Afghanistan,Kabul,AF,Afghanistan
+MOBI_28,Afghanistan,Kandahar,AF,Afghanistan
+MOBI_29,Afghanistan,Kapisa,AF,Afghanistan
+MOBI_30,Afghanistan,Khost,AF,Afghanistan
+MOBI_31,Afghanistan,Kunar,AF,Afghanistan
+MOBI_32,Afghanistan,Kunduz,AF,Afghanistan
+MOBI_33,Afghanistan,Laghman,AF,Afghanistan
+MOBI_34,Afghanistan,Logar,AF,Afghanistan
+MOBI_35,Afghanistan,Nangarhar,AF,Afghanistan
+MOBI_36,Afghanistan,Nimruz,AF,Afghanistan
+MOBI_37,Afghanistan,Nuristan,AF,Afghanistan
+MOBI_38,Afghanistan,Paktia,AF,Afghanistan
+MOBI_39,Afghanistan,Paktika,AF,Afghanistan
+MOBI_40,Afghanistan,Panjshir,AF,Afghanistan
+MOBI_41,Afghanistan,Parwan,AF,Afghanistan
+MOBI_42,Afghanistan,Samangan,AF,Afghanistan
+MOBI_43,Afghanistan,Sar-e Pol,AF,Afghanistan
+MOBI_44,Afghanistan,Takhar,AF,Afghanistan
+MOBI_45,Afghanistan,Uruzgan,AF,Afghanistan
+MOBI_46,Afghanistan,Wardak,AF,Afghanistan
+MOBI_47,Afghanistan,Zabul,AF,Afghanistan
+MOBI_48,Antigua and Barbuda,Barbuda,AG,Antigua & Barbuda
+MOBI_49,Antigua and Barbuda,Redonda,AG,Antigua & Barbuda
+MOBI_50,Antigua and Barbuda,Saint George,AG,Antigua & Barbuda
+MOBI_51,Antigua and Barbuda,Saint John,AG,Antigua & Barbuda
+MOBI_52,Antigua and Barbuda,Saint Mary,AG,Antigua & Barbuda
+MOBI_53,Antigua and Barbuda,Saint Paul,AG,Antigua & Barbuda
+MOBI_54,Antigua and Barbuda,Saint Peter,AG,Antigua & Barbuda
+MOBI_55,Antigua and Barbuda,Saint Philip,AG,Antigua & Barbuda
+MOBI_56,Albania,Berat,AL,Albania
+MOBI_57,Albania,Dibër,AL,Albania
+MOBI_58,Albania,Durrës,AL,Albania
+MOBI_59,Albania,Elbasan,AL,Albania
+MOBI_60,Albania,Fier,AL,Albania
+MOBI_61,Albania,Gjirokastër,AL,Albania
+MOBI_62,Albania,Korçë,AL,Albania
+MOBI_63,Albania,Kukës,AL,Albania
+MOBI_64,Albania,Lezhë,AL,Albania
+MOBI_65,Albania,Shkodër,AL,Albania
+MOBI_66,Albania,Tiranë,AL,Albania
+MOBI_67,Albania,Vlorë,AL,Albania
+MOBI_68,Armenia,Aragatsotn,AM,Armenia
+MOBI_69,Armenia,Ararat,AM,Armenia
+MOBI_70,Armenia,Armavir,AM,Armenia
+MOBI_71,Armenia,Gegharkunik,AM,Armenia
+MOBI_72,Armenia,Kotayk,AM,Armenia
+MOBI_73,Armenia,Lori,AM,Armenia
+MOBI_74,Armenia,Shirak,AM,Armenia
+MOBI_75,Armenia,Syunik,AM,Armenia
+MOBI_76,Armenia,Tavush,AM,Armenia
+MOBI_77,Armenia,Vayots Dzor,AM,Armenia
+MOBI_78,Armenia,Yerevan,AM,Armenia
+MOBI_79,Angola,Bengo,AO,Angola
+MOBI_80,Angola,Benguela,AO,Angola
+MOBI_81,Angola,Bié,AO,Angola
+MOBI_82,Angola,Cabinda,AO,Angola
+MOBI_83,Angola,Cuando Cubango,AO,Angola
+MOBI_84,Angola,Cuanza Norte,AO,Angola
+MOBI_85,Angola,Cuanza Sul,AO,Angola
+MOBI_86,Angola,Cunene,AO,Angola
+MOBI_87,Angola,Huambo,AO,Angola
+MOBI_88,Angola,Huíla,AO,Angola
+MOBI_89,Angola,Luanda,AO,Angola
+MOBI_90,Angola,Lunda Norte,AO,Angola
+MOBI_91,Angola,Lunda Sul,AO,Angola
+MOBI_92,Angola,Malanje,AO,Angola
+MOBI_93,Angola,Moxico,AO,Angola
+MOBI_94,Angola,Namibe,AO,Angola
+MOBI_95,Angola,Uíge,AO,Angola
+MOBI_96,Angola,Zaire,AO,Angola
+MOBI_97,Antarctica,Antarctica,AQ,Antarctica
+MOBI_98,Argentina,Buenos Aires,AR,Argentina
+MOBI_99,Argentina,Catamarca,AR,Argentina
+MOBI_100,Argentina,Chaco,AR,Argentina
+MOBI_101,Argentina,Chubut,AR,Argentina
+MOBI_102,Argentina,Ciudad Autónoma de Buenos Aires,AR,Argentina
+MOBI_103,Argentina,Córdoba,AR,Argentina
+MOBI_104,Argentina,Corrientes,AR,Argentina
+MOBI_105,Argentina,Formosa,AR,Argentina
+MOBI_106,Argentina,Jujuy,AR,Argentina
+MOBI_107,Argentina,La Pampa,AR,Argentina
+MOBI_108,Argentina,La Roja,AR,Argentina
+MOBI_109,Argentina,Mendoza,AR,Argentina
+MOBI_110,Argentina,Misiones,AR,Argentina
+MOBI_111,Argentina,Neuquén,AR,Argentina
+MOBI_112,Argentina,Río Negro,AR,Argentina
+MOBI_113,Argentina,Salta,AR,Argentina
+MOBI_114,Argentina,San Juan,AR,Argentina
+MOBI_115,Argentina,San Luis,AR,Argentina
+MOBI_116,Argentina,Santa Cruz,AR,Argentina
+MOBI_117,Argentina,Santa Fe,AR,Argentina
+MOBI_118,Argentina,Santiago del Estero,AR,Argentina
+MOBI_119,Argentina,Tierra del Fuego,AR,Argentina
+MOBI_120,Argentina,Tucumán,AR,Argentina
+MOBI_121,Austria,Burgenland,AT,Austria
+MOBI_122,Austria,Kärnten,AT,Austria
+MOBI_123,Austria,Niederösterreich,AT,Austria
+MOBI_124,Austria,Oberösterreich,AT,Austria
+MOBI_125,Austria,Salzburg,AT,Austria
+MOBI_126,Austria,Steiermark,AT,Austria
+MOBI_127,Austria,Tirol,AT,Austria
+MOBI_128,Austria,Vorarlberg,AT,Austria
+MOBI_129,Austria,Wien,AT,Austria
+MOBI_130,Australia,Australian Capital Territory,AU,Australia
+MOBI_131,Australia,New South Wales,AU,Australia
+MOBI_132,Australia,Northern Territory,AU,Australia
+MOBI_133,Australia,Other Territories,AU,Australia
+MOBI_134,Australia,Queensland,AU,Australia
+MOBI_135,Australia,South Australia,AU,Australia
+MOBI_136,Australia,Tasmania,AU,Australia
+MOBI_137,Australia,Victoria,AU,Australia
+MOBI_138,Australia,Western Australia,AU,Australia
+MOBI_139,Azerbaijan,Contiguous Azerbaijan,AZ,Azerbaijan
+MOBI_140,Azerbaijan,Nakhchivan Autonomous Republic,AZ,Azerbaijan
+MOBI_141,Bosnia and Herzegovina,Brčko District,BA,Bosnia & Herzegovina
+MOBI_142,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,BA,Bosnia & Herzegovina
+MOBI_143,Bosnia and Herzegovina,Republika Srpska,BA,Bosnia & Herzegovina
+MOBI_144,Barbados,Christ Church,BB,Barbados
+MOBI_145,Barbados,Saint Andrew,BB,Barbados
+MOBI_146,Barbados,Saint George,BB,Barbados
+MOBI_147,Barbados,Saint James,BB,Barbados
+MOBI_148,Barbados,Saint John,BB,Barbados
+MOBI_149,Barbados,Saint Joseph,BB,Barbados
+MOBI_150,Barbados,Saint Lucy,BB,Barbados
+MOBI_151,Barbados,Saint Michael,BB,Barbados
+MOBI_152,Barbados,Saint Peter,BB,Barbados
+MOBI_153,Barbados,Saint Philip,BB,Barbados
+MOBI_154,Barbados,Saint Thomas,BB,Barbados
+MOBI_155,Bangladesh,Barisal,BD,Bangladesh
+MOBI_156,Bangladesh,Chittagong,BD,Bangladesh
+MOBI_157,Bangladesh,Dhaka,BD,Bangladesh
+MOBI_158,Bangladesh,Khulna,BD,Bangladesh
+MOBI_159,Bangladesh,Mymensingh,BD,Bangladesh
+MOBI_160,Bangladesh,Rajshani,BD,Bangladesh
+MOBI_161,Bangladesh,Rangpur,BD,Bangladesh
+MOBI_162,Bangladesh,Sylhet,BD,Bangladesh
+MOBI_163,Belgium,Brussels Hoofdstedelijk,BE,Belgium
+MOBI_164,Belgium,Vlaams Gewest,BE,Belgium
+MOBI_165,Belgium,Wallonne Gewest,BE,Belgium
+MOBI_166,Burkina Faso,Boucle du Mouhoun,BF,Burkina Faso
+MOBI_167,Burkina Faso,Cascades,BF,Burkina Faso
+MOBI_168,Burkina Faso,Centre,BF,Burkina Faso
+MOBI_169,Burkina Faso,Centre-Est,BF,Burkina Faso
+MOBI_170,Burkina Faso,Centre-Nord,BF,Burkina Faso
+MOBI_171,Burkina Faso,Centre-Ouest,BF,Burkina Faso
+MOBI_172,Burkina Faso,Centre-Sud,BF,Burkina Faso
+MOBI_173,Burkina Faso,Est,BF,Burkina Faso
+MOBI_174,Burkina Faso,Hauts-Bassins,BF,Burkina Faso
+MOBI_175,Burkina Faso,Nord,BF,Burkina Faso
+MOBI_176,Burkina Faso,Plateau Central,BF,Burkina Faso
+MOBI_177,Burkina Faso,Sahel,BF,Burkina Faso
+MOBI_178,Burkina Faso,Sud-Ouest,BF,Burkina Faso
+MOBI_179,Bulgaria,Blagoevgrad,BG,Bulgaria
+MOBI_180,Bulgaria,Burgas,BG,Bulgaria
+MOBI_181,Bulgaria,Dobrich,BG,Bulgaria
+MOBI_182,Bulgaria,Gabrovo,BG,Bulgaria
+MOBI_183,Bulgaria,Haskovo,BG,Bulgaria
+MOBI_184,Bulgaria,Kardzhali,BG,Bulgaria
+MOBI_185,Bulgaria,Kyustendil,BG,Bulgaria
+MOBI_186,Bulgaria,Lovech,BG,Bulgaria
+MOBI_187,Bulgaria,Montana,BG,Bulgaria
+MOBI_188,Bulgaria,Pazardzhik,BG,Bulgaria
+MOBI_189,Bulgaria,Pernik,BG,Bulgaria
+MOBI_190,Bulgaria,Pleven,BG,Bulgaria
+MOBI_191,Bulgaria,Plovdiv,BG,Bulgaria
+MOBI_192,Bulgaria,Razgrad,BG,Bulgaria
+MOBI_193,Bulgaria,Ruse,BG,Bulgaria
+MOBI_194,Bulgaria,Shumen,BG,Bulgaria
+MOBI_195,Bulgaria,Silistra,BG,Bulgaria
+MOBI_196,Bulgaria,Sliven,BG,Bulgaria
+MOBI_197,Bulgaria,Smolyan,BG,Bulgaria
+MOBI_198,Bulgaria,Sofia,BG,Bulgaria
+MOBI_199,Bulgaria,Sofia City,BG,Bulgaria
+MOBI_200,Bulgaria,Stara Zagora,BG,Bulgaria
+MOBI_201,Bulgaria,Targovishte,BG,Bulgaria
+MOBI_202,Bulgaria,Varna,BG,Bulgaria
+MOBI_203,Bulgaria,Veliko Tarnovo,BG,Bulgaria
+MOBI_204,Bulgaria,Vidin,BG,Bulgaria
+MOBI_205,Bulgaria,Vratsa,BG,Bulgaria
+MOBI_206,Bulgaria,Yambol,BG,Bulgaria
+MOBI_207,Bahrain,Muharraq Governorate,BH,Bahrain
+MOBI_208,Bahrain,Northern Governorate,BH,Bahrain
+MOBI_209,Bahrain,Southern Governorate,BH,Bahrain
+MOBI_210,Burundi,Bubanza,BI,Burundi
+MOBI_211,Burundi,Bujumbura Mairie,BI,Burundi
+MOBI_212,Burundi,Bujumbura Rural,BI,Burundi
+MOBI_213,Burundi,Bururi,BI,Burundi
+MOBI_214,Burundi,Cankuzo,BI,Burundi
+MOBI_215,Burundi,Cibitoke,BI,Burundi
+MOBI_216,Burundi,Gitega,BI,Burundi
+MOBI_217,Burundi,Karuzi,BI,Burundi
+MOBI_218,Burundi,Kayanza,BI,Burundi
+MOBI_219,Burundi,Kirundo,BI,Burundi
+MOBI_220,Burundi,Makamba,BI,Burundi
+MOBI_221,Burundi,Muramvya,BI,Burundi
+MOBI_222,Burundi,Muyinga,BI,Burundi
+MOBI_223,Burundi,Mwaro,BI,Burundi
+MOBI_224,Burundi,Ngozi,BI,Burundi
+MOBI_225,Burundi,Rumonge,BI,Burundi
+MOBI_226,Burundi,Rutana,BI,Burundi
+MOBI_227,Burundi,Ruyigi,BI,Burundi
+MOBI_228,Benin,Alibori,BJ,Benin
+MOBI_229,Benin,Atakora,BJ,Benin
+MOBI_230,Benin,Atlanique,BJ,Benin
+MOBI_231,Benin,Borgou,BJ,Benin
+MOBI_232,Benin,Collines,BJ,Benin
+MOBI_233,Benin,Donga,BJ,Benin
+MOBI_234,Benin,Kouffo,BJ,Benin
+MOBI_235,Benin,Littoral,BJ,Benin
+MOBI_236,Benin,Mono,BJ,Benin
+MOBI_237,Benin,Oueme,BJ,Benin
+MOBI_238,Benin,Plateau,BJ,Benin
+MOBI_239,Benin,Zou,BJ,Benin
+MOBI_240,Brunei Darussalam,Belait,BN,Brunei
+MOBI_241,Brunei Darussalam,Brunei-Muara,BN,Brunei
+MOBI_242,Brunei Darussalam,Temburong,BN,Brunei
+MOBI_243,Brunei Darussalam,Tutong,BN,Brunei
+MOBI_244,Bolivia (Plurinational State of),Beni,BO,Bolivia
+MOBI_245,Bolivia (Plurinational State of),Chuquisaca,BO,Bolivia
+MOBI_246,Bolivia (Plurinational State of),Cochabamba,BO,Bolivia
+MOBI_247,Bolivia (Plurinational State of),La Paz,BO,Bolivia
+MOBI_248,Bolivia (Plurinational State of),Oruro,BO,Bolivia
+MOBI_249,Bolivia (Plurinational State of),Pando,BO,Bolivia
+MOBI_250,Bolivia (Plurinational State of),Potosí,BO,Bolivia
+MOBI_251,Bolivia (Plurinational State of),Santa Cruz,BO,Bolivia
+MOBI_252,Bolivia (Plurinational State of),Tarija,BO,Bolivia
+MOBI_253,Bolivia (Plurinational State of),Pando,BO,Bolivia
+MOBI_254,Brazil,Acre,BR,Brazil
+MOBI_255,Brazil,Alagoas,BR,Brazil
+MOBI_256,Brazil,Amapa,BR,Brazil
+MOBI_257,Brazil,Amazonas,BR,Brazil
+MOBI_258,Brazil,Bahia,BR,Brazil
+MOBI_259,Brazil,Ceara,BR,Brazil
+MOBI_260,Brazil,Distrito Federal,BR,Brazil
+MOBI_261,Brazil,Espirito Santo,BR,Brazil
+MOBI_262,Brazil,Goias,BR,Brazil
+MOBI_263,Brazil,Maranhao,BR,Brazil
+MOBI_264,Brazil,Mato Grosso,BR,Brazil
+MOBI_265,Brazil,Mato Grosso do Sul,BR,Brazil
+MOBI_266,Brazil,Minas Gerais,BR,Brazil
+MOBI_267,Brazil,Para,BR,Brazil
+MOBI_268,Brazil,Paraiba,BR,Brazil
+MOBI_269,Brazil,Parana,BR,Brazil
+MOBI_270,Brazil,Pernambuco,BR,Brazil
+MOBI_271,Brazil,Piaui,BR,Brazil
+MOBI_272,Brazil,Rio de Jeneiro,BR,Brazil
+MOBI_273,Brazil,Rio Granda do Norte,BR,Brazil
+MOBI_274,Brazil,Rio Grande do Sul,BR,Brazil
+MOBI_275,Brazil,Rondonia,BR,Brazil
+MOBI_276,Brazil,Roraima,BR,Brazil
+MOBI_277,Brazil,Santa Catarina,BR,Brazil
+MOBI_278,Brazil,Sao Paulo,BR,Brazil
+MOBI_279,Brazil,Sergipe,BR,Brazil
+MOBI_280,Brazil,Tocantins,BR,Brazil
+MOBI_281,Bahamas (the),Berry Islands,BS,"Bahamas, The"
+MOBI_282,Bahamas (the),Biminis,BS,"Bahamas, The"
+MOBI_283,Bahamas (the),Black Point,BS,"Bahamas, The"
+MOBI_284,Bahamas (the),Central Abaco,BS,"Bahamas, The"
+MOBI_285,Bahamas (the),Central Andros,BS,"Bahamas, The"
+MOBI_286,Bahamas (the),East Grand Bahama,BS,"Bahamas, The"
+MOBI_287,Bahamas (the),Inagua,BS,"Bahamas, The"
+MOBI_288,Bahamas (the),Mangrove Cay,BS,"Bahamas, The"
+MOBI_289,Bahamas (the),Mayaguana,BS,"Bahamas, The"
+MOBI_290,Bahamas (the),Moore's Island,BS,"Bahamas, The"
+MOBI_291,Bahamas (the),New Providence,BS,"Bahamas, The"
+MOBI_292,Bahamas (the),North Andros,BS,"Bahamas, The"
+MOBI_293,Bahamas (the),North Eleuthera,BS,"Bahamas, The"
+MOBI_294,Bahamas (the),Rum Cay,BS,"Bahamas, The"
+MOBI_295,Bahamas (the),San Salvador,BS,"Bahamas, The"
+MOBI_296,Bahamas (the),South Abaco,BS,"Bahamas, The"
+MOBI_297,Bahamas (the),South Andros,BS,"Bahamas, The"
+MOBI_298,Bahamas (the),West Grand Bahama,BS,"Bahamas, The"
+MOBI_299,Bhutan,Bumthang,BT,Bhutan
+MOBI_300,Bhutan,Chukha,BT,Bhutan
+MOBI_301,Bhutan,Dagana,BT,Bhutan
+MOBI_302,Bhutan,Gasa,BT,Bhutan
+MOBI_303,Bhutan,Haa,BT,Bhutan
+MOBI_304,Bhutan,Lhuntse,BT,Bhutan
+MOBI_305,Bhutan,Mongar,BT,Bhutan
+MOBI_306,Bhutan,Paro,BT,Bhutan
+MOBI_307,Bhutan,Pemagatshel,BT,Bhutan
+MOBI_308,Bhutan,Punakha,BT,Bhutan
+MOBI_309,Bhutan,Samdrup Jongkhar,BT,Bhutan
+MOBI_310,Bhutan,Samtse,BT,Bhutan
+MOBI_311,Bhutan,Sarpang,BT,Bhutan
+MOBI_312,Bhutan,Thimpu,BT,Bhutan
+MOBI_313,Bhutan,Trashigang,BT,Bhutan
+MOBI_314,Bhutan,Trashiyangtse,BT,Bhutan
+MOBI_315,Bhutan,Trongsa,BT,Bhutan
+MOBI_316,Bhutan,Tsirang,BT,Bhutan
+MOBI_317,Bhutan,Wangdue Phodrang,BT,Bhutan
+MOBI_318,Bhutan,Zhemgang,BT,Bhutan
+MOBI_319,Botswana,Central District,BW,Botswana
+MOBI_320,Botswana,Chobe District,BW,Botswana
+MOBI_321,Botswana,Ghanzi District,BW,Botswana
+MOBI_322,Botswana,Kgalagadi District,BW,Botswana
+MOBI_323,Botswana,Kgatleng District,BW,Botswana
+MOBI_324,Botswana,Kweneng District,BW,Botswana
+MOBI_325,Botswana,North-East District,BW,Botswana
+MOBI_326,Botswana,North-West District,BW,Botswana
+MOBI_327,Botswana,South-East District,BW,Botswana
+MOBI_328,Botswana,Southern District,BW,Botswana
+MOBI_329,Belarus,Brest,BY,Belarus
+MOBI_330,Belarus,Gomel,BY,Belarus
+MOBI_331,Belarus,Grodno,BY,Belarus
+MOBI_332,Belarus,Minsk,BY,Belarus
+MOBI_333,Belarus,Minsk City,BY,Belarus
+MOBI_334,Belarus,Mogilev,BY,Belarus
+MOBI_335,Belarus,Vitebsk,BY,Belarus
+MOBI_336,Belize,Belize,BZ,Belize
+MOBI_337,Belize,Cayo,BZ,Belize
+MOBI_338,Belize,Corozal,BZ,Belize
+MOBI_339,Belize,Orange Walk,BZ,Belize
+MOBI_340,Belize,Stann Creek,BZ,Belize
+MOBI_341,Belize,Toledo,BZ,Belize
+MOBI_342,Canada,Alberta,CA,Canada
+MOBI_343,Canada,British Columbia,CA,Canada
+MOBI_344,Canada,Manitoba,CA,Canada
+MOBI_345,Canada,New Brunswick,CA,Canada
+MOBI_346,Canada,Newfoundland and Labrador,CA,Canada
+MOBI_347,Canada,Northwest Territories,CA,Canada
+MOBI_348,Canada,Nova Scotia,CA,Canada
+MOBI_349,Canada,Nunavut,CA,Canada
+MOBI_350,Canada,Ontario,CA,Canada
+MOBI_351,Canada,Prince Edward Island,CA,Canada
+MOBI_352,Canada,Quebec,CA,Canada
+MOBI_353,Canada,Saskatchewan,CA,Canada
+MOBI_354,Canada,Yukon,CA,Canada
+MOBI_355,Congo (the Democratic Republic of the),Central Kasai,CD,"Congo, Dem Rep of the"
+MOBI_356,Congo (the Democratic Republic of the),Équateur,CD,"Congo, Dem Rep of the"
+MOBI_357,Congo (the Democratic Republic of the),Haut-Katanga,CD,"Congo, Dem Rep of the"
+MOBI_358,Congo (the Democratic Republic of the),Haut-Lomami,CD,"Congo, Dem Rep of the"
+MOBI_359,Congo (the Democratic Republic of the),Ituri,CD,"Congo, Dem Rep of the"
+MOBI_360,Congo (the Democratic Republic of the),Kasai,CD,"Congo, Dem Rep of the"
+MOBI_361,Congo (the Democratic Republic of the),Kasai-Oriental,CD,"Congo, Dem Rep of the"
+MOBI_362,Congo (the Democratic Republic of the),Kinshasa,CD,"Congo, Dem Rep of the"
+MOBI_363,Congo (the Democratic Republic of the),Kongo-Central,CD,"Congo, Dem Rep of the"
+MOBI_364,Congo (the Democratic Republic of the),Kwango,CD,"Congo, Dem Rep of the"
+MOBI_365,Congo (the Democratic Republic of the),Kwilu,CD,"Congo, Dem Rep of the"
+MOBI_366,Congo (the Democratic Republic of the),Lomami,CD,"Congo, Dem Rep of the"
+MOBI_367,Congo (the Democratic Republic of the),Lower Uele,CD,"Congo, Dem Rep of the"
+MOBI_368,Congo (the Democratic Republic of the),Lualaba,CD,"Congo, Dem Rep of the"
+MOBI_369,Congo (the Democratic Republic of the),Mai-Ndombe,CD,"Congo, Dem Rep of the"
+MOBI_370,Congo (the Democratic Republic of the),Maniema,CD,"Congo, Dem Rep of the"
+MOBI_371,Congo (the Democratic Republic of the),Mongala,CD,"Congo, Dem Rep of the"
+MOBI_372,Congo (the Democratic Republic of the),Nord-Ubangi,CD,"Congo, Dem Rep of the"
+MOBI_373,Congo (the Democratic Republic of the),North Kivu,CD,"Congo, Dem Rep of the"
+MOBI_374,Congo (the Democratic Republic of the),Sankuru,CD,"Congo, Dem Rep of the"
+MOBI_375,Congo (the Democratic Republic of the),South Kivu,CD,"Congo, Dem Rep of the"
+MOBI_376,Congo (the Democratic Republic of the),Sud-Ubangi,CD,"Congo, Dem Rep of the"
+MOBI_377,Congo (the Democratic Republic of the),Tanganyika,CD,"Congo, Dem Rep of the"
+MOBI_378,Congo (the Democratic Republic of the),Tshopo,CD,"Congo, Dem Rep of the"
+MOBI_379,Congo (the Democratic Republic of the),Tshuapa,CD,"Congo, Dem Rep of the"
+MOBI_380,Congo (the Democratic Republic of the),Upper Uele,CD,"Congo, Dem Rep of the"
+MOBI_381,Central African Republic (the),Bamingui-Bangoran,CF,Central African Rep
+MOBI_382,Central African Republic (the),Bangui,CF,Central African Rep
+MOBI_383,Central African Republic (the),Basse-Kotto,CF,Central African Rep
+MOBI_384,Central African Republic (the),Haute-Kotto,CF,Central African Rep
+MOBI_385,Central African Republic (the),Haut-Mbomou,CF,Central African Rep
+MOBI_386,Central African Republic (the),Kémo,CF,Central African Rep
+MOBI_387,Central African Republic (the),Lobaye,CF,Central African Rep
+MOBI_388,Central African Republic (the),Mambéré-Kadéï,CF,Central African Rep
+MOBI_389,Central African Republic (the),Mbomou,CF,Central African Rep
+MOBI_390,Central African Republic (the),Nana-Grébizi,CF,Central African Rep
+MOBI_391,Central African Republic (the),Nana-Mambéré,CF,Central African Rep
+MOBI_392,Central African Republic (the),Ombella-M'Poko,CF,Central African Rep
+MOBI_393,Central African Republic (the),Ouaka,CF,Central African Rep
+MOBI_394,Central African Republic (the),Ouham,CF,Central African Rep
+MOBI_395,Central African Republic (the),Ouham-Pendé,CF,Central African Rep
+MOBI_396,Central African Republic (the),Sangha-Mbaéré,CF,Central African Rep
+MOBI_397,Central African Republic (the),Vakaga,CF,Central African Rep
+MOBI_398,Congo (the),Bouenza,CG,"Congo, Rep of the"
+MOBI_399,Congo (the),Brazzaville,CG,"Congo, Rep of the"
+MOBI_400,Congo (the),Cuvette,CG,"Congo, Rep of the"
+MOBI_401,Congo (the),Cuvette-Ouest,CG,"Congo, Rep of the"
+MOBI_402,Congo (the),Kouilou,CG,"Congo, Rep of the"
+MOBI_403,Congo (the),Lékoumou,CG,"Congo, Rep of the"
+MOBI_404,Congo (the),Likouala,CG,"Congo, Rep of the"
+MOBI_405,Congo (the),Niari,CG,"Congo, Rep of the"
+MOBI_406,Congo (the),Plateaux,CG,"Congo, Rep of the"
+MOBI_407,Congo (the),Pool,CG,"Congo, Rep of the"
+MOBI_408,Congo (the),Sangha,CG,"Congo, Rep of the"
+MOBI_409,Switzerland,Aargau,CH,Switzerland
+MOBI_410,Switzerland,Appenzell Innerrhoden,CH,Switzerland
+MOBI_411,Switzerland,Basel-Landschaft,CH,Switzerland
+MOBI_412,Switzerland,Basel-Stadt,CH,Switzerland
+MOBI_413,Switzerland,Bern,CH,Switzerland
+MOBI_414,Switzerland,Fribourg,CH,Switzerland
+MOBI_415,Switzerland,Genève,CH,Switzerland
+MOBI_416,Switzerland,Glarus,CH,Switzerland
+MOBI_417,Switzerland,Graubünden,CH,Switzerland
+MOBI_418,Switzerland,Jura,CH,Switzerland
+MOBI_419,Switzerland,Luzern,CH,Switzerland
+MOBI_420,Switzerland,Neuchâtel,CH,Switzerland
+MOBI_421,Switzerland,Nidwalden,CH,Switzerland
+MOBI_422,Switzerland,Obwalden,CH,Switzerland
+MOBI_423,Switzerland,Schaffhausen,CH,Switzerland
+MOBI_424,Switzerland,Schwyz,CH,Switzerland
+MOBI_425,Switzerland,Solothurn,CH,Switzerland
+MOBI_426,Switzerland,St. Gallen,CH,Switzerland
+MOBI_427,Switzerland,Thurgau,CH,Switzerland
+MOBI_428,Switzerland,Ticino,CH,Switzerland
+MOBI_429,Switzerland,Uri,CH,Switzerland
+MOBI_430,Switzerland,Valais,CH,Switzerland
+MOBI_431,Switzerland,Vaud,CH,Switzerland
+MOBI_432,Switzerland,Zug,CH,Switzerland
+MOBI_433,Switzerland,Zürich,CH,Switzerland
+MOBI_434,Côte d'Ivoire,Bas-Sassandra,CI,Cote d'Ivoire
+MOBI_435,Côte d'Ivoire,Comoe,CI,Cote d'Ivoire
+MOBI_436,Côte d'Ivoire,Denguele,CI,Cote d'Ivoire
+MOBI_437,Côte d'Ivoire,District Autonome D'Abidjan,CI,Cote d'Ivoire
+MOBI_438,Côte d'Ivoire,District Autonome De Yamoussoukro,CI,Cote d'Ivoire
+MOBI_439,Côte d'Ivoire,Goh-Djiboua,CI,Cote d'Ivoire
+MOBI_440,Côte d'Ivoire,Lacs,CI,Cote d'Ivoire
+MOBI_441,Côte d'Ivoire,Lagunes,CI,Cote d'Ivoire
+MOBI_442,Côte d'Ivoire,Montagnes,CI,Cote d'Ivoire
+MOBI_443,Côte d'Ivoire,Sassandra-Marahoue,CI,Cote d'Ivoire
+MOBI_444,Côte d'Ivoire,Savanes,CI,Cote d'Ivoire
+MOBI_445,Côte d'Ivoire,Valle Du Bandama,CI,Cote d'Ivoire
+MOBI_446,Côte d'Ivoire,Woroba,CI,Cote d'Ivoire
+MOBI_447,Côte d'Ivoire,Zanzan,CI,Cote d'Ivoire
+MOBI_448,Chile,Región de Ñuble,CL,Chile
+MOBI_449,Chile,Región de Antofagasta,CL,Chile
+MOBI_450,Chile,Región de Arica y Parinacota,CL,Chile
+MOBI_451,Chile,Región de Atacama,CL,Chile
+MOBI_452,Chile,Región de Aysén del Gral.Ibañez del Campo,CL,Chile
+MOBI_453,Chile,Región de Coquimbo,CL,Chile
+MOBI_454,Chile,Región de La Araucanía,CL,Chile
+MOBI_455,Chile,Región de Los Lagos,CL,Chile
+MOBI_456,Chile,Región de Los Ríos,CL,Chile
+MOBI_457,Chile,Región de Magallanes y Antártica Chilena,CL,Chile
+MOBI_458,Chile,Región de Tarapacá,CL,Chile
+MOBI_459,Chile,Región de Valparaíso,CL,Chile
+MOBI_460,Chile,Región del Bío-Bío,CL,Chile
+MOBI_461,Chile,Región del Libertador Bernardo O'Higgins,CL,Chile
+MOBI_462,Chile,Región del Maule,CL,Chile
+MOBI_463,Chile,Región Metropolitana de Santiago,CL,Chile
+MOBI_464,Cameroon,Adamaoua,CM,Cameroon
+MOBI_465,Cameroon,Centre,CM,Cameroon
+MOBI_466,Cameroon,East,CM,Cameroon
+MOBI_467,Cameroon,Far North,CM,Cameroon
+MOBI_468,Cameroon,Littoral,CM,Cameroon
+MOBI_469,Cameroon,North,CM,Cameroon
+MOBI_470,Cameroon,North-West,CM,Cameroon
+MOBI_471,Cameroon,South,CM,Cameroon
+MOBI_472,Cameroon,South-West,CM,Cameroon
+MOBI_473,Cameroon,West,CM,Cameroon
+MOBI_474,China,Anhui Province,CN,China
+MOBI_475,China,Beijing Municipality,CN,China
+MOBI_476,China,Chongqing Municipality,CN,China
+MOBI_477,China,Fujian Province,CN,China
+MOBI_478,China,Gansu Province,CN,China
+MOBI_479,China,Guangxi Zhuang Autonomous Region,CN,China
+MOBI_480,China,Guangzhou Province,CN,China
+MOBI_481,China,Guizhou Province,CN,China
+MOBI_482,China,Hainan Province,CN,China
+MOBI_483,China,Hebei Province,CN,China
+MOBI_484,China,Heilongjiang Province,CN,China
+MOBI_485,China,Henan Province,CN,China
+MOBI_486,China,Hong Kong Special Administrative Region,CN,China
+MOBI_487,China,Hubei Province,CN,China
+MOBI_488,China,Hunan Province,CN,China
+MOBI_489,China,Inner Mongolia Autonomous Region,CN,China
+MOBI_490,China,Jiangsu Province,CN,China
+MOBI_491,China,Jiangxi Province,CN,China
+MOBI_492,China,Jilin Province,CN,China
+MOBI_493,China,Liaoning Province,CN,China
+MOBI_494,China,Macau Special Administrative Region,CN,China
+MOBI_495,China,Ningxia Ningxia Hui Autonomous Region,CN,China
+MOBI_496,China,Qinghai Province,CN,China
+MOBI_497,China,Shaanxi Province,CN,China
+MOBI_498,China,Shandong Province,CN,China
+MOBI_499,China,Shanghai Municipality,CN,China
+MOBI_500,China,Shanxi Province,CN,China
+MOBI_501,China,Sichuan Province,CN,China
+MOBI_502,China,Tianjin Municipality,CN,China
+MOBI_503,China,Tibet Autonomous Region,CN,China
+MOBI_504,China,Xinjiang Uyghur Autonomous Region,CN,China
+MOBI_505,China,Yunnan Province,CN,China
+MOBI_506,China,Zhejiang Province,CN,China
+MOBI_507,Colombia,Amazonas,CO,Colombia
+MOBI_508,Colombia,Antioquia,CO,Colombia
+MOBI_509,Colombia,Arauca,CO,Colombia
+MOBI_510,Colombia,"Archipiélago de San Andrés, Providencia y Santa Catalina",CO,Colombia
+MOBI_511,Colombia,Atlántico,CO,Colombia
+MOBI_512,Colombia,Bogota Capital District,CO,Colombia
+MOBI_513,Colombia,Bolívar,CO,Colombia
+MOBI_514,Colombia,Boyacá,CO,Colombia
+MOBI_515,Colombia,Caldas,CO,Colombia
+MOBI_516,Colombia,Caquetá,CO,Colombia
+MOBI_517,Colombia,Casanare,CO,Colombia
+MOBI_518,Colombia,Cauca,CO,Colombia
+MOBI_519,Colombia,Cesar,CO,Colombia
+MOBI_520,Colombia,Chocó,CO,Colombia
+MOBI_521,Colombia,Córdoba,CO,Colombia
+MOBI_522,Colombia,Cundinamarca,CO,Colombia
+MOBI_523,Colombia,Guainía,CO,Colombia
+MOBI_524,Colombia,Guaviare,CO,Colombia
+MOBI_525,Colombia,Huila,CO,Colombia
+MOBI_526,Colombia,La Guajira,CO,Colombia
+MOBI_527,Colombia,Magdalena,CO,Colombia
+MOBI_528,Colombia,Meta,CO,Colombia
+MOBI_529,Colombia,Nariño,CO,Colombia
+MOBI_530,Colombia,Norte de Santander,CO,Colombia
+MOBI_531,Colombia,Putumayo,CO,Colombia
+MOBI_532,Colombia,Quindío,CO,Colombia
+MOBI_533,Colombia,Risaralda,CO,Colombia
+MOBI_534,Colombia,Santander,CO,Colombia
+MOBI_535,Colombia,Sucre,CO,Colombia
+MOBI_536,Colombia,Tolima,CO,Colombia
+MOBI_537,Colombia,Valle del Cauca,CO,Colombia
+MOBI_538,Colombia,Vaupés,CO,Colombia
+MOBI_539,Colombia,Vichada,CO,Colombia
+MOBI_540,Costa Rica,Provincia Alajuela,CR,Costa Rica
+MOBI_541,Costa Rica,Provincia Cartago,CR,Costa Rica
+MOBI_542,Costa Rica,Provincia Guanacaste,CR,Costa Rica
+MOBI_543,Costa Rica,Provincia Heredia,CR,Costa Rica
+MOBI_544,Costa Rica,Provincia Limón,CR,Costa Rica
+MOBI_545,Costa Rica,Provincia Puntarenas,CR,Costa Rica
+MOBI_546,Costa Rica,Provincia San José,CR,Costa Rica
+MOBI_547,Cuba,Artemisa,CU,Cuba
+MOBI_548,Cuba,Camagüey,CU,Cuba
+MOBI_549,Cuba,Ciego de Avila,CU,Cuba
+MOBI_550,Cuba,Cienfuegos,CU,Cuba
+MOBI_551,Cuba,Granma,CU,Cuba
+MOBI_552,Cuba,Guantánamo,CU,Cuba
+MOBI_553,Cuba,Havana,CU,Cuba
+MOBI_554,Cuba,Holguín,CU,Cuba
+MOBI_555,Cuba,Isle of Youth,CU,Cuba
+MOBI_556,Cuba,Las Tunas,CU,Cuba
+MOBI_557,Cuba,Matanzas,CU,Cuba
+MOBI_558,Cuba,Mayabeque,CU,Cuba
+MOBI_559,Cuba,Pinar del Rio,CU,Cuba
+MOBI_560,Cuba,Sancti Spiritus,CU,Cuba
+MOBI_561,Cuba,Santiago de Cuba,CU,Cuba
+MOBI_562,Cuba,Villa Clara,CU,Cuba
+MOBI_563,Cabo Verde,Boa Vista,CV,Cabo Verde
+MOBI_564,Cabo Verde,Brava,CV,Cabo Verde
+MOBI_565,Cabo Verde,Maio,CV,Cabo Verde
+MOBI_566,Cabo Verde,Mosteiros,CV,Cabo Verde
+MOBI_567,Cabo Verde,Paul,CV,Cabo Verde
+MOBI_568,Cabo Verde,Porto Novo,CV,Cabo Verde
+MOBI_569,Cabo Verde,Praia,CV,Cabo Verde
+MOBI_570,Cabo Verde,Ribeira Brava,CV,Cabo Verde
+MOBI_571,Cabo Verde,Ribeira Grande,CV,Cabo Verde
+MOBI_572,Cabo Verde,Ribeira Grande de Santiago,CV,Cabo Verde
+MOBI_573,Cabo Verde,Sal,CV,Cabo Verde
+MOBI_574,Cabo Verde,Santa Catarina,CV,Cabo Verde
+MOBI_575,Cabo Verde,Santa Catarina do Fogo,CV,Cabo Verde
+MOBI_576,Cabo Verde,Santa Cruz,CV,Cabo Verde
+MOBI_577,Cabo Verde,São Domingos,CV,Cabo Verde
+MOBI_578,Cabo Verde,São Filipe,CV,Cabo Verde
+MOBI_579,Cabo Verde,São Lourenço dos Órgãos,CV,Cabo Verde
+MOBI_580,Cabo Verde,São Miguel,CV,Cabo Verde
+MOBI_581,Cabo Verde,São Salvador do Mundo,CV,Cabo Verde
+MOBI_582,Cabo Verde,São Vicente,CV,Cabo Verde
+MOBI_583,Cabo Verde,Tarrafal,CV,Cabo Verde
+MOBI_584,Cabo Verde,Tarrafal de São Nicolau,CV,Cabo Verde
+MOBI_585,Cyprus,Famagusta,CY,Cyprus
+MOBI_586,Cyprus,Kyrenia,CY,Cyprus
+MOBI_587,Cyprus,Larnaca,CY,Cyprus
+MOBI_588,Cyprus,Limassol,CY,Cyprus
+MOBI_589,Cyprus,Nicosia,CY,Cyprus
+MOBI_590,Cyprus,Paphos,CY,Cyprus
+MOBI_591,Czechia,Hlavní město Praha,CZ,Czechia
+MOBI_592,Czechia,Jihočeský kraj,CZ,Czechia
+MOBI_593,Czechia,Jihomoravský kraj,CZ,Czechia
+MOBI_594,Czechia,Karlovarský kraj,CZ,Czechia
+MOBI_595,Czechia,Kraj Vysočina,CZ,Czechia
+MOBI_596,Czechia,Královéhradecký kraj,CZ,Czechia
+MOBI_597,Czechia,Liberecký kraj,CZ,Czechia
+MOBI_598,Czechia,Moravskoslezský kraj,CZ,Czechia
+MOBI_599,Czechia,Olomoucký kraj,CZ,Czechia
+MOBI_600,Czechia,Pardubický kraj,CZ,Czechia
+MOBI_601,Czechia,Plzeňský kraj,CZ,Czechia
+MOBI_602,Czechia,Středočeský kraj,CZ,Czechia
+MOBI_603,Czechia,Ústecký kraj,CZ,Czechia
+MOBI_604,Czechia,Zlínský kraj,CZ,Czechia
+MOBI_605,Germany,Baden-Württemberg,DE,Germany
+MOBI_606,Germany,Bayern,DE,Germany
+MOBI_607,Germany,Berlin,DE,Germany
+MOBI_608,Germany,Hamburg,DE,Germany
+MOBI_609,Germany,Hessen,DE,Germany
+MOBI_610,Germany,Mecklenburg-Vorpommern,DE,Germany
+MOBI_611,Germany,Niedersachsen,DE,Germany
+MOBI_612,Germany,Nordrhein-Westfalen,DE,Germany
+MOBI_613,Germany,Rheinland-Pfalz,DE,Germany
+MOBI_614,Germany,Saarland,DE,Germany
+MOBI_615,Germany,Sachsen,DE,Germany
+MOBI_616,Germany,Sachsen-Anhalt,DE,Germany
+MOBI_617,Germany,Schleswig-Holstein,DE,Germany
+MOBI_618,Germany,Thüringen,DE,Germany
+MOBI_619,Djibouti,Ali Sabieh,DJ,Djibouti
+MOBI_620,Djibouti,Arta,DJ,Djibouti
+MOBI_621,Djibouti,Dikhil,DJ,Djibouti
+MOBI_622,Djibouti,Obock,DJ,Djibouti
+MOBI_623,Djibouti,Tadjourah,DJ,Djibouti
+MOBI_624,Denmark,Hovedstaden,DK,Denmark
+MOBI_625,Denmark,Midtjylland,DK,Denmark
+MOBI_626,Denmark,Nordjylland,DK,Denmark
+MOBI_627,Denmark,Sjælland,DK,Denmark
+MOBI_628,Denmark,Syddanmark,DK,Denmark
+MOBI_629,Dominica,Saint Andrew,DM,Dominica
+MOBI_630,Dominica,Saint David,DM,Dominica
+MOBI_631,Dominica,Saint George,DM,Dominica
+MOBI_632,Dominica,Saint John,DM,Dominica
+MOBI_633,Dominica,Saint Joseph,DM,Dominica
+MOBI_634,Dominica,Saint Luke,DM,Dominica
+MOBI_635,Dominica,Saint Mark,DM,Dominica
+MOBI_636,Dominica,Saint Patrick,DM,Dominica
+MOBI_637,Dominica,Saint Paul,DM,Dominica
+MOBI_638,Dominica,Saint Peter,DM,Dominica
+MOBI_639,Dominican Republic (the),Azua,DO,Dominican Republic
+MOBI_640,Dominican Republic (the),Bahoruco,DO,Dominican Republic
+MOBI_641,Dominican Republic (the),Barahona,DO,Dominican Republic
+MOBI_642,Dominican Republic (the),Dajabón,DO,Dominican Republic
+MOBI_643,Dominican Republic (the),Duarte,DO,Dominican Republic
+MOBI_644,Dominican Republic (the),El Seybo,DO,Dominican Republic
+MOBI_645,Dominican Republic (the),Espaillat,DO,Dominican Republic
+MOBI_646,Dominican Republic (the),Hato Mayor,DO,Dominican Republic
+MOBI_647,Dominican Republic (the),Hermanas,DO,Dominican Republic
+MOBI_648,Dominican Republic (the),Independencia,DO,Dominican Republic
+MOBI_649,Dominican Republic (the),La Altagracia,DO,Dominican Republic
+MOBI_650,Dominican Republic (the),La Estrelleta,DO,Dominican Republic
+MOBI_651,Dominican Republic (the),La Romana,DO,Dominican Republic
+MOBI_652,Dominican Republic (the),La Vega,DO,Dominican Republic
+MOBI_653,Dominican Republic (the),María Trinidad Sánchez,DO,Dominican Republic
+MOBI_654,Dominican Republic (the),Monseñor Nouel,DO,Dominican Republic
+MOBI_655,Dominican Republic (the),Monte Cristi,DO,Dominican Republic
+MOBI_656,Dominican Republic (the),Monte Plata,DO,Dominican Republic
+MOBI_657,Dominican Republic (the),Pedernales,DO,Dominican Republic
+MOBI_658,Dominican Republic (the),Peravia,DO,Dominican Republic
+MOBI_659,Dominican Republic (the),Puerto Plata,DO,Dominican Republic
+MOBI_660,Dominican Republic (the),Samaná,DO,Dominican Republic
+MOBI_661,Dominican Republic (the),San Cristóbal,DO,Dominican Republic
+MOBI_662,Dominican Republic (the),San José de Ocoa,DO,Dominican Republic
+MOBI_663,Dominican Republic (the),San Juan,DO,Dominican Republic
+MOBI_664,Dominican Republic (the),San Pedro de Macorís,DO,Dominican Republic
+MOBI_665,Dominican Republic (the),Sánchez Ramírez,DO,Dominican Republic
+MOBI_666,Dominican Republic (the),Santiago,DO,Dominican Republic
+MOBI_667,Dominican Republic (the),Santiago Rodríguez,DO,Dominican Republic
+MOBI_668,Dominican Republic (the),Santo Domingo,DO,Dominican Republic
+MOBI_669,Dominican Republic (the),Valverde,DO,Dominican Republic
+MOBI_670,Algeria,Adrar,DZ,Algeria
+MOBI_671,Algeria,Aïn Defla,DZ,Algeria
+MOBI_672,Algeria,Aïn Témouchent,DZ,Algeria
+MOBI_673,Algeria,Algiers,DZ,Algeria
+MOBI_674,Algeria,Annaba,DZ,Algeria
+MOBI_675,Algeria,Batna,DZ,Algeria
+MOBI_676,Algeria,Béchar,DZ,Algeria
+MOBI_677,Algeria,Bejaia,DZ,Algeria
+MOBI_678,Algeria,Biskra,DZ,Algeria
+MOBI_679,Algeria,Blida,DZ,Algeria
+MOBI_680,Algeria,Bordj Bou Arreridj‎,DZ,Algeria
+MOBI_681,Algeria,Bouira,DZ,Algeria
+MOBI_682,Algeria,Boumerdès,DZ,Algeria
+MOBI_683,Algeria,Chlef,DZ,Algeria
+MOBI_684,Algeria,Constantine,DZ,Algeria
+MOBI_685,Algeria,Djelfa,DZ,Algeria
+MOBI_686,Algeria,El Bayadh,DZ,Algeria
+MOBI_687,Algeria,El Oued,DZ,Algeria
+MOBI_688,Algeria,El Tarf,DZ,Algeria
+MOBI_689,Algeria,Ghardaia,DZ,Algeria
+MOBI_690,Algeria,Guelma,DZ,Algeria
+MOBI_691,Algeria,Illizi,DZ,Algeria
+MOBI_692,Algeria,Jijel,DZ,Algeria
+MOBI_693,Algeria,Khenchela,DZ,Algeria
+MOBI_694,Algeria,Laghouat,DZ,Algeria
+MOBI_695,Algeria,Mascara,DZ,Algeria
+MOBI_696,Algeria,Médéa,DZ,Algeria
+MOBI_697,Algeria,Mila,DZ,Algeria
+MOBI_698,Algeria,Mostaganem,DZ,Algeria
+MOBI_699,Algeria,M'Sila,DZ,Algeria
+MOBI_700,Algeria,Naâma,DZ,Algeria
+MOBI_701,Algeria,Oran,DZ,Algeria
+MOBI_702,Algeria,Ouargla,DZ,Algeria
+MOBI_703,Algeria,Oum El Bouaghi,DZ,Algeria
+MOBI_704,Algeria,Relizane,DZ,Algeria
+MOBI_705,Algeria,Saïda,DZ,Algeria
+MOBI_706,Algeria,Sétif,DZ,Algeria
+MOBI_707,Algeria,Sidi Bel Abbès,DZ,Algeria
+MOBI_708,Algeria,Skikda,DZ,Algeria
+MOBI_709,Algeria,Souk Ahras,DZ,Algeria
+MOBI_710,Algeria,Tamanrasset,DZ,Algeria
+MOBI_711,Algeria,Tébessa,DZ,Algeria
+MOBI_712,Algeria,Tiaret,DZ,Algeria
+MOBI_713,Algeria,Tindouf,DZ,Algeria
+MOBI_714,Algeria,Tissemsilt,DZ,Algeria
+MOBI_715,Algeria,Tizi Ouzou,DZ,Algeria
+MOBI_716,Algeria,Tlemcen,DZ,Algeria
+MOBI_717,Ecuador,Azuay,EC,Ecuador
+MOBI_718,Ecuador,Bolívar,EC,Ecuador
+MOBI_719,Ecuador,Cañar,EC,Ecuador
+MOBI_720,Ecuador,Carchi,EC,Ecuador
+MOBI_721,Ecuador,Chimborazo,EC,Ecuador
+MOBI_722,Ecuador,Cotopaxi,EC,Ecuador
+MOBI_723,Ecuador,El Oro,EC,Ecuador
+MOBI_724,Ecuador,Esmeraldas,EC,Ecuador
+MOBI_725,Ecuador,Guayas,EC,Ecuador
+MOBI_726,Ecuador,Imbabura,EC,Ecuador
+MOBI_727,Ecuador,Loja,EC,Ecuador
+MOBI_728,Ecuador,Los Ríos,EC,Ecuador
+MOBI_729,Ecuador,Manabi,EC,Ecuador
+MOBI_730,Ecuador,Morona Santiago,EC,Ecuador
+MOBI_731,Ecuador,Napo,EC,Ecuador
+MOBI_732,Ecuador,Orellana,EC,Ecuador
+MOBI_733,Ecuador,Pastaza,EC,Ecuador
+MOBI_734,Ecuador,Pichincha,EC,Ecuador
+MOBI_735,Ecuador,Santa Elena,EC,Ecuador
+MOBI_736,Ecuador,Santo Domingo de los Tsáchilas,EC,Ecuador
+MOBI_737,Ecuador,Sucumbios,EC,Ecuador
+MOBI_738,Ecuador,Tungurahua,EC,Ecuador
+MOBI_739,Ecuador,Zamora Chinchipe,EC,Ecuador
+MOBI_740,Estonia,Harju maakond,EE,Estonia
+MOBI_741,Estonia,Hiiu maakond,EE,Estonia
+MOBI_742,Estonia,Ida-Viru maakond,EE,Estonia
+MOBI_743,Estonia,Järva maakond,EE,Estonia
+MOBI_744,Estonia,Jõgeva maakond,EE,Estonia
+MOBI_745,Estonia,Lääne maakond,EE,Estonia
+MOBI_746,Estonia,Lääne-Viru maakond,EE,Estonia
+MOBI_747,Estonia,Pärnu maakond,EE,Estonia
+MOBI_748,Estonia,Põlva maakond,EE,Estonia
+MOBI_749,Estonia,Rapla maakond,EE,Estonia
+MOBI_750,Estonia,Saare maakond,EE,Estonia
+MOBI_751,Estonia,Tartu maakond,EE,Estonia
+MOBI_752,Estonia,Valga maakond,EE,Estonia
+MOBI_753,Estonia,Viljandi maakond,EE,Estonia
+MOBI_754,Estonia,Võru maakond,EE,Estonia
+MOBI_755,Egypt,Al Sharqia Governorate,EG,Egypt
+MOBI_756,Egypt,Alexandria Governorate,EG,Egypt
+MOBI_757,Egypt,Aswan Governorate,EG,Egypt
+MOBI_758,Egypt,Asyut Governorate,EG,Egypt
+MOBI_759,Egypt,Beheira Governorate,EG,Egypt
+MOBI_760,Egypt,Beni Suef Governorate,EG,Egypt
+MOBI_761,Egypt,Cairo Governorate,EG,Egypt
+MOBI_762,Egypt,Dakahlia Governorate,EG,Egypt
+MOBI_763,Egypt,Damietta Governorate,EG,Egypt
+MOBI_764,Egypt,Faiyum Governorate,EG,Egypt
+MOBI_765,Egypt,Gharbiyya Governorate,EG,Egypt
+MOBI_766,Egypt,Giza Governorate,EG,Egypt
+MOBI_767,Egypt,Ismailia Governorate,EG,Egypt
+MOBI_768,Egypt,Kafr el-Sheikh Governorate,EG,Egypt
+MOBI_769,Egypt,Luxor Governate,EG,Egypt
+MOBI_770,Egypt,Matrouh Governorate,EG,Egypt
+MOBI_771,Egypt,Minya Governate,EG,Egypt
+MOBI_772,Egypt,Monufia Governorate,EG,Egypt
+MOBI_773,Egypt,New Valley Governorate,EG,Egypt
+MOBI_774,Egypt,North Sinai Governorate,EG,Egypt
+MOBI_775,Egypt,Port Said Governorate,EG,Egypt
+MOBI_776,Egypt,Qalyubia Governorate,EG,Egypt
+MOBI_777,Egypt,Qena Governorate,EG,Egypt
+MOBI_778,Egypt,Red Sea Governorate,EG,Egypt
+MOBI_779,Egypt,Sohag Governorate,EG,Egypt
+MOBI_780,Egypt,South Sinai Governorate,EG,Egypt
+MOBI_781,Egypt,Suez Governorate,EG,Egypt
+MOBI_782,Western Sahara,Western Sahara,EH,Western Sahara
+MOBI_783,Eritrea,Anseba Region,ER,Eritrea
+MOBI_784,Eritrea,Debub Region,ER,Eritrea
+MOBI_785,Eritrea,Gash-Barka Region,ER,Eritrea
+MOBI_786,Eritrea,Maekel Region,ER,Eritrea
+MOBI_787,Eritrea,Northen Red Sea Region,ER,Eritrea
+MOBI_788,Eritrea,Southern Red Sea Region,ER,Eritrea
+MOBI_789,Spain,Andalucía,ES,Spain
+MOBI_790,Spain,Aragón,ES,Spain
+MOBI_791,Spain,Cantabria,ES,Spain
+MOBI_792,Spain,Castilla y León,ES,Spain
+MOBI_793,Spain,Castilla-La Mancha,ES,Spain
+MOBI_794,Spain,Cataluña/Catalunya,ES,Spain
+MOBI_795,Spain,Ciudad Autónoma de Ceuta,ES,Spain
+MOBI_796,Spain,Ciudad Autónoma de Melilla,ES,Spain
+MOBI_797,Spain,Comunidad de Madrid,ES,Spain
+MOBI_798,Spain,Comunidad Foral de Navarra,ES,Spain
+MOBI_799,Spain,Comunitat Valenciana,ES,Spain
+MOBI_800,Spain,Extremadura,ES,Spain
+MOBI_801,Spain,Galicia,ES,Spain
+MOBI_802,Spain,Illes Balears,ES,Spain
+MOBI_803,Spain,La Rioja,ES,Spain
+MOBI_804,Spain,País Vasco/Euskadi,ES,Spain
+MOBI_805,Spain,Principado de Asturias,ES,Spain
+MOBI_806,Spain,Región de Murcia,ES,Spain
+MOBI_807,Ethiopia,Addis Ababa,ET,Ethiopia
+MOBI_808,Ethiopia,Afar,ET,Ethiopia
+MOBI_809,Ethiopia,Amhara,ET,Ethiopia
+MOBI_810,Ethiopia,Beneshangul Gumu,ET,Ethiopia
+MOBI_811,Ethiopia,Dire Dawa,ET,Ethiopia
+MOBI_812,Ethiopia,Gambela,ET,Ethiopia
+MOBI_813,Ethiopia,Hareri,ET,Ethiopia
+MOBI_814,Ethiopia,Oromia,ET,Ethiopia
+MOBI_815,Ethiopia,SNNPR,ET,Ethiopia
+MOBI_816,Ethiopia,Somali,ET,Ethiopia
+MOBI_817,Ethiopia,Tigray,ET,Ethiopia
+MOBI_818,Finland,Åland Islands,FI,Finland
+MOBI_819,Finland,Central Finland,FI,Finland
+MOBI_820,Finland,Finland Proper,FI,Finland
+MOBI_821,Finland,Kainuu,FI,Finland
+MOBI_822,Finland,Keski-Pohjanmaa,FI,Finland
+MOBI_823,Finland,Kymenlaakso,FI,Finland
+MOBI_824,Finland,Lapland,FI,Finland
+MOBI_825,Finland,North Karelia,FI,Finland
+MOBI_826,Finland,Northern Ostrobothnia,FI,Finland
+MOBI_827,Finland,Northern Savonia,FI,Finland
+MOBI_828,Finland,Ostrobothnia,FI,Finland
+MOBI_829,Finland,Päijät-Häme,FI,Finland
+MOBI_830,Finland,Pirkanmaa,FI,Finland
+MOBI_831,Finland,Satakunta,FI,Finland
+MOBI_832,Finland,South Karelia,FI,Finland
+MOBI_833,Finland,South Ostrobothnia,FI,Finland
+MOBI_834,Finland,Southern Savonia,FI,Finland
+MOBI_835,Finland,Tavastia Proper,FI,Finland
+MOBI_836,Finland,Uusimaa,FI,Finland
+MOBI_837,Fiji,Central,FJ,Fiji
+MOBI_838,Fiji,Northern,FJ,Fiji
+MOBI_839,Fiji,Western,FJ,Fiji
+MOBI_840,Micronesia (Federated States of),Chuuk,FM,"Micronesia, Fed States of"
+MOBI_841,Micronesia (Federated States of),Kosrae,FM,"Micronesia, Fed States of"
+MOBI_842,Micronesia (Federated States of),Pohnpei,FM,"Micronesia, Fed States of"
+MOBI_843,Micronesia (Federated States of),Yap,FM,"Micronesia, Fed States of"
+MOBI_844,France,Auvergne-Rhône-Alpes,FR,France
+MOBI_845,France,Bourgogne-Franche-Comté,FR,France
+MOBI_846,France,Bretagne,FR,France
+MOBI_847,France,Centre-Val de Loire,FR,France
+MOBI_848,France,Corse,FR,France
+MOBI_849,France,Grand Est,FR,France
+MOBI_850,France,Hauts-de-France,FR,France
+MOBI_851,France,Île-de-France,FR,France
+MOBI_852,France,Normandie,FR,France
+MOBI_853,France,Nouvelle-Aquitaine,FR,France
+MOBI_854,France,Occitanie,FR,France
+MOBI_855,France,Pays de la Loire,FR,France
+MOBI_856,France,Provence-Alpes-Côte d'Azur,FR,France
+MOBI_857,Gabon,Estuaire,GA,Gabon
+MOBI_858,Gabon,Haut-Ogooué,GA,Gabon
+MOBI_859,Gabon,Moyen-Ogooué,GA,Gabon
+MOBI_860,Gabon,Ngounié,GA,Gabon
+MOBI_861,Gabon,Nyanga,GA,Gabon
+MOBI_862,Gabon,Ogooué-Ivindo	,GA,Gabon
+MOBI_863,Gabon,Ogooué-Lolo,GA,Gabon
+MOBI_864,Gabon,Ogooué-Maritime,GA,Gabon
+MOBI_865,Gabon,Woleu-Ntem,GA,Gabon
+MOBI_866,United Kingdom,England,GB,United Kingdom
+MOBI_867,United Kingdom,Northern Ireland,GB,United Kingdom
+MOBI_868,United Kingdom,Scotland,GB,United Kingdom
+MOBI_869,United Kingdom,Wales,GB,United Kingdom
+MOBI_870,Grenada,Saint Andrew,GD,Grenada
+MOBI_871,Grenada,Saint David,GD,Grenada
+MOBI_872,Grenada,Saint George,GD,Grenada
+MOBI_873,Grenada,Saint John,GD,Grenada
+MOBI_874,Grenada,Saint Mark,GD,Grenada
+MOBI_875,Grenada,Saint Patrick,GD,Grenada
+MOBI_876,Grenada,Southern Grenadine Islands,GD,Grenada
+MOBI_877,Georgia,Abkhazia,GE,Georgia
+MOBI_878,Georgia,Adjara,GE,Georgia
+MOBI_879,Georgia,Guria,GE,Georgia
+MOBI_880,Georgia,Imereti,GE,Georgia
+MOBI_881,Georgia,Kakheti,GE,Georgia
+MOBI_882,Georgia,Kvemo Kartli,GE,Georgia
+MOBI_883,Georgia,Mtskheta-Mtianeti,GE,Georgia
+MOBI_884,Georgia,Racha-Lechkhumi and Kvemo Svaneti,GE,Georgia
+MOBI_885,Georgia,Samegrelo-Zemo Svaneti,GE,Georgia
+MOBI_886,Georgia,Samtskhe–Javakheti,GE,Georgia
+MOBI_887,Georgia,Shida Kartli,GE,Georgia
+MOBI_888,Georgia,Tbilisi,GE,Georgia
+MOBI_889,Ghana,Ahafo Region,GH,Ghana
+MOBI_890,Ghana,Ashanti Region,GH,Ghana
+MOBI_891,Ghana,Bono East Region,GH,Ghana
+MOBI_892,Ghana,Bono Region,GH,Ghana
+MOBI_893,Ghana,Central Region,GH,Ghana
+MOBI_894,Ghana,Eastern Region,GH,Ghana
+MOBI_895,Ghana,Greater Accra Region,GH,Ghana
+MOBI_896,Ghana,North East Region,GH,Ghana
+MOBI_897,Ghana,Northern Region,GH,Ghana
+MOBI_898,Ghana,Oti Region,GH,Ghana
+MOBI_899,Ghana,Savannah Region,GH,Ghana
+MOBI_900,Ghana,Upper East Region,GH,Ghana
+MOBI_901,Ghana,Upper West Region,GH,Ghana
+MOBI_902,Ghana,Volta Region,GH,Ghana
+MOBI_903,Ghana,Western North Region,GH,Ghana
+MOBI_904,Ghana,Western Region,GH,Ghana
+MOBI_905,Greenland,Avannaata,GL,Greenland
+MOBI_906,Greenland,Kujalleq,GL,Greenland
+MOBI_907,Greenland,Northeast Greenland National Park,GL,Greenland
+MOBI_908,Greenland,Qeqertalik,GL,Greenland
+MOBI_909,Greenland,Qeqqata,GL,Greenland
+MOBI_910,Greenland,Sermersooq,GL,Greenland
+MOBI_911,Gambia (the),Banjul,GM,"Gambia, The"
+MOBI_912,Gambia (the),Basse,GM,"Gambia, The"
+MOBI_913,Gambia (the),Brikama,GM,"Gambia, The"
+MOBI_914,Gambia (the),Janjanbureh,GM,"Gambia, The"
+MOBI_915,Gambia (the),Kanifing,GM,"Gambia, The"
+MOBI_916,Gambia (the),Kerewan,GM,"Gambia, The"
+MOBI_917,Gambia (the),Kuntaur,GM,"Gambia, The"
+MOBI_918,Gambia (the),Mansakonko,GM,"Gambia, The"
+MOBI_919,Guinea,Boke,GN,Guinea
+MOBI_920,Guinea,Conakry,GN,Guinea
+MOBI_921,Guinea,Faranah,GN,Guinea
+MOBI_922,Guinea,Kankan,GN,Guinea
+MOBI_923,Guinea,Kindia,GN,Guinea
+MOBI_924,Guinea,Labe,GN,Guinea
+MOBI_925,Guinea,Mamou,GN,Guinea
+MOBI_926,Guinea,Nzerekore,GN,Guinea
+MOBI_927,Equatorial Guinea,Annobón,GQ,Equatorial Guinea
+MOBI_928,Equatorial Guinea,Bioko Norte,GQ,Equatorial Guinea
+MOBI_929,Equatorial Guinea,Bioko Sur,GQ,Equatorial Guinea
+MOBI_930,Equatorial Guinea,Centro Sur Province,GQ,Equatorial Guinea
+MOBI_931,Equatorial Guinea,Kié-Ntem Province,GQ,Equatorial Guinea
+MOBI_932,Equatorial Guinea,Litoral Province,GQ,Equatorial Guinea
+MOBI_933,Equatorial Guinea,Wele-Nzas Province,GQ,Equatorial Guinea
+MOBI_934,Greece,Agion Oros,GR,Greece
+MOBI_935,Greece,Crete,GR,Greece
+MOBI_936,Greece,Epirus-Western Macedonia,GR,Greece
+MOBI_937,Greece,Macedonia-Thrace,GR,Greece
+MOBI_938,Greece,Peloponisos-W. Greece & Ionian,GR,Greece
+MOBI_939,Greece,Thessalia-Central Greece,GR,Greece
+MOBI_940,Guatemala,Alta Verapaz,GT,Guatemala
+MOBI_941,Guatemala,Baja Verapaz,GT,Guatemala
+MOBI_942,Guatemala,Chimaltenango,GT,Guatemala
+MOBI_943,Guatemala,Chiquimula,GT,Guatemala
+MOBI_944,Guatemala,El Progreso,GT,Guatemala
+MOBI_945,Guatemala,Escuintla,GT,Guatemala
+MOBI_946,Guatemala,Guatemala,GT,Guatemala
+MOBI_947,Guatemala,Huehuetenango,GT,Guatemala
+MOBI_948,Guatemala,Izabal,GT,Guatemala
+MOBI_949,Guatemala,Jalapa,GT,Guatemala
+MOBI_950,Guatemala,Jutiapa,GT,Guatemala
+MOBI_951,Guatemala,Petén,GT,Guatemala
+MOBI_952,Guatemala,Quetzaltenango,GT,Guatemala
+MOBI_953,Guatemala,Quiché,GT,Guatemala
+MOBI_954,Guatemala,Retalhuleu,GT,Guatemala
+MOBI_955,Guatemala,Sacatepéquez,GT,Guatemala
+MOBI_956,Guatemala,San Marcos,GT,Guatemala
+MOBI_957,Guatemala,Santa Rosa,GT,Guatemala
+MOBI_958,Guatemala,Sololá,GT,Guatemala
+MOBI_959,Guatemala,Suchitepéquez,GT,Guatemala
+MOBI_960,Guatemala,Totonicapán,GT,Guatemala
+MOBI_961,Guatemala,Zacapa,GT,Guatemala
+MOBI_962,Guinea-Bissau,Bafatá,GW,Guinea-Bissau
+MOBI_963,Guinea-Bissau,Biombo,GW,Guinea-Bissau
+MOBI_964,Guinea-Bissau,Bissau,GW,Guinea-Bissau
+MOBI_965,Guinea-Bissau,Bolama,GW,Guinea-Bissau
+MOBI_966,Guinea-Bissau,Cacheu,GW,Guinea-Bissau
+MOBI_967,Guinea-Bissau,Gabu,GW,Guinea-Bissau
+MOBI_968,Guinea-Bissau,Oio,GW,Guinea-Bissau
+MOBI_969,Guinea-Bissau,Quinara,GW,Guinea-Bissau
+MOBI_970,Guinea-Bissau,Tombali,GW,Guinea-Bissau
+MOBI_971,Guyana,Barina-Waini,GY,Guyana
+MOBI_972,Guyana,Cuyuni-Mazaruni,GY,Guyana
+MOBI_973,Guyana,Demerara-Mahaica,GY,Guyana
+MOBI_974,Guyana,East Berbice-Corentyne,GY,Guyana
+MOBI_975,Guyana,Essequibo Islands-West Demerara,GY,Guyana
+MOBI_976,Guyana,Mahaica-Berbice,GY,Guyana
+MOBI_977,Guyana,Pomeroon-Supenaam,GY,Guyana
+MOBI_978,Guyana,Potaro-Siparuni,GY,Guyana
+MOBI_979,Guyana,Upper Demerara-Berbice,GY,Guyana
+MOBI_980,Guyana,Upper Takutu-Upper Essequibo,GY,Guyana
+MOBI_981,Honduras,Atlántida,HN,Honduras
+MOBI_982,Honduras,Bay Islands,HN,Honduras
+MOBI_983,Honduras,Choluteca,HN,Honduras
+MOBI_984,Honduras,Colón,HN,Honduras
+MOBI_985,Honduras,Comayagua,HN,Honduras
+MOBI_986,Honduras,Copán,HN,Honduras
+MOBI_987,Honduras,Cortés,HN,Honduras
+MOBI_988,Honduras,El Paraíso,HN,Honduras
+MOBI_989,Honduras,Francisco Morazán,HN,Honduras
+MOBI_990,Honduras,Gracias a Dios,HN,Honduras
+MOBI_991,Honduras,Intibucá,HN,Honduras
+MOBI_992,Honduras,La Paz,HN,Honduras
+MOBI_993,Honduras,Lempira,HN,Honduras
+MOBI_994,Honduras,Ocotepeque,HN,Honduras
+MOBI_995,Honduras,Olancho,HN,Honduras
+MOBI_996,Honduras,Santa Bárbara,HN,Honduras
+MOBI_997,Honduras,Valle,HN,Honduras
+MOBI_998,Honduras,Yoro,HN,Honduras
+MOBI_999,Croatia,Bjelovar-Bilogora,HR,Croatia
+MOBI_1000,Croatia,Brod-Posavina,HR,Croatia
+MOBI_1001,Croatia,City of Zagreb,HR,Croatia
+MOBI_1002,Croatia,Dubrovnik-Neretva,HR,Croatia
+MOBI_1003,Croatia,Istria,HR,Croatia
+MOBI_1004,Croatia,Karlovac,HR,Croatia
+MOBI_1005,Croatia,Koprivnica-Križevci,HR,Croatia
+MOBI_1006,Croatia,Krapina-Zagorje,HR,Croatia
+MOBI_1007,Croatia,Lika-Senj,HR,Croatia
+MOBI_1008,Croatia,Međimurje,HR,Croatia
+MOBI_1009,Croatia,Osijek-Baranja,HR,Croatia
+MOBI_1010,Croatia,Požega-Slavonia,HR,Croatia
+MOBI_1011,Croatia,Primorje-Gorski Kotar,HR,Croatia
+MOBI_1012,Croatia,Šibenik-Knin,HR,Croatia
+MOBI_1013,Croatia,Sisak-Moslavina,HR,Croatia
+MOBI_1014,Croatia,Split-Dalmatia,HR,Croatia
+MOBI_1015,Croatia,Varaždin,HR,Croatia
+MOBI_1016,Croatia,Virovitica-Podravina,HR,Croatia
+MOBI_1017,Croatia,Vukovar-Syrmia,HR,Croatia
+MOBI_1018,Croatia,Zadar County,HR,Croatia
+MOBI_1019,Croatia,Zagreb County,HR,Croatia
+MOBI_1020,Croatia,Sisak-Moslavina,HR,Croatia
+MOBI_1021,Haiti,Artibonite Department,HT,Haiti
+MOBI_1022,Haiti,Centre Department,HT,Haiti
+MOBI_1023,Haiti,Département de la Grande-Anse,HT,Haiti
+MOBI_1024,Haiti,Département de l'Ouest,HT,Haiti
+MOBI_1025,Haiti,Département des Nippes,HT,Haiti
+MOBI_1026,Haiti,Département du Nord,HT,Haiti
+MOBI_1027,Haiti,Département du Sud-Est,HT,Haiti
+MOBI_1028,Haiti,Nord-Est Department,HT,Haiti
+MOBI_1029,Haiti,Nord-Ouest Department,HT,Haiti
+MOBI_1030,Haiti,Sud Department,HT,Haiti
+MOBI_1031,Hungary,Bács-Kiskun,HU,Hungary
+MOBI_1032,Hungary,Baranya,HU,Hungary
+MOBI_1033,Hungary,Békés,HU,Hungary
+MOBI_1034,Hungary,Borsod-Abaúj-Zemplén,HU,Hungary
+MOBI_1035,Hungary,Csongrád-Csanád,HU,Hungary
+MOBI_1036,Hungary,Fejér,HU,Hungary
+MOBI_1037,Hungary,Győr-Moson-Sopron,HU,Hungary
+MOBI_1038,Hungary,Hajdú-Bihar,HU,Hungary
+MOBI_1039,Hungary,Heves,HU,Hungary
+MOBI_1040,Hungary,Jász-Nagykun-Szolnok,HU,Hungary
+MOBI_1041,Hungary,Komárom-Esztergom,HU,Hungary
+MOBI_1042,Hungary,Nógrád,HU,Hungary
+MOBI_1043,Hungary,Pest,HU,Hungary
+MOBI_1044,Hungary,Somogy,HU,Hungary
+MOBI_1045,Hungary,Szabolcs-Szatmár-Bereg,HU,Hungary
+MOBI_1046,Hungary,Tolna,HU,Hungary
+MOBI_1047,Hungary,Vas,HU,Hungary
+MOBI_1048,Hungary,Veszprém,HU,Hungary
+MOBI_1049,Hungary,Zala,HU,Hungary
+MOBI_1050,Indonesia,Aceh,ID,Indonesia
+MOBI_1051,Indonesia,Bali,ID,Indonesia
+MOBI_1052,Indonesia,Bangka-Belitung Islands,ID,Indonesia
+MOBI_1053,Indonesia,Banten,ID,Indonesia
+MOBI_1054,Indonesia,Bengkulu,ID,Indonesia
+MOBI_1055,Indonesia,Central Java,ID,Indonesia
+MOBI_1056,Indonesia,Central Kalimantan,ID,Indonesia
+MOBI_1057,Indonesia,Central Sulawesi,ID,Indonesia
+MOBI_1058,Indonesia,East Java,ID,Indonesia
+MOBI_1059,Indonesia,East Kalimantan,ID,Indonesia
+MOBI_1060,Indonesia,East Nusa Tenggara,ID,Indonesia
+MOBI_1061,Indonesia,Gorontalo,ID,Indonesia
+MOBI_1062,Indonesia,Jakarta Special Capital Region,ID,Indonesia
+MOBI_1063,Indonesia,Jambi,ID,Indonesia
+MOBI_1064,Indonesia,Lampung,ID,Indonesia
+MOBI_1065,Indonesia,Maluku,ID,Indonesia
+MOBI_1066,Indonesia,North Kalimantan,ID,Indonesia
+MOBI_1067,Indonesia,North Maluku,ID,Indonesia
+MOBI_1068,Indonesia,North Sulawesi,ID,Indonesia
+MOBI_1069,Indonesia,North Sumatra,ID,Indonesia
+MOBI_1070,Indonesia,Papua,ID,Indonesia
+MOBI_1071,Indonesia,Riau,ID,Indonesia
+MOBI_1072,Indonesia,Riau Islands,ID,Indonesia
+MOBI_1073,Indonesia,South Kalimantan,ID,Indonesia
+MOBI_1074,Indonesia,South Sulawesi,ID,Indonesia
+MOBI_1075,Indonesia,South Sumatra,ID,Indonesia
+MOBI_1076,Indonesia,Southeast Sulawesi,ID,Indonesia
+MOBI_1077,Indonesia,Special Region of Yogyakarta,ID,Indonesia
+MOBI_1078,Indonesia,West Java,ID,Indonesia
+MOBI_1079,Indonesia,West Kalimantan,ID,Indonesia
+MOBI_1080,Indonesia,West Nusa Tenggara,ID,Indonesia
+MOBI_1081,Indonesia,West Papua,ID,Indonesia
+MOBI_1082,Indonesia,West Sulawesi,ID,Indonesia
+MOBI_1083,Indonesia,West Sumatra,ID,Indonesia
+MOBI_1084,Ireland,Connacht,IE,Ireland
+MOBI_1085,Ireland,Leinster,IE,Ireland
+MOBI_1086,Ireland,Munster,IE,Ireland
+MOBI_1087,Ireland,Ulster,IE,Ireland
+MOBI_1088,Israel,Central District,IL,Israel
+MOBI_1089,Israel,Haifa,IL,Israel
+MOBI_1090,Israel,Jerusalem District,IL,Israel
+MOBI_1091,Israel,Northern District,IL,Israel
+MOBI_1092,Israel,Southern District,IL,Israel
+MOBI_1093,Israel,Tel Aviv,IL,Israel
+MOBI_1094,India,Andaman and Nicobar Islands,IN,India
+MOBI_1095,India,Andhra Pradesh,IN,India
+MOBI_1096,India,Arunāchal Pradesh,IN,India
+MOBI_1097,India,Assam,IN,India
+MOBI_1098,India,Bihār,IN,India
+MOBI_1099,India,Chandīgarh,IN,India
+MOBI_1100,India,Chhattīsgarh,IN,India
+MOBI_1101,India,Dādra and Nagar Haveli and Damān and Diu,IN,India
+MOBI_1102,India,Delhi,IN,India
+MOBI_1103,India,Goa,IN,India
+MOBI_1104,India,Gujarāt,IN,India
+MOBI_1105,India,Haryāna,IN,India
+MOBI_1106,India,Himāchal Pradesh,IN,India
+MOBI_1107,India,Jammu and Kashmīr,IN,India
+MOBI_1108,India,Jhārkhand,IN,India
+MOBI_1109,India,Karnātaka,IN,India
+MOBI_1110,India,Kerala,IN,India
+MOBI_1111,India,Ladākh,IN,India
+MOBI_1112,India,Madhya Pradesh,IN,India
+MOBI_1113,India,Mahārāshtra,IN,India
+MOBI_1114,India,Manipur,IN,India
+MOBI_1115,India,Meghālaya,IN,India
+MOBI_1116,India,Mizoram,IN,India
+MOBI_1117,India,Nāgāland,IN,India
+MOBI_1118,India,Odisha,IN,India
+MOBI_1119,India,Puducherry,IN,India
+MOBI_1120,India,Punjab,IN,India
+MOBI_1121,India,Rājasthān,IN,India
+MOBI_1122,India,Sikkim,IN,India
+MOBI_1123,India,Tamil Nādu,IN,India
+MOBI_1124,India,Telangāna,IN,India
+MOBI_1125,India,Tripura,IN,India
+MOBI_1126,India,Uttar Pradesh,IN,India
+MOBI_1127,India,Uttarākhand,IN,India
+MOBI_1128,India,West Bengal,IN,India
+MOBI_1129,Iraq,Al-Anbar,IQ,Iraq
+MOBI_1130,Iraq,Al-Basrah,IQ,Iraq
+MOBI_1131,Iraq,Al-Muthanna,IQ,Iraq
+MOBI_1132,Iraq,Al-Qadisiyah,IQ,Iraq
+MOBI_1133,Iraq,Al-Sulaimaniyah,IQ,Iraq
+MOBI_1134,Iraq,An-Najaf,IQ,Iraq
+MOBI_1135,Iraq,Babil,IQ,Iraq
+MOBI_1136,Iraq,Baghdad,IQ,Iraq
+MOBI_1137,Iraq,Dhi Qar,IQ,Iraq
+MOBI_1138,Iraq,Diyala,IQ,Iraq
+MOBI_1139,Iraq,Dohuk,IQ,Iraq
+MOBI_1140,Iraq,Erbil,IQ,Iraq
+MOBI_1141,Iraq,Karbala,IQ,Iraq
+MOBI_1142,Iraq,Kirkuk,IQ,Iraq
+MOBI_1143,Iraq,Maysan,IQ,Iraq
+MOBI_1144,Iraq,Ninawa,IQ,Iraq
+MOBI_1145,Iraq,Salah al-Din,IQ,Iraq
+MOBI_1146,Iraq,Wasit,IQ,Iraq
+MOBI_1147,Iran (Islamic Republic of),Alborz,IR,Iran
+MOBI_1148,Iran (Islamic Republic of),Ardabil,IR,Iran
+MOBI_1149,Iran (Islamic Republic of),Bushehr,IR,Iran
+MOBI_1150,Iran (Islamic Republic of),Chaharmahal and Bakhtiari,IR,Iran
+MOBI_1151,Iran (Islamic Republic of),East Azerbaijan,IR,Iran
+MOBI_1152,Iran (Islamic Republic of),Fars,IR,Iran
+MOBI_1153,Iran (Islamic Republic of),Gilan,IR,Iran
+MOBI_1154,Iran (Islamic Republic of),Golestan,IR,Iran
+MOBI_1155,Iran (Islamic Republic of),Hamadan,IR,Iran
+MOBI_1156,Iran (Islamic Republic of),Hormozgan,IR,Iran
+MOBI_1157,Iran (Islamic Republic of),Ilam,IR,Iran
+MOBI_1158,Iran (Islamic Republic of),Isfahan,IR,Iran
+MOBI_1159,Iran (Islamic Republic of),Kerman,IR,Iran
+MOBI_1160,Iran (Islamic Republic of),Kermanshah,IR,Iran
+MOBI_1161,Iran (Islamic Republic of),Khuzestan,IR,Iran
+MOBI_1162,Iran (Islamic Republic of),Kohgiluyeh and Boyer-Ahmad,IR,Iran
+MOBI_1163,Iran (Islamic Republic of),Kurdistan,IR,Iran
+MOBI_1164,Iran (Islamic Republic of),Lorestan,IR,Iran
+MOBI_1165,Iran (Islamic Republic of),Markazi,IR,Iran
+MOBI_1166,Iran (Islamic Republic of),Mazandaran,IR,Iran
+MOBI_1167,Iran (Islamic Republic of),North Khorasan,IR,Iran
+MOBI_1168,Iran (Islamic Republic of),Qazvin,IR,Iran
+MOBI_1169,Iran (Islamic Republic of),Qom,IR,Iran
+MOBI_1170,Iran (Islamic Republic of),Razavi Khorasan,IR,Iran
+MOBI_1171,Iran (Islamic Republic of),Semnan,IR,Iran
+MOBI_1172,Iran (Islamic Republic of),Sistan and Baluchestan,IR,Iran
+MOBI_1173,Iran (Islamic Republic of),South Khorasan,IR,Iran
+MOBI_1174,Iran (Islamic Republic of),Tehran,IR,Iran
+MOBI_1175,Iran (Islamic Republic of),West Azerbaijan,IR,Iran
+MOBI_1176,Iran (Islamic Republic of),Yazd,IR,Iran
+MOBI_1177,Iran (Islamic Republic of),Zanjan,IR,Iran
+MOBI_1178,Iceland,Capital Region,IS,Iceland
+MOBI_1179,Iceland,Eastern Region,IS,Iceland
+MOBI_1180,Iceland,Northeastern Region,IS,Iceland
+MOBI_1181,Iceland,Northwestern Region,IS,Iceland
+MOBI_1182,Iceland,Southern Peninsula,IS,Iceland
+MOBI_1183,Iceland,Southern Region,IS,Iceland
+MOBI_1184,Iceland,Western Region,IS,Iceland
+MOBI_1185,Iceland,Westfjords,IS,Iceland
+MOBI_1186,Italy,Centro,IT,Italy
+MOBI_1187,Italy,Isole,IT,Italy
+MOBI_1188,Italy,Nord-Est,IT,Italy
+MOBI_1189,Italy,Nord-Ovest,IT,Italy
+MOBI_1190,Italy,Sud,IT,Italy
+MOBI_1191,Jamaica,Clarendon,JM,Jamaica
+MOBI_1192,Jamaica,Hanover,JM,Jamaica
+MOBI_1193,Jamaica,Kingston,JM,Jamaica
+MOBI_1194,Jamaica,Manchester,JM,Jamaica
+MOBI_1195,Jamaica,Portland,JM,Jamaica
+MOBI_1196,Jamaica,Saint Andrew,JM,Jamaica
+MOBI_1197,Jamaica,Saint Ann,JM,Jamaica
+MOBI_1198,Jamaica,Saint Catherine,JM,Jamaica
+MOBI_1199,Jamaica,Saint Elizabeth,JM,Jamaica
+MOBI_1200,Jamaica,Saint James,JM,Jamaica
+MOBI_1201,Jamaica,Saint Mary,JM,Jamaica
+MOBI_1202,Jamaica,Saint Thomas,JM,Jamaica
+MOBI_1203,Jamaica,Trelawny,JM,Jamaica
+MOBI_1204,Jamaica,Westmoreland,JM,Jamaica
+MOBI_1205,Jordan,Ajloun,JO,Jordan
+MOBI_1206,Jordan,Amman,JO,Jordan
+MOBI_1207,Jordan,Aqaba,JO,Jordan
+MOBI_1208,Jordan,Balqa,JO,Jordan
+MOBI_1209,Jordan,Irbid,JO,Jordan
+MOBI_1210,Jordan,Jerash,JO,Jordan
+MOBI_1211,Jordan,Karak,JO,Jordan
+MOBI_1212,Jordan,Ma'an,JO,Jordan
+MOBI_1213,Jordan,Madaba,JO,Jordan
+MOBI_1214,Jordan,Mafraq,JO,Jordan
+MOBI_1215,Jordan,Tafilah,JO,Jordan
+MOBI_1216,Jordan,Zarqa,JO,Jordan
+MOBI_1217,Japan,Aichi Prefecture,JP,Japan
+MOBI_1218,Japan,Akita,JP,Japan
+MOBI_1219,Japan,Aomori,JP,Japan
+MOBI_1220,Japan,Chiba,JP,Japan
+MOBI_1221,Japan,Ehime Prefecture,JP,Japan
+MOBI_1222,Japan,Fukui Prefecture,JP,Japan
+MOBI_1223,Japan,Fukuoka Prefecture,JP,Japan
+MOBI_1224,Japan,Fukushima,JP,Japan
+MOBI_1225,Japan,Gifu Prefecture,JP,Japan
+MOBI_1226,Japan,Gunma,JP,Japan
+MOBI_1227,Japan,Hiroshima,JP,Japan
+MOBI_1228,Japan,Hokkaido,JP,Japan
+MOBI_1229,Japan,Hyogo Prefecture,JP,Japan
+MOBI_1230,Japan,Ibaraki,JP,Japan
+MOBI_1231,Japan,Ishikawa Prefecture,JP,Japan
+MOBI_1232,Japan,Iwate,JP,Japan
+MOBI_1233,Japan,Kagawa Prefecture,JP,Japan
+MOBI_1234,Japan,Kagoshima Prefecture,JP,Japan
+MOBI_1235,Japan,Kanagawa,JP,Japan
+MOBI_1236,Japan,Kochi Prefecture,JP,Japan
+MOBI_1237,Japan,Kumamoto,JP,Japan
+MOBI_1238,Japan,Kyoto Prefecture,JP,Japan
+MOBI_1239,Japan,Mie Prefecture,JP,Japan
+MOBI_1240,Japan,Miyagi,JP,Japan
+MOBI_1241,Japan,Miyazaki Prefecture,JP,Japan
+MOBI_1242,Japan,Nagano,JP,Japan
+MOBI_1243,Japan,Nagasaki Prefecture,JP,Japan
+MOBI_1244,Japan,Nara Prefecture,JP,Japan
+MOBI_1245,Japan,Niigata,JP,Japan
+MOBI_1246,Japan,Oita,JP,Japan
+MOBI_1247,Japan,Okayama Prefecture,JP,Japan
+MOBI_1248,Japan,Okinawa Prefecture,JP,Japan
+MOBI_1249,Japan,Osaka Prefecture,JP,Japan
+MOBI_1250,Japan,Saga Prefecture,JP,Japan
+MOBI_1251,Japan,Saitama,JP,Japan
+MOBI_1252,Japan,Shiga,JP,Japan
+MOBI_1253,Japan,Shimane,JP,Japan
+MOBI_1254,Japan,Shizuoka,JP,Japan
+MOBI_1255,Japan,Tochigi,JP,Japan
+MOBI_1256,Japan,Tokushima Prefecture,JP,Japan
+MOBI_1257,Japan,Tokyo,JP,Japan
+MOBI_1258,Japan,Tottori Prefecture,JP,Japan
+MOBI_1259,Japan,Toyama,JP,Japan
+MOBI_1260,Japan,Wakayama Prefecture,JP,Japan
+MOBI_1261,Japan,Yamagata,JP,Japan
+MOBI_1262,Japan,Yamaguchi,JP,Japan
+MOBI_1263,Japan,Yamanashi,JP,Japan
+MOBI_1264,Kenya,Baringo,KE,Kenya
+MOBI_1265,Kenya,Bomet,KE,Kenya
+MOBI_1266,Kenya,Bungoma,KE,Kenya
+MOBI_1267,Kenya,Busia,KE,Kenya
+MOBI_1268,Kenya,Elgeyo-Marakwet,KE,Kenya
+MOBI_1269,Kenya,Embu,KE,Kenya
+MOBI_1270,Kenya,Garissa,KE,Kenya
+MOBI_1271,Kenya,Homa Bay,KE,Kenya
+MOBI_1272,Kenya,Isiolo,KE,Kenya
+MOBI_1273,Kenya,Kajiado,KE,Kenya
+MOBI_1274,Kenya,Kakamega,KE,Kenya
+MOBI_1275,Kenya,Kericho,KE,Kenya
+MOBI_1276,Kenya,Kiambu,KE,Kenya
+MOBI_1277,Kenya,Kilifi,KE,Kenya
+MOBI_1278,Kenya,Kirinyaga,KE,Kenya
+MOBI_1279,Kenya,Kisii,KE,Kenya
+MOBI_1280,Kenya,Kisumu,KE,Kenya
+MOBI_1281,Kenya,Kitui,KE,Kenya
+MOBI_1282,Kenya,Kwale,KE,Kenya
+MOBI_1283,Kenya,Laikipia,KE,Kenya
+MOBI_1284,Kenya,Lamu,KE,Kenya
+MOBI_1285,Kenya,Machakos,KE,Kenya
+MOBI_1286,Kenya,Makueni,KE,Kenya
+MOBI_1287,Kenya,Mandera,KE,Kenya
+MOBI_1288,Kenya,Marsabit,KE,Kenya
+MOBI_1289,Kenya,Meru,KE,Kenya
+MOBI_1290,Kenya,Migori,KE,Kenya
+MOBI_1291,Kenya,Mombasa,KE,Kenya
+MOBI_1292,Kenya,Murang'a,KE,Kenya
+MOBI_1293,Kenya,Nairobi,KE,Kenya
+MOBI_1294,Kenya,Nakuru,KE,Kenya
+MOBI_1295,Kenya,Nandi,KE,Kenya
+MOBI_1296,Kenya,Narok,KE,Kenya
+MOBI_1297,Kenya,Nyamira,KE,Kenya
+MOBI_1298,Kenya,Nyandarua,KE,Kenya
+MOBI_1299,Kenya,Nyeri,KE,Kenya
+MOBI_1300,Kenya,Samburu,KE,Kenya
+MOBI_1301,Kenya,Siaya,KE,Kenya
+MOBI_1302,Kenya,Taita Taveta,KE,Kenya
+MOBI_1303,Kenya,Tana River,KE,Kenya
+MOBI_1304,Kenya,Tharaka,KE,Kenya
+MOBI_1305,Kenya,Trans Nzoia,KE,Kenya
+MOBI_1306,Kenya,Turkana,KE,Kenya
+MOBI_1307,Kenya,Uasin Gishu,KE,Kenya
+MOBI_1308,Kenya,Vihiga,KE,Kenya
+MOBI_1309,Kenya,Wajir,KE,Kenya
+MOBI_1310,Kenya,West Pokot,KE,Kenya
+MOBI_1311,Kyrgyzstan,Batken Region,KG,Kyrgyzstan
+MOBI_1312,Kyrgyzstan,Chuy Region,KG,Kyrgyzstan
+MOBI_1313,Kyrgyzstan,Issyk-Kul Region,KG,Kyrgyzstan
+MOBI_1314,Kyrgyzstan,Jalal-Abad Region,KG,Kyrgyzstan
+MOBI_1315,Kyrgyzstan,Naryn Region,KG,Kyrgyzstan
+MOBI_1316,Kyrgyzstan,Osh Region,KG,Kyrgyzstan
+MOBI_1317,Kyrgyzstan,Talas Region,KG,Kyrgyzstan
+MOBI_1318,Cambodia,Bantey Meanchey,KH,Cambodia
+MOBI_1319,Cambodia,Battambang,KH,Cambodia
+MOBI_1320,Cambodia,Kampong Cham,KH,Cambodia
+MOBI_1321,Cambodia,Kampong Chhnang,KH,Cambodia
+MOBI_1322,Cambodia,Kampong Speu,KH,Cambodia
+MOBI_1323,Cambodia,Kampong Thom,KH,Cambodia
+MOBI_1324,Cambodia,Kampot,KH,Cambodia
+MOBI_1325,Cambodia,Kandal,KH,Cambodia
+MOBI_1326,Cambodia,Kep,KH,Cambodia
+MOBI_1327,Cambodia,Koh Kong,KH,Cambodia
+MOBI_1328,Cambodia,Kratie,KH,Cambodia
+MOBI_1329,Cambodia,Mondulkiri,KH,Cambodia
+MOBI_1330,Cambodia,Oddar Meanchey,KH,Cambodia
+MOBI_1331,Cambodia,Pailin,KH,Cambodia
+MOBI_1332,Cambodia,Phnom Penh,KH,Cambodia
+MOBI_1333,Cambodia,Preah Sihanouk,KH,Cambodia
+MOBI_1334,Cambodia,Preah Vihear,KH,Cambodia
+MOBI_1335,Cambodia,Prey Veng,KH,Cambodia
+MOBI_1336,Cambodia,Pursat,KH,Cambodia
+MOBI_1337,Cambodia,Ratanakiri Province,KH,Cambodia
+MOBI_1338,Cambodia,Siem Reap,KH,Cambodia
+MOBI_1339,Cambodia,Stung Treng,KH,Cambodia
+MOBI_1340,Cambodia,Svay Rieng,KH,Cambodia
+MOBI_1341,Cambodia,Takeo,KH,Cambodia
+MOBI_1342,Cambodia,Tbong Khmum,KH,Cambodia
+MOBI_1343,Kiribati,Gilbert Islands,KI,Kiribati
+MOBI_1344,Kiribati,Line Islands,KI,Kiribati
+MOBI_1345,Kiribati,Phoenix Islands,KI,Kiribati
+MOBI_1346,Comoros (the),Anjouan,KM,Comoros
+MOBI_1347,Comoros (the),Grande Comore,KM,Comoros
+MOBI_1348,Comoros (the),Moheli,KM,Comoros
+MOBI_1349,Saint Kitts and Nevis,Christ Church Nichola Town,KN,St Kitts & Nevis
+MOBI_1350,Saint Kitts and Nevis,Saint Anne Sandy Point,KN,St Kitts & Nevis
+MOBI_1351,Saint Kitts and Nevis,Saint George Gingerland,KN,St Kitts & Nevis
+MOBI_1352,Saint Kitts and Nevis,Saint James Windward,KN,St Kitts & Nevis
+MOBI_1353,Saint Kitts and Nevis,Saint John Capisterre,KN,St Kitts & Nevis
+MOBI_1354,Saint Kitts and Nevis,Saint John Figtree,KN,St Kitts & Nevis
+MOBI_1355,Saint Kitts and Nevis,Saint Mary Cayon,KN,St Kitts & Nevis
+MOBI_1356,Saint Kitts and Nevis,Saint Paul Capisterre,KN,St Kitts & Nevis
+MOBI_1357,Saint Kitts and Nevis,Saint Paul Charlestown,KN,St Kitts & Nevis
+MOBI_1358,Saint Kitts and Nevis,Saint Peter Basseterre,KN,St Kitts & Nevis
+MOBI_1359,Saint Kitts and Nevis,Saint Thomas Lowland,KN,St Kitts & Nevis
+MOBI_1360,Saint Kitts and Nevis,Saint Thomas Middle Island,KN,St Kitts & Nevis
+MOBI_1361,Saint Kitts and Nevis,Trinity Palmetto Point,KN,St Kitts & Nevis
+MOBI_1362,Korea (the Democratic People's Republic of),Jagang,KP,"Korea, North"
+MOBI_1363,Korea (the Democratic People's Republic of),Kangwon,KP,"Korea, North"
+MOBI_1364,Korea (the Democratic People's Republic of),Nampo,KP,"Korea, North"
+MOBI_1365,Korea (the Democratic People's Republic of),North Hamgyong,KP,"Korea, North"
+MOBI_1366,Korea (the Democratic People's Republic of),North Hwanghae,KP,"Korea, North"
+MOBI_1367,Korea (the Democratic People's Republic of),North Pyongan,KP,"Korea, North"
+MOBI_1368,Korea (the Democratic People's Republic of),Pyongyang,KP,"Korea, North"
+MOBI_1369,Korea (the Democratic People's Republic of),Ryanggang,KP,"Korea, North"
+MOBI_1370,Korea (the Democratic People's Republic of),South Hamgyong,KP,"Korea, North"
+MOBI_1371,Korea (the Democratic People's Republic of),South Hwanghae,KP,"Korea, North"
+MOBI_1372,Korea (the Democratic People's Republic of),South Pyongan,KP,"Korea, North"
+MOBI_1373,Korea (the Republic of),Busan,KR,"Korea, South"
+MOBI_1374,Korea (the Republic of),Daegu,KR,"Korea, South"
+MOBI_1375,Korea (the Republic of),Daejeon,KR,"Korea, South"
+MOBI_1376,Korea (the Republic of),Gangwon,KR,"Korea, South"
+MOBI_1377,Korea (the Republic of),Gwangju,KR,"Korea, South"
+MOBI_1378,Korea (the Republic of),Gyeonggi,KR,"Korea, South"
+MOBI_1379,Korea (the Republic of),Incheon,KR,"Korea, South"
+MOBI_1380,Korea (the Republic of),Jeju,KR,"Korea, South"
+MOBI_1381,Korea (the Republic of),North Chungcheong,KR,"Korea, South"
+MOBI_1382,Korea (the Republic of),North Gyeongsang,KR,"Korea, South"
+MOBI_1383,Korea (the Republic of),North Jeolla,KR,"Korea, South"
+MOBI_1384,Korea (the Republic of),Seoul,KR,"Korea, South"
+MOBI_1385,Korea (the Republic of),South Chungcheong,KR,"Korea, South"
+MOBI_1386,Korea (the Republic of),South Gyeongsang,KR,"Korea, South"
+MOBI_1387,Korea (the Republic of),South Jeolla,KR,"Korea, South"
+MOBI_1388,Korea (the Republic of),Ulsan,KR,"Korea, South"
+MOBI_1389,Kuwait,Ahmadi,KW,Kuwait
+MOBI_1390,Kuwait,Al Asimah,KW,Kuwait
+MOBI_1391,Kuwait,Farwaniya,KW,Kuwait
+MOBI_1392,Kuwait,Hawalli,KW,Kuwait
+MOBI_1393,Kuwait,Jahra,KW,Kuwait
+MOBI_1394,Kuwait,Mubarak Al-Kabeer,KW,Kuwait
+MOBI_1395,Kazakhstan,Akmola Region,KZ,Kazakhstan
+MOBI_1396,Kazakhstan,Aktobe Region,KZ,Kazakhstan
+MOBI_1397,Kazakhstan,Almaty,KZ,Kazakhstan
+MOBI_1398,Kazakhstan,Almaty Region,KZ,Kazakhstan
+MOBI_1399,Kazakhstan,Astana,KZ,Kazakhstan
+MOBI_1400,Kazakhstan,Atyrau Region,KZ,Kazakhstan
+MOBI_1401,Kazakhstan,East Kazakhstan Region,KZ,Kazakhstan
+MOBI_1402,Kazakhstan,Jambyl Region,KZ,Kazakhstan
+MOBI_1403,Kazakhstan,Karaganda Region,KZ,Kazakhstan
+MOBI_1404,Kazakhstan,Kostanay Region,KZ,Kazakhstan
+MOBI_1405,Kazakhstan,Kyzylorda Region,KZ,Kazakhstan
+MOBI_1406,Kazakhstan,Mangystau Region,KZ,Kazakhstan
+MOBI_1407,Kazakhstan,North Kazakhstan Region,KZ,Kazakhstan
+MOBI_1408,Kazakhstan,Pavlodar Region,KZ,Kazakhstan
+MOBI_1409,Kazakhstan,South Kazakhstan Region,KZ,Kazakhstan
+MOBI_1410,Kazakhstan,West Kazakhstan Region,KZ,Kazakhstan
+MOBI_1411,Lao People's Democratic Republic (the),Attapeu,LA,Laos
+MOBI_1412,Lao People's Democratic Republic (the),Bokeo,LA,Laos
+MOBI_1413,Lao People's Democratic Republic (the),Bolikhamsai,LA,Laos
+MOBI_1414,Lao People's Democratic Republic (the),Champasak,LA,Laos
+MOBI_1415,Lao People's Democratic Republic (the),Houaphan,LA,Laos
+MOBI_1416,Lao People's Democratic Republic (the),Khammouane,LA,Laos
+MOBI_1417,Lao People's Democratic Republic (the),Luang Namtha,LA,Laos
+MOBI_1418,Lao People's Democratic Republic (the),Luang Prabang,LA,Laos
+MOBI_1419,Lao People's Democratic Republic (the),Oudomxay,LA,Laos
+MOBI_1420,Lao People's Democratic Republic (the),Phongsaly,LA,Laos
+MOBI_1421,Lao People's Democratic Republic (the),Salavan,LA,Laos
+MOBI_1422,Lao People's Democratic Republic (the),Savannakhet,LA,Laos
+MOBI_1423,Lao People's Democratic Republic (the),Vientiane,LA,Laos
+MOBI_1424,Lao People's Democratic Republic (the),Vientiane Capital,LA,Laos
+MOBI_1425,Lao People's Democratic Republic (the),Xaignabouli,LA,Laos
+MOBI_1426,Lao People's Democratic Republic (the),Xaisomboun,LA,Laos
+MOBI_1427,Lao People's Democratic Republic (the),Xekong,LA,Laos
+MOBI_1428,Lao People's Democratic Republic (the),Xiangkhouang,LA,Laos
+MOBI_1429,Lebanon,Aakkâr,LB,Lebanon
+MOBI_1430,Lebanon,Baalbek-Hermel,LB,Lebanon
+MOBI_1431,Lebanon,Béqaa,LB,Lebanon
+MOBI_1432,Lebanon,Beyrouth,LB,Lebanon
+MOBI_1433,Lebanon,Keserwan-Jbeil,LB,Lebanon
+MOBI_1434,Lebanon,Liban-Nord,LB,Lebanon
+MOBI_1435,Lebanon,Liban-Sud,LB,Lebanon
+MOBI_1436,Lebanon,Mont-Liban,LB,Lebanon
+MOBI_1437,Lebanon,Nabatîyé,LB,Lebanon
+MOBI_1438,Saint Lucia,Anse la Raya,LC,St Lucia
+MOBI_1439,Saint Lucia,Canaries,LC,St Lucia
+MOBI_1440,Saint Lucia,Castries,LC,St Lucia
+MOBI_1441,Saint Lucia,Choiseul,LC,St Lucia
+MOBI_1442,Saint Lucia,Dennery,LC,St Lucia
+MOBI_1443,Saint Lucia,Gros Islet,LC,St Lucia
+MOBI_1444,Saint Lucia,Laborie,LC,St Lucia
+MOBI_1445,Saint Lucia,Micoud,LC,St Lucia
+MOBI_1446,Saint Lucia,Soufrière,LC,St Lucia
+MOBI_1447,Saint Lucia,Vieux Fort,LC,St Lucia
+MOBI_1448,Liechtenstein,Eschen,LI,Liechtenstein
+MOBI_1449,Liechtenstein,Mauren,LI,Liechtenstein
+MOBI_1450,Liechtenstein,Planken,LI,Liechtenstein
+MOBI_1451,Liechtenstein,Ruggell,LI,Liechtenstein
+MOBI_1452,Liechtenstein,Triesen,LI,Liechtenstein
+MOBI_1453,Liechtenstein,Triesenberg,LI,Liechtenstein
+MOBI_1454,Liechtenstein,Vaduz,LI,Liechtenstein
+MOBI_1455,Sri Lanka,Central Province,LK,Sri Lanka
+MOBI_1456,Sri Lanka,Eastern Province,LK,Sri Lanka
+MOBI_1457,Sri Lanka,North Central Province,LK,Sri Lanka
+MOBI_1458,Sri Lanka,North Western Province,LK,Sri Lanka
+MOBI_1459,Sri Lanka,Northern Province,LK,Sri Lanka
+MOBI_1460,Sri Lanka,Sabaragamuwa Province,LK,Sri Lanka
+MOBI_1461,Sri Lanka,Southern Province,LK,Sri Lanka
+MOBI_1462,Sri Lanka,Uva Province,LK,Sri Lanka
+MOBI_1463,Sri Lanka,Western Province,LK,Sri Lanka
+MOBI_1464,Liberia,Bomi,LR,Liberia
+MOBI_1465,Liberia,Bong,LR,Liberia
+MOBI_1466,Liberia,Gbarpolu,LR,Liberia
+MOBI_1467,Liberia,Grand Bassa,LR,Liberia
+MOBI_1468,Liberia,Grand Cape Mount,LR,Liberia
+MOBI_1469,Liberia,Grand Gedeh,LR,Liberia
+MOBI_1470,Liberia,Grand Kru,LR,Liberia
+MOBI_1471,Liberia,Lofa,LR,Liberia
+MOBI_1472,Liberia,Margibi,LR,Liberia
+MOBI_1473,Liberia,Maryland,LR,Liberia
+MOBI_1474,Liberia,Montserrado,LR,Liberia
+MOBI_1475,Liberia,Nimba,LR,Liberia
+MOBI_1476,Liberia,River Gee,LR,Liberia
+MOBI_1477,Liberia,Rivercess,LR,Liberia
+MOBI_1478,Liberia,Sinoe,LR,Liberia
+MOBI_1479,Lesotho,Berea District,LS,Lesotho
+MOBI_1480,Lesotho,Butha-Buthe District,LS,Lesotho
+MOBI_1481,Lesotho,Leribe District,LS,Lesotho
+MOBI_1482,Lesotho,Mafeteng District,LS,Lesotho
+MOBI_1483,Lesotho,Maseru District,LS,Lesotho
+MOBI_1484,Lesotho,Mohale's Hoek District,LS,Lesotho
+MOBI_1485,Lesotho,Mokhotlong District,LS,Lesotho
+MOBI_1486,Lesotho,Qacha's Nek District,LS,Lesotho
+MOBI_1487,Lesotho,Quthing District,LS,Lesotho
+MOBI_1488,Lesotho,Thaba-Tseka District,LS,Lesotho
+MOBI_1489,Lithuania,Alytus County,LT,Lithuania
+MOBI_1490,Lithuania,Kaunas County,LT,Lithuania
+MOBI_1491,Lithuania,Klaipeda County,LT,Lithuania
+MOBI_1492,Lithuania,Marijampole County,LT,Lithuania
+MOBI_1493,Lithuania,Panevezys County,LT,Lithuania
+MOBI_1494,Lithuania,Siauliai County,LT,Lithuania
+MOBI_1495,Lithuania,Taurage County,LT,Lithuania
+MOBI_1496,Lithuania,Telsiai County,LT,Lithuania
+MOBI_1497,Lithuania,Utena County,LT,Lithuania
+MOBI_1498,Lithuania,Vilnius County,LT,Lithuania
+MOBI_1499,Luxembourg,Canton Capellen,LU,Luxembourg
+MOBI_1500,Luxembourg,Canton Clervaux,LU,Luxembourg
+MOBI_1501,Luxembourg,Canton Diekirch,LU,Luxembourg
+MOBI_1502,Luxembourg,Canton Echternach,LU,Luxembourg
+MOBI_1503,Luxembourg,Canton Esch-sur-Alzette,LU,Luxembourg
+MOBI_1504,Luxembourg,Canton Grevenmacher,LU,Luxembourg
+MOBI_1505,Luxembourg,Canton Luxembourg,LU,Luxembourg
+MOBI_1506,Luxembourg,Canton Mersch,LU,Luxembourg
+MOBI_1507,Luxembourg,Canton Redange,LU,Luxembourg
+MOBI_1508,Luxembourg,Canton Remich,LU,Luxembourg
+MOBI_1509,Luxembourg,Canton Vianden,LU,Luxembourg
+MOBI_1510,Luxembourg,Canton Wiltz,LU,Luxembourg
+MOBI_1511,Latvia,Ādažu novads,LV,Latvia
+MOBI_1512,Latvia,Aizkraukles novads,LV,Latvia
+MOBI_1513,Latvia,Alūksnes novads,LV,Latvia
+MOBI_1514,Latvia,Augšdaugavas novads,LV,Latvia
+MOBI_1515,Latvia,Balvu novads,LV,Latvia
+MOBI_1516,Latvia,Bauskas novads,LV,Latvia
+MOBI_1517,Latvia,Cēsu novads,LV,Latvia
+MOBI_1518,Latvia,Daugavpils,LV,Latvia
+MOBI_1519,Latvia,Dienvidkurzemes novads,LV,Latvia
+MOBI_1520,Latvia,Dobeles novads,LV,Latvia
+MOBI_1521,Latvia,Gulbenes novads,LV,Latvia
+MOBI_1522,Latvia,Jēkabpils novads,LV,Latvia
+MOBI_1523,Latvia,Jelgavas,LV,Latvia
+MOBI_1524,Latvia,Jelgavas novads,LV,Latvia
+MOBI_1525,Latvia,Jūrmalas,LV,Latvia
+MOBI_1526,Latvia,Ķekavas novads,LV,Latvia
+MOBI_1527,Latvia,Krāslavas novads,LV,Latvia
+MOBI_1528,Latvia,Kuldīgas novads,LV,Latvia
+MOBI_1529,Latvia,Liepājas,LV,Latvia
+MOBI_1530,Latvia,Limbažu novads,LV,Latvia
+MOBI_1531,Latvia,Līvānu novads,LV,Latvia
+MOBI_1532,Latvia,Ludzas novads,LV,Latvia
+MOBI_1533,Latvia,Madonas novads,LV,Latvia
+MOBI_1534,Latvia,Mārupes novads,LV,Latvia
+MOBI_1535,Latvia,Ogres novads,LV,Latvia
+MOBI_1536,Latvia,Olaines novads,LV,Latvia
+MOBI_1537,Latvia,Preiļu novads,LV,Latvia
+MOBI_1538,Latvia,Rēzeknes,LV,Latvia
+MOBI_1539,Latvia,Rēzeknes novads,LV,Latvia
+MOBI_1540,Latvia,Rīga,LV,Latvia
+MOBI_1541,Latvia,Ropažu novads,LV,Latvia
+MOBI_1542,Latvia,Salaspils novads,LV,Latvia
+MOBI_1543,Latvia,Saldus novads,LV,Latvia
+MOBI_1544,Latvia,Saulkrastu novads,LV,Latvia
+MOBI_1545,Latvia,Siguldas novads,LV,Latvia
+MOBI_1546,Latvia,Smiltenes novads,LV,Latvia
+MOBI_1547,Latvia,Talsu novads,LV,Latvia
+MOBI_1548,Latvia,Tukuma novads,LV,Latvia
+MOBI_1549,Latvia,Valkas novads,LV,Latvia
+MOBI_1550,Latvia,Valmieras novads,LV,Latvia
+MOBI_1551,Latvia,Varakļānu novads,LV,Latvia
+MOBI_1552,Latvia,Ventspils,LV,Latvia
+MOBI_1553,Latvia,Ventspils novads,LV,Latvia
+MOBI_1554,Latvia,Krāslavas novads,LV,Latvia
+MOBI_1555,Libya,Ajdabiya,LY,Libya
+MOBI_1556,Libya,Al Butnan,LY,Libya
+MOBI_1557,Libya,Al Jabal al Akhdar,LY,Libya
+MOBI_1558,Libya,Al Jifarah,LY,Libya
+MOBI_1559,Libya,Al Jufrah,LY,Libya
+MOBI_1560,Libya,Al Kufrah,LY,Libya
+MOBI_1561,Libya,Al Marj,LY,Libya
+MOBI_1562,Libya,Al Marqab,LY,Libya
+MOBI_1563,Libya,Al Qubbah,LY,Libya
+MOBI_1564,Libya,An Nuqat al Khams,LY,Libya
+MOBI_1565,Libya,Ash Shati',LY,Libya
+MOBI_1566,Libya,Az Zawiyah,LY,Libya
+MOBI_1567,Libya,Benghazi,LY,Libya
+MOBI_1568,Libya,Ghadamis,LY,Libya
+MOBI_1569,Libya,Ghat,LY,Libya
+MOBI_1570,Libya,Misratah,LY,Libya
+MOBI_1571,Libya,Mizdah,LY,Libya
+MOBI_1572,Libya,Murzuq,LY,Libya
+MOBI_1573,Libya,Sabha,LY,Libya
+MOBI_1574,Libya,Surt,LY,Libya
+MOBI_1575,Libya,Tajura' wa an Nawahi al Arba,LY,Libya
+MOBI_1576,Libya,Wadi al Hayaa,LY,Libya
+MOBI_1577,Morocco,Béni Mellal-Khénifra,MA,Morocco
+MOBI_1578,Morocco,Casablanca-Settat,MA,Morocco
+MOBI_1579,Morocco,Drâa-Tafilalet,MA,Morocco
+MOBI_1580,Morocco,Fez-Meknes,MA,Morocco
+MOBI_1581,Morocco,Guelmim-Oued Noun,MA,Morocco
+MOBI_1582,Morocco,Laâyoune-Sakia El Hamra,MA,Morocco
+MOBI_1583,Morocco,Marrakech-Safi,MA,Morocco
+MOBI_1584,Morocco,Oriental,MA,Morocco
+MOBI_1585,Morocco,Rabat-Salé-Kenitra,MA,Morocco
+MOBI_1586,Morocco,Souss-Massa,MA,Morocco
+MOBI_1587,Morocco,Tangier-Tetouan-Al Hoceima,MA,Morocco
+MOBI_1588,Monaco,Monaco,MC,Monaco
+MOBI_1589,Moldova (the Republic of),Anenii Noi,MD,Moldova
+MOBI_1590,Moldova (the Republic of),Balti,MD,Moldova
+MOBI_1591,Moldova (the Republic of),Basarabeasca,MD,Moldova
+MOBI_1592,Moldova (the Republic of),Bender,MD,Moldova
+MOBI_1593,Moldova (the Republic of),Briceni,MD,Moldova
+MOBI_1594,Moldova (the Republic of),Cahul,MD,Moldova
+MOBI_1595,Moldova (the Republic of),Calarasi,MD,Moldova
+MOBI_1596,Moldova (the Republic of),Cantemir,MD,Moldova
+MOBI_1597,Moldova (the Republic of),Causeni,MD,Moldova
+MOBI_1598,Moldova (the Republic of),Chisinau,MD,Moldova
+MOBI_1599,Moldova (the Republic of),Cimislia,MD,Moldova
+MOBI_1600,Moldova (the Republic of),Criuleni,MD,Moldova
+MOBI_1601,Moldova (the Republic of),Donduseni,MD,Moldova
+MOBI_1602,Moldova (the Republic of),Drochia,MD,Moldova
+MOBI_1603,Moldova (the Republic of),Edinet,MD,Moldova
+MOBI_1604,Moldova (the Republic of),Falesti,MD,Moldova
+MOBI_1605,Moldova (the Republic of),Floresti,MD,Moldova
+MOBI_1606,Moldova (the Republic of),Gagauzia,MD,Moldova
+MOBI_1607,Moldova (the Republic of),Glodeni,MD,Moldova
+MOBI_1608,Moldova (the Republic of),Hincesti,MD,Moldova
+MOBI_1609,Moldova (the Republic of),Ialoveni,MD,Moldova
+MOBI_1610,Moldova (the Republic of),Leova,MD,Moldova
+MOBI_1611,Moldova (the Republic of),Nisporeni,MD,Moldova
+MOBI_1612,Moldova (the Republic of),Ocnita,MD,Moldova
+MOBI_1613,Moldova (the Republic of),Orhei,MD,Moldova
+MOBI_1614,Moldova (the Republic of),Rezina,MD,Moldova
+MOBI_1615,Moldova (the Republic of),RIscani,MD,Moldova
+MOBI_1616,Moldova (the Republic of),SIngerei,MD,Moldova
+MOBI_1617,Moldova (the Republic of),Soldanesti,MD,Moldova
+MOBI_1618,Moldova (the Republic of),Soroca,MD,Moldova
+MOBI_1619,Moldova (the Republic of),Stefan Voda,MD,Moldova
+MOBI_1620,Moldova (the Republic of),Straseni,MD,Moldova
+MOBI_1621,Moldova (the Republic of),Telenesti,MD,Moldova
+MOBI_1622,Moldova (the Republic of),Transnistria,MD,Moldova
+MOBI_1623,Moldova (the Republic of),Ungheni,MD,Moldova
+MOBI_1624,Montenegro,Andrijevica Municipality,ME,Montenegro
+MOBI_1625,Montenegro,Bar Municipality,ME,Montenegro
+MOBI_1626,Montenegro,Berane Municipality,ME,Montenegro
+MOBI_1627,Montenegro,Bijelo Polje Municipality,ME,Montenegro
+MOBI_1628,Montenegro,Budva Municipality,ME,Montenegro
+MOBI_1629,Montenegro,Cetinje Municipality,ME,Montenegro
+MOBI_1630,Montenegro,Danilovgrad Municipality,ME,Montenegro
+MOBI_1631,Montenegro,Gusinje Municipality,ME,Montenegro
+MOBI_1632,Montenegro,Herceg Novi Municipality,ME,Montenegro
+MOBI_1633,Montenegro,Kolašin Municipality,ME,Montenegro
+MOBI_1634,Montenegro,Kotor Municipality,ME,Montenegro
+MOBI_1635,Montenegro,Mojkovac Municipality,ME,Montenegro
+MOBI_1636,Montenegro,Nikšić Municipality,ME,Montenegro
+MOBI_1637,Montenegro,Petnjica Municipality,ME,Montenegro
+MOBI_1638,Montenegro,Plav Municipality,ME,Montenegro
+MOBI_1639,Montenegro,Pljevlja Municipality,ME,Montenegro
+MOBI_1640,Montenegro,Plužine Municipality,ME,Montenegro
+MOBI_1641,Montenegro,Podgorica Municipality,ME,Montenegro
+MOBI_1642,Montenegro,Rožaje Municipality,ME,Montenegro
+MOBI_1643,Montenegro,Šavnik Municipality,ME,Montenegro
+MOBI_1644,Montenegro,Ulcinj Municipality,ME,Montenegro
+MOBI_1645,Montenegro,Žabljak Municipality,ME,Montenegro
+MOBI_1646,Madagascar,Alaotra-Mangoro,MG,Madagascar
+MOBI_1647,Madagascar,Amoron'i Mania,MG,Madagascar
+MOBI_1648,Madagascar,Analamanga,MG,Madagascar
+MOBI_1649,Madagascar,Analanjirofo,MG,Madagascar
+MOBI_1650,Madagascar,Androy,MG,Madagascar
+MOBI_1651,Madagascar,Anosy,MG,Madagascar
+MOBI_1652,Madagascar,Atsimo-Andrefana,MG,Madagascar
+MOBI_1653,Madagascar,Atsimo-Atsinanana,MG,Madagascar
+MOBI_1654,Madagascar,Atsinanana,MG,Madagascar
+MOBI_1655,Madagascar,Betsiboka,MG,Madagascar
+MOBI_1656,Madagascar,Boeny,MG,Madagascar
+MOBI_1657,Madagascar,Bongolava,MG,Madagascar
+MOBI_1658,Madagascar,Diana,MG,Madagascar
+MOBI_1659,Madagascar,Ihorombe,MG,Madagascar
+MOBI_1660,Madagascar,Itasy,MG,Madagascar
+MOBI_1661,Madagascar,Matsiatra Ambony,MG,Madagascar
+MOBI_1662,Madagascar,Melaky,MG,Madagascar
+MOBI_1663,Madagascar,Menabe,MG,Madagascar
+MOBI_1664,Madagascar,Sava,MG,Madagascar
+MOBI_1665,Madagascar,Sofia,MG,Madagascar
+MOBI_1666,Madagascar,Vakinankaratra,MG,Madagascar
+MOBI_1667,Madagascar,Vatovavy-Fitovinany,MG,Madagascar
+MOBI_1668,Marshall Islands (the),Aur,MH,Marshall Is
+MOBI_1669,Marshall Islands (the),Jabat,MH,Marshall Is
+MOBI_1670,Marshall Islands (the),Jaluit,MH,Marshall Is
+MOBI_1671,Marshall Islands (the),Maloelap,MH,Marshall Is
+MOBI_1672,Marshall Islands (the),Mili,MH,Marshall Is
+MOBI_1673,Marshall Islands (the),Namu,MH,Marshall Is
+MOBI_1674,Marshall Islands (the),Ujae,MH,Marshall Is
+MOBI_1675,Marshall Islands (the),Utirik,MH,Marshall Is
+MOBI_1676,Marshall Islands (the),Wotho,MH,Marshall Is
+MOBI_1677,Marshall Islands (the),Wotje,MH,Marshall Is
+MOBI_1678,North Macedonia,East,MK,Macedonia
+MOBI_1679,North Macedonia,Northeast,MK,Macedonia
+MOBI_1680,North Macedonia,Pelagonia,MK,Macedonia
+MOBI_1681,North Macedonia,Polog,MK,Macedonia
+MOBI_1682,North Macedonia,Skopje,MK,Macedonia
+MOBI_1683,North Macedonia,Southeast,MK,Macedonia
+MOBI_1684,North Macedonia,Southwest,MK,Macedonia
+MOBI_1685,North Macedonia,Vardar,MK,Macedonia
+MOBI_1686,Mali,Bamako,ML,Mali
+MOBI_1687,Mali,Gao,ML,Mali
+MOBI_1688,Mali,Kayes,ML,Mali
+MOBI_1689,Mali,Kidal,ML,Mali
+MOBI_1690,Mali,Koulikouro,ML,Mali
+MOBI_1691,Mali,Mopti,ML,Mali
+MOBI_1692,Mali,Segou,ML,Mali
+MOBI_1693,Mali,Sikasso,ML,Mali
+MOBI_1694,Mali,Tombouctou,ML,Mali
+MOBI_1695,Myanmar,Ayeyarwady,MM,Burma
+MOBI_1696,Myanmar,Bago,MM,Burma
+MOBI_1697,Myanmar,Chin,MM,Burma
+MOBI_1698,Myanmar,Kachin,MM,Burma
+MOBI_1699,Myanmar,Kayah,MM,Burma
+MOBI_1700,Myanmar,Kayin,MM,Burma
+MOBI_1701,Myanmar,Magway,MM,Burma
+MOBI_1702,Myanmar,Mandalay,MM,Burma
+MOBI_1703,Myanmar,Mon,MM,Burma
+MOBI_1704,Myanmar,Rakhine,MM,Burma
+MOBI_1705,Myanmar,Saigang,MM,Burma
+MOBI_1706,Myanmar,Shan,MM,Burma
+MOBI_1707,Myanmar,Tanitharyi,MM,Burma
+MOBI_1708,Myanmar,Yangon,MM,Burma
+MOBI_1709,Mongolia,Arkhangai,MN,Mongolia
+MOBI_1710,Mongolia,Bayankhongor,MN,Mongolia
+MOBI_1711,Mongolia,Bayan-Ölgii,MN,Mongolia
+MOBI_1712,Mongolia,Bulgan,MN,Mongolia
+MOBI_1713,Mongolia,Darkhan-Uul,MN,Mongolia
+MOBI_1714,Mongolia,Dornod,MN,Mongolia
+MOBI_1715,Mongolia,Dornogovi,MN,Mongolia
+MOBI_1716,Mongolia,Dundgovi,MN,Mongolia
+MOBI_1717,Mongolia,Govi-Altai,MN,Mongolia
+MOBI_1718,Mongolia,Govisumber,MN,Mongolia
+MOBI_1719,Mongolia,Hovsgel,MN,Mongolia
+MOBI_1720,Mongolia,Khentii,MN,Mongolia
+MOBI_1721,Mongolia,Khovd,MN,Mongolia
+MOBI_1722,Mongolia,Ömnögovi,MN,Mongolia
+MOBI_1723,Mongolia,Orkhon,MN,Mongolia
+MOBI_1724,Mongolia,Övörkhangai,MN,Mongolia
+MOBI_1725,Mongolia,Selenge,MN,Mongolia
+MOBI_1726,Mongolia,Sükhbaatar,MN,Mongolia
+MOBI_1727,Mongolia,Töv,MN,Mongolia
+MOBI_1728,Mongolia,Ulaanbaatar,MN,Mongolia
+MOBI_1729,Mongolia,Uvs,MN,Mongolia
+MOBI_1730,Mongolia,Zavkhan,MN,Mongolia
+MOBI_1731,Mauritania,Adrar,MR,Mauritania
+MOBI_1732,Mauritania,Assaba,MR,Mauritania
+MOBI_1733,Mauritania,Brakna,MR,Mauritania
+MOBI_1734,Mauritania,Dakhlet Nouadhibou,MR,Mauritania
+MOBI_1735,Mauritania,Gorgol,MR,Mauritania
+MOBI_1736,Mauritania,Guidimaka,MR,Mauritania
+MOBI_1737,Mauritania,Hodh ech Chargui,MR,Mauritania
+MOBI_1738,Mauritania,Hodh el Gharbi,MR,Mauritania
+MOBI_1739,Mauritania,Inchiri,MR,Mauritania
+MOBI_1740,Mauritania,Nouakchott,MR,Mauritania
+MOBI_1741,Mauritania,Tagant,MR,Mauritania
+MOBI_1742,Mauritania,Tiris Zemmour,MR,Mauritania
+MOBI_1743,Mauritania,Trarza,MR,Mauritania
+MOBI_1744,Malta,Attard,MT,Malta
+MOBI_1745,Malta,Balzan,MT,Malta
+MOBI_1746,Malta,Birgu,MT,Malta
+MOBI_1747,Malta,Birkirkara,MT,Malta
+MOBI_1748,Malta,Birżebbuġa,MT,Malta
+MOBI_1749,Malta,Bormla,MT,Malta
+MOBI_1750,Malta,Dingli,MT,Malta
+MOBI_1751,Malta,Fgura,MT,Malta
+MOBI_1752,Malta,Floriana,MT,Malta
+MOBI_1753,Malta,Fontana,MT,Malta
+MOBI_1754,Malta,Gharb,MT,Malta
+MOBI_1755,Malta,Għargħur,MT,Malta
+MOBI_1756,Malta,Ghasri,MT,Malta
+MOBI_1757,Malta,Għaxaq,MT,Malta
+MOBI_1758,Malta,Gudja,MT,Malta
+MOBI_1759,Malta,Gżira,MT,Malta
+MOBI_1760,Malta,Ħamrun,MT,Malta
+MOBI_1761,Malta,Iklin,MT,Malta
+MOBI_1762,Malta,Kalkara,MT,Malta
+MOBI_1763,Malta,Kerċem,MT,Malta
+MOBI_1764,Malta,Kirkop,MT,Malta
+MOBI_1765,Malta,Lija,MT,Malta
+MOBI_1766,Malta,Luqa,MT,Malta
+MOBI_1767,Malta,Marsa,MT,Malta
+MOBI_1768,Malta,Marsaskala,MT,Malta
+MOBI_1769,Malta,Marsaxlokk,MT,Malta
+MOBI_1770,Malta,Mdina,MT,Malta
+MOBI_1771,Malta,Mellieħa,MT,Malta
+MOBI_1772,Malta,Mġarr,MT,Malta
+MOBI_1773,Malta,Mosta,MT,Malta
+MOBI_1774,Malta,Mqabba,MT,Malta
+MOBI_1775,Malta,Msida,MT,Malta
+MOBI_1776,Malta,Mtarfa,MT,Malta
+MOBI_1777,Malta,Munxar,MT,Malta
+MOBI_1778,Malta,Nadur,MT,Malta
+MOBI_1779,Malta,Naxxar,MT,Malta
+MOBI_1780,Malta,Paola,MT,Malta
+MOBI_1781,Malta,Pembroke,MT,Malta
+MOBI_1782,Malta,Pietà,MT,Malta
+MOBI_1783,Malta,Qala,MT,Malta
+MOBI_1784,Malta,Qormi,MT,Malta
+MOBI_1785,Malta,Qrendi,MT,Malta
+MOBI_1786,Malta,Rabat Gozo,MT,Malta
+MOBI_1787,Malta,Rabat Malta,MT,Malta
+MOBI_1788,Malta,Safi,MT,Malta
+MOBI_1789,Malta,Saint John,MT,Malta
+MOBI_1790,Malta,Saint Julian's,MT,Malta
+MOBI_1791,Malta,Saint Lawerence,MT,Malta
+MOBI_1792,Malta,Saint Lucia's,MT,Malta
+MOBI_1793,Malta,Saint Paul's Bay,MT,Malta
+MOBI_1794,Malta,Sannat,MT,Malta
+MOBI_1795,Malta,Santa Venera,MT,Malta
+MOBI_1796,Malta,Siġġiewi,MT,Malta
+MOBI_1797,Malta,Sliema,MT,Malta
+MOBI_1798,Malta,Swieqi,MT,Malta
+MOBI_1799,Malta,Ta' Xbiex,MT,Malta
+MOBI_1800,Malta,Tarxien,MT,Malta
+MOBI_1801,Malta,Valletta,MT,Malta
+MOBI_1802,Malta,Xagħra,MT,Malta
+MOBI_1803,Malta,Xewkija,MT,Malta
+MOBI_1804,Malta,Xgħajra,MT,Malta
+MOBI_1805,Malta,Żabbar,MT,Malta
+MOBI_1806,Malta,Żebbuġ Gozo,MT,Malta
+MOBI_1807,Malta,Żebbuġ Malta,MT,Malta
+MOBI_1808,Malta,Żejtun,MT,Malta
+MOBI_1809,Malta,Żurrieq,MT,Malta
+MOBI_1810,Mauritius,Black River,MU,Mauritius
+MOBI_1811,Mauritius,Flacq,MU,Mauritius
+MOBI_1812,Mauritius,Grand Port,MU,Mauritius
+MOBI_1813,Mauritius,Moka,MU,Mauritius
+MOBI_1814,Mauritius,Pamplemousses,MU,Mauritius
+MOBI_1815,Mauritius,Plaines Wilhems,MU,Mauritius
+MOBI_1816,Mauritius,Port Louis,MU,Mauritius
+MOBI_1817,Mauritius,Rivière du Rempart,MU,Mauritius
+MOBI_1818,Mauritius,Rodrigues,MU,Mauritius
+MOBI_1819,Mauritius,Savanne,MU,Mauritius
+MOBI_1820,Mauritius,St. Brandon,MU,Mauritius
+MOBI_1821,Maldives,Vaavu,MV,Maldives
+MOBI_1822,Malawi,Central Region,MW,Malawi
+MOBI_1823,Malawi,Northern Region,MW,Malawi
+MOBI_1824,Malawi,Southern Region,MW,Malawi
+MOBI_1825,Mexico,Aguascalientes,MX,Mexico
+MOBI_1826,Mexico,Baja California,MX,Mexico
+MOBI_1827,Mexico,Baja California Sur,MX,Mexico
+MOBI_1828,Mexico,Campeche,MX,Mexico
+MOBI_1829,Mexico,Chiapas,MX,Mexico
+MOBI_1830,Mexico,Chihuahua,MX,Mexico
+MOBI_1831,Mexico,Coahuila de Zaragoza,MX,Mexico
+MOBI_1832,Mexico,Colima,MX,Mexico
+MOBI_1833,Mexico,Distrito Federal,MX,Mexico
+MOBI_1834,Mexico,Durango,MX,Mexico
+MOBI_1835,Mexico,Guanajuato,MX,Mexico
+MOBI_1836,Mexico,Guerrero,MX,Mexico
+MOBI_1837,Mexico,Hidalgo,MX,Mexico
+MOBI_1838,Mexico,Jalisco,MX,Mexico
+MOBI_1839,Mexico,Mexico,MX,Mexico
+MOBI_1840,Mexico,Michoacan de Ocampo,MX,Mexico
+MOBI_1841,Mexico,Morelos,MX,Mexico
+MOBI_1842,Mexico,Nayarit,MX,Mexico
+MOBI_1843,Mexico,Nuevo Leon,MX,Mexico
+MOBI_1844,Mexico,Oaxaca,MX,Mexico
+MOBI_1845,Mexico,Puebla,MX,Mexico
+MOBI_1846,Mexico,Queretaro de Arteaga,MX,Mexico
+MOBI_1847,Mexico,Quintana Roo,MX,Mexico
+MOBI_1848,Mexico,San Luis Potosi,MX,Mexico
+MOBI_1849,Mexico,Sinaloa,MX,Mexico
+MOBI_1850,Mexico,Sonora,MX,Mexico
+MOBI_1851,Mexico,Tabasco,MX,Mexico
+MOBI_1852,Mexico,Tamaulipas,MX,Mexico
+MOBI_1853,Mexico,Tlaxcala,MX,Mexico
+MOBI_1854,Mexico,Veracruz de Ignacio de la Llave,MX,Mexico
+MOBI_1855,Mexico,Yucatan,MX,Mexico
+MOBI_1856,Mexico,Zacatecas,MX,Mexico
+MOBI_1857,Malaysia,Johor,MY,Malaysia
+MOBI_1858,Malaysia,Kedah,MY,Malaysia
+MOBI_1859,Malaysia,Kelantan,MY,Malaysia
+MOBI_1860,Malaysia,Kuala Lumpur,MY,Malaysia
+MOBI_1861,Malaysia,Labuan,MY,Malaysia
+MOBI_1862,Malaysia,Malacca,MY,Malaysia
+MOBI_1863,Malaysia,Negeri Sembilan,MY,Malaysia
+MOBI_1864,Malaysia,Pahang,MY,Malaysia
+MOBI_1865,Malaysia,Penang,MY,Malaysia
+MOBI_1866,Malaysia,Perak,MY,Malaysia
+MOBI_1867,Malaysia,Perlis,MY,Malaysia
+MOBI_1868,Malaysia,Sabah,MY,Malaysia
+MOBI_1869,Malaysia,Sarawak,MY,Malaysia
+MOBI_1870,Malaysia,Selangor,MY,Malaysia
+MOBI_1871,Malaysia,Terengganu,MY,Malaysia
+MOBI_1872,Mozambique,Cabo Delgado,MZ,Mozambique
+MOBI_1873,Mozambique,Gaza,MZ,Mozambique
+MOBI_1874,Mozambique,Inhambane,MZ,Mozambique
+MOBI_1875,Mozambique,Manica,MZ,Mozambique
+MOBI_1876,Mozambique,Maputo,MZ,Mozambique
+MOBI_1877,Mozambique,Nampula,MZ,Mozambique
+MOBI_1878,Mozambique,Niassa,MZ,Mozambique
+MOBI_1879,Mozambique,Sofala,MZ,Mozambique
+MOBI_1880,Mozambique,Tete,MZ,Mozambique
+MOBI_1881,Mozambique,Zambézia,MZ,Mozambique
+MOBI_1882,,Caprivi,,Namibia
+MOBI_1883,,Erongo,,Namibia
+MOBI_1884,,Hardap,,Namibia
+MOBI_1885,,Karas,,Namibia
+MOBI_1886,,Kavango,,Namibia
+MOBI_1887,,Khomas,,Namibia
+MOBI_1888,,Kunene,,Namibia
+MOBI_1889,,Ohangwena,,Namibia
+MOBI_1890,,Omaheke,,Namibia
+MOBI_1891,,Omusati,,Namibia
+MOBI_1892,,Oshana,,Namibia
+MOBI_1893,,Oshikoto,,Namibia
+MOBI_1894,,Otjozondjupa,,Namibia
+MOBI_1895,Niger (the),Dossa,NE,Niger
+MOBI_1896,Niger (the),Maradi,NE,Niger
+MOBI_1897,Niger (the),Niamey,NE,Niger
+MOBI_1898,Niger (the),Tahoua/Agadez,NE,Niger
+MOBI_1899,Niger (the),Tillaberi,NE,Niger
+MOBI_1900,Niger (the),Zinder/Diffa,NE,Niger
+MOBI_1901,Nigeria,Abia,NG,Nigeria
+MOBI_1902,Nigeria,Abuja Federal Capital Territory,NG,Nigeria
+MOBI_1903,Nigeria,Adamawa,NG,Nigeria
+MOBI_1904,Nigeria,Akwa Ibom,NG,Nigeria
+MOBI_1905,Nigeria,Anambra,NG,Nigeria
+MOBI_1906,Nigeria,Bauchi,NG,Nigeria
+MOBI_1907,Nigeria,Bayelsa,NG,Nigeria
+MOBI_1908,Nigeria,Benue,NG,Nigeria
+MOBI_1909,Nigeria,Borno,NG,Nigeria
+MOBI_1910,Nigeria,Cross River,NG,Nigeria
+MOBI_1911,Nigeria,Delta,NG,Nigeria
+MOBI_1912,Nigeria,Ebonyi,NG,Nigeria
+MOBI_1913,Nigeria,Edo,NG,Nigeria
+MOBI_1914,Nigeria,Ekiti,NG,Nigeria
+MOBI_1915,Nigeria,Enugu,NG,Nigeria
+MOBI_1916,Nigeria,Gombe,NG,Nigeria
+MOBI_1917,Nigeria,Imo,NG,Nigeria
+MOBI_1918,Nigeria,Jigawa,NG,Nigeria
+MOBI_1919,Nigeria,Kaduna,NG,Nigeria
+MOBI_1920,Nigeria,Kano,NG,Nigeria
+MOBI_1921,Nigeria,Katsina,NG,Nigeria
+MOBI_1922,Nigeria,Kebbi,NG,Nigeria
+MOBI_1923,Nigeria,Kogi,NG,Nigeria
+MOBI_1924,Nigeria,Kwara,NG,Nigeria
+MOBI_1925,Nigeria,Lagos,NG,Nigeria
+MOBI_1926,Nigeria,Nasarawa,NG,Nigeria
+MOBI_1927,Nigeria,Niger,NG,Nigeria
+MOBI_1928,Nigeria,Ogun,NG,Nigeria
+MOBI_1929,Nigeria,Ondo,NG,Nigeria
+MOBI_1930,Nigeria,Osun,NG,Nigeria
+MOBI_1931,Nigeria,Oyo,NG,Nigeria
+MOBI_1932,Nigeria,Plateau,NG,Nigeria
+MOBI_1933,Nigeria,Rivers,NG,Nigeria
+MOBI_1934,Nigeria,Sokoto,NG,Nigeria
+MOBI_1935,Nigeria,Taraba,NG,Nigeria
+MOBI_1936,Nigeria,Yobe,NG,Nigeria
+MOBI_1937,Nigeria,Zamfara,NG,Nigeria
+MOBI_1938,Nicaragua,Boaco,NI,Nicaragua
+MOBI_1939,Nicaragua,Carazo,NI,Nicaragua
+MOBI_1940,Nicaragua,Chinandega,NI,Nicaragua
+MOBI_1941,Nicaragua,Chontales,NI,Nicaragua
+MOBI_1942,Nicaragua,Estelí,NI,Nicaragua
+MOBI_1943,Nicaragua,Granada,NI,Nicaragua
+MOBI_1944,Nicaragua,Jinotega (Departamento),NI,Nicaragua
+MOBI_1945,Nicaragua,Leon,NI,Nicaragua
+MOBI_1946,Nicaragua,Madriz,NI,Nicaragua
+MOBI_1947,Nicaragua,Managua,NI,Nicaragua
+MOBI_1948,Nicaragua,Masaya,NI,Nicaragua
+MOBI_1949,Nicaragua,Matagalpa (Departemento),NI,Nicaragua
+MOBI_1950,Nicaragua,North Carribean Coast Autonomous Region,NI,Nicaragua
+MOBI_1951,Nicaragua,Nueva Segovia,NI,Nicaragua
+MOBI_1952,Nicaragua,Rio San Juan,NI,Nicaragua
+MOBI_1953,Nicaragua,Rivas,NI,Nicaragua
+MOBI_1954,Nicaragua,South Atlantic Autonomous Region,NI,Nicaragua
+MOBI_1955,Netherlands (the),Drenthe,NL,Netherlands
+MOBI_1956,Netherlands (the),Flevoland,NL,Netherlands
+MOBI_1957,Netherlands (the),Fryslân,NL,Netherlands
+MOBI_1958,Netherlands (the),Gelderland,NL,Netherlands
+MOBI_1959,Netherlands (the),Groningen,NL,Netherlands
+MOBI_1960,Netherlands (the),Limburg,NL,Netherlands
+MOBI_1961,Netherlands (the),Noord-Brabant,NL,Netherlands
+MOBI_1962,Netherlands (the),Noord-Holland,NL,Netherlands
+MOBI_1963,Netherlands (the),Overijssel,NL,Netherlands
+MOBI_1964,Netherlands (the),Utrecht,NL,Netherlands
+MOBI_1965,Netherlands (the),Zeeland,NL,Netherlands
+MOBI_1966,Netherlands (the),Zuid-Holland,NL,Netherlands
+MOBI_1967,Norway,Agder,NO,Norway
+MOBI_1968,Norway,Innlandet,NO,Norway
+MOBI_1969,Norway,Møre og Romsdal,NO,Norway
+MOBI_1970,Norway,Nordland,NO,Norway
+MOBI_1971,Norway,Oslo,NO,Norway
+MOBI_1972,Norway,Rogaland,NO,Norway
+MOBI_1973,Norway,Troms og Finnmark,NO,Norway
+MOBI_1974,Norway,Trøndelag,NO,Norway
+MOBI_1975,Norway,Vestfold og Telemark,NO,Norway
+MOBI_1976,Norway,Vestland,NO,Norway
+MOBI_1977,Norway,Viken,NO,Norway
+MOBI_1978,Nepal,Bagmati,NP,Nepal
+MOBI_1979,Nepal,Gandaki,NP,Nepal
+MOBI_1980,Nepal,Karnali,NP,Nepal
+MOBI_1981,Nepal,Lumbini,NP,Nepal
+MOBI_1982,Nepal,Province 1,NP,Nepal
+MOBI_1983,Nepal,Province 2,NP,Nepal
+MOBI_1984,Nepal,Sudurpaschim,NP,Nepal
+MOBI_1985,Nauru,Aiwo,NR,Nauru
+MOBI_1986,Nauru,Anabar,NR,Nauru
+MOBI_1987,Nauru,Anetan,NR,Nauru
+MOBI_1988,Nauru,Anibare,NR,Nauru
+MOBI_1989,Nauru,Baiti,NR,Nauru
+MOBI_1990,Nauru,Boe,NR,Nauru
+MOBI_1991,Nauru,Buada,NR,Nauru
+MOBI_1992,Nauru,Denigomodu,NR,Nauru
+MOBI_1993,Nauru,Ewa,NR,Nauru
+MOBI_1994,Nauru,Ijuw,NR,Nauru
+MOBI_1995,Nauru,Meneng,NR,Nauru
+MOBI_1996,Nauru,Nibok,NR,Nauru
+MOBI_1997,Nauru,Uaboe,NR,Nauru
+MOBI_1998,Nauru,Yaren,NR,Nauru
+MOBI_1999,New Zealand,Auckland Region,NZ,New Zealand
+MOBI_2000,New Zealand,Bay of Plenty Region,NZ,New Zealand
+MOBI_2001,New Zealand,Canterbury Region,NZ,New Zealand
+MOBI_2002,New Zealand,Chatham Islands Territory,NZ,New Zealand
+MOBI_2003,New Zealand,Gisborne Region,NZ,New Zealand
+MOBI_2004,New Zealand,Hawke's Bay Region,NZ,New Zealand
+MOBI_2005,New Zealand,Manawatu-Wanganui Region,NZ,New Zealand
+MOBI_2006,New Zealand,Marlborough Region,NZ,New Zealand
+MOBI_2007,New Zealand,Nelson Region,NZ,New Zealand
+MOBI_2008,New Zealand,Northland Region,NZ,New Zealand
+MOBI_2009,New Zealand,Otago Region,NZ,New Zealand
+MOBI_2010,New Zealand,Southland Region,NZ,New Zealand
+MOBI_2011,New Zealand,Taranaki Region,NZ,New Zealand
+MOBI_2012,New Zealand,Tasman Region,NZ,New Zealand
+MOBI_2013,New Zealand,Waikato Region,NZ,New Zealand
+MOBI_2014,New Zealand,Wellington Region,NZ,New Zealand
+MOBI_2015,New Zealand,West Coast Region,NZ,New Zealand
+MOBI_2016,Oman,Ad Dakhiliyah,OM,Oman
+MOBI_2017,Oman,Al Batinah,OM,Oman
+MOBI_2018,Oman,Al Wusta,OM,Oman
+MOBI_2019,Oman,Ash Sharqiyah,OM,Oman
+MOBI_2020,Oman,Az Zahirah,OM,Oman
+MOBI_2021,Oman,Dhofar,OM,Oman
+MOBI_2022,Oman,Muscat,OM,Oman
+MOBI_2023,Panama,Colón Province,PA,Panama
+MOBI_2024,Panama,Comarca Emberá-Wounaan,PA,Panama
+MOBI_2025,Panama,Comarca Ngäbe-Buglé,PA,Panama
+MOBI_2026,Panama,Provincia de Bocas del Toro,PA,Panama
+MOBI_2027,Panama,Provincia de Chiriquí,PA,Panama
+MOBI_2028,Panama,Provincia de Coclé,PA,Panama
+MOBI_2029,Panama,Provincia de Darién,PA,Panama
+MOBI_2030,Panama,Provincia de Herrera,PA,Panama
+MOBI_2031,Panama,Provincia de Los Santos,PA,Panama
+MOBI_2032,Panama,Provincia de Panamá,PA,Panama
+MOBI_2033,Panama,Provincia de Panamá Oeste,PA,Panama
+MOBI_2034,Panama,Provincia de Veraguas,PA,Panama
+MOBI_2035,Peru,Amazonas,PE,Peru
+MOBI_2036,Peru,Ancash,PE,Peru
+MOBI_2037,Peru,Apurímac,PE,Peru
+MOBI_2038,Peru,Arequipa,PE,Peru
+MOBI_2039,Peru,Ayacucho,PE,Peru
+MOBI_2040,Peru,Cajamarca,PE,Peru
+MOBI_2041,Peru,Cusco,PE,Peru
+MOBI_2042,Peru,El Callao,PE,Peru
+MOBI_2043,Peru,Huancavelica,PE,Peru
+MOBI_2044,Peru,Huánuco,PE,Peru
+MOBI_2045,Peru,Ica,PE,Peru
+MOBI_2046,Peru,Junín,PE,Peru
+MOBI_2047,Peru,La Libertad,PE,Peru
+MOBI_2048,Peru,Lambayeque,PE,Peru
+MOBI_2049,Peru,Lima,PE,Peru
+MOBI_2050,Peru,Loreto,PE,Peru
+MOBI_2051,Peru,Madre de Dios,PE,Peru
+MOBI_2052,Peru,Moquegua,PE,Peru
+MOBI_2053,Peru,Municipalidad Metropolitana de Lima,PE,Peru
+MOBI_2054,Peru,Pasco,PE,Peru
+MOBI_2055,Peru,Piura,PE,Peru
+MOBI_2056,Peru,Puno,PE,Peru
+MOBI_2057,Peru,San Martín,PE,Peru
+MOBI_2058,Peru,Tacna,PE,Peru
+MOBI_2059,Peru,Tumbes,PE,Peru
+MOBI_2060,Peru,Ucayali,PE,Peru
+MOBI_2061,Papua New Guinea,Autonomous Region of Bougainville,PG,Papua New Guinea
+MOBI_2062,Papua New Guinea,Central Province,PG,Papua New Guinea
+MOBI_2063,Papua New Guinea,Chimbu (Simbu) Province,PG,Papua New Guinea
+MOBI_2064,Papua New Guinea,East New Britain Province,PG,Papua New Guinea
+MOBI_2065,Papua New Guinea,East Sepik Province,PG,Papua New Guinea
+MOBI_2066,Papua New Guinea,Eastern Highlands Province,PG,Papua New Guinea
+MOBI_2067,Papua New Guinea,Enga Province,PG,Papua New Guinea
+MOBI_2068,Papua New Guinea,Gulf Province,PG,Papua New Guinea
+MOBI_2069,Papua New Guinea,Hela Province,PG,Papua New Guinea
+MOBI_2070,Papua New Guinea,Jiwaka Province,PG,Papua New Guinea
+MOBI_2071,Papua New Guinea,Madang Province,PG,Papua New Guinea
+MOBI_2072,Papua New Guinea,Manus Province,PG,Papua New Guinea
+MOBI_2073,Papua New Guinea,Milne Bay Province,PG,Papua New Guinea
+MOBI_2074,Papua New Guinea,Morobe Province,PG,Papua New Guinea
+MOBI_2075,Papua New Guinea,National Capital District,PG,Papua New Guinea
+MOBI_2076,Papua New Guinea,New Ireland Province,PG,Papua New Guinea
+MOBI_2077,Papua New Guinea,Northern (Oro) Province,PG,Papua New Guinea
+MOBI_2078,Papua New Guinea,Southern Highlands Province,PG,Papua New Guinea
+MOBI_2079,Papua New Guinea,West New Britain Province,PG,Papua New Guinea
+MOBI_2080,Papua New Guinea,West Sepik (Sandaun) Province,PG,Papua New Guinea
+MOBI_2081,Papua New Guinea,Western Highlands Province,PG,Papua New Guinea
+MOBI_2082,Papua New Guinea,Western Province,PG,Papua New Guinea
+MOBI_2083,Philippines (the),ARMM,PH,Philippines
+MOBI_2084,Philippines (the),Bicol Region,PH,Philippines
+MOBI_2085,Philippines (the),Cagayan Valley,PH,Philippines
+MOBI_2086,Philippines (the),Calabarzon,PH,Philippines
+MOBI_2087,Philippines (the),CAR,PH,Philippines
+MOBI_2088,Philippines (the),Caraga,PH,Philippines
+MOBI_2089,Philippines (the),Central Luzon,PH,Philippines
+MOBI_2090,Philippines (the),Central Visayas,PH,Philippines
+MOBI_2091,Philippines (the),Davao Region,PH,Philippines
+MOBI_2092,Philippines (the),Eastern Visayas,PH,Philippines
+MOBI_2093,Philippines (the),Ilocos Region,PH,Philippines
+MOBI_2094,Philippines (the),Mimaropa,PH,Philippines
+MOBI_2095,Philippines (the),NCR,PH,Philippines
+MOBI_2096,Philippines (the),Northern Mindanao,PH,Philippines
+MOBI_2097,Philippines (the),Soccsksargen,PH,Philippines
+MOBI_2098,Philippines (the),Western Visayas,PH,Philippines
+MOBI_2099,Philippines (the),Zamboanga Peninsula,PH,Philippines
+MOBI_2100,Pakistan,Azad Kashmir,PK,Pakistan
+MOBI_2101,Pakistan,Balochistan,PK,Pakistan
+MOBI_2102,Pakistan,Gilgit-Baltistan,PK,Pakistan
+MOBI_2103,Pakistan,Islamabad Capital Territory,PK,Pakistan
+MOBI_2104,Pakistan,Khyber Pakhtunkhwa,PK,Pakistan
+MOBI_2105,Pakistan,Punjab,PK,Pakistan
+MOBI_2106,Pakistan,Sindh,PK,Pakistan
+MOBI_2107,Poland,Greater Poland Voivodeship,PL,Poland
+MOBI_2108,Poland,Kuyavian-Pomeranian Voivodeship,PL,Poland
+MOBI_2109,Poland,Lesser Poland Voivodeship,PL,Poland
+MOBI_2110,Poland,Łódź Voivodeship,PL,Poland
+MOBI_2111,Poland,Lower Silesian Voivodeship,PL,Poland
+MOBI_2112,Poland,Lublin Voivodeship,PL,Poland
+MOBI_2113,Poland,Lubusz Voivodeship,PL,Poland
+MOBI_2114,Poland,Masovian Voivodeship,PL,Poland
+MOBI_2115,Poland,Opole Voivodeship,PL,Poland
+MOBI_2116,Poland,Podlaskie Voivodeship,PL,Poland
+MOBI_2117,Poland,Pomeranian Voivodeship,PL,Poland
+MOBI_2118,Poland,Silesian Voivodeship,PL,Poland
+MOBI_2119,Poland,Subcarpathian Voivodeship,PL,Poland
+MOBI_2120,Poland,Świętokrzyskie Voivodeship,PL,Poland
+MOBI_2121,Poland,Warmian-Masurian Voivodeship,PL,Poland
+MOBI_2122,Poland,West Pomeranian Voivodeship,PL,Poland
+MOBI_2123,Portugal,ÃVORA,PT,Portugal
+MOBI_2124,Portugal,AVEIRO,PT,Portugal
+MOBI_2125,Portugal,BEJA,PT,Portugal
+MOBI_2126,Portugal,BRAGA,PT,Portugal
+MOBI_2127,Portugal,BRAGANÃA,PT,Portugal
+MOBI_2128,Portugal,CASTELO BRANCO,PT,Portugal
+MOBI_2129,Portugal,COIMBRA,PT,Portugal
+MOBI_2130,Portugal,FARO,PT,Portugal
+MOBI_2131,Portugal,GUARDA,PT,Portugal
+MOBI_2132,Portugal,LEIRIA,PT,Portugal
+MOBI_2133,Portugal,LISBOA,PT,Portugal
+MOBI_2134,Portugal,PORTALEGRE,PT,Portugal
+MOBI_2135,Portugal,PORTO,PT,Portugal
+MOBI_2136,Portugal,RegiÃ£o AutÃ³noma da Madeira,PT,Portugal
+MOBI_2137,Portugal,RegiÃ£o AutÃ³noma dos AÃ§ores,PT,Portugal
+MOBI_2138,Portugal,SANTARÃM,PT,Portugal
+MOBI_2139,Portugal,SETÃBAL,PT,Portugal
+MOBI_2140,Portugal,VIANA DO CASTELO,PT,Portugal
+MOBI_2141,Portugal,VILA REAL,PT,Portugal
+MOBI_2142,Portugal,VISEU,PT,Portugal
+MOBI_2143,Palau,Aimeliik,PW,Palau
+MOBI_2144,Palau,Airai,PW,Palau
+MOBI_2145,Palau,Angaur,PW,Palau
+MOBI_2146,Palau,Hatohobei,PW,Palau
+MOBI_2147,Palau,Kayangel,PW,Palau
+MOBI_2148,Palau,Koror,PW,Palau
+MOBI_2149,Palau,Melekeok,PW,Palau
+MOBI_2150,Palau,Ngaraard,PW,Palau
+MOBI_2151,Palau,Ngarchelong,PW,Palau
+MOBI_2152,Palau,Ngardmau,PW,Palau
+MOBI_2153,Palau,Ngatpang,PW,Palau
+MOBI_2154,Palau,Ngchesar,PW,Palau
+MOBI_2155,Palau,Ngeremlengui,PW,Palau
+MOBI_2156,Palau,Ngiwal,PW,Palau
+MOBI_2157,Palau,Peleliu,PW,Palau
+MOBI_2158,Palau,Sonsorol,PW,Palau
+MOBI_2159,Paraguay,ALTO PARAGUAY,PY,Paraguay
+MOBI_2160,Paraguay,ALTO PARANA,PY,Paraguay
+MOBI_2161,Paraguay,AMAMBAY,PY,Paraguay
+MOBI_2162,Paraguay,ASUNCION,PY,Paraguay
+MOBI_2163,Paraguay,BOQUERON,PY,Paraguay
+MOBI_2164,Paraguay,CAAGUAZU,PY,Paraguay
+MOBI_2165,Paraguay,CAAZAPA,PY,Paraguay
+MOBI_2166,Paraguay,CANINDEYU,PY,Paraguay
+MOBI_2167,Paraguay,CENTRAL,PY,Paraguay
+MOBI_2168,Paraguay,CONCEPCION,PY,Paraguay
+MOBI_2169,Paraguay,CORDILLERA,PY,Paraguay
+MOBI_2170,Paraguay,GUAIRA,PY,Paraguay
+MOBI_2171,Paraguay,ITAPUA,PY,Paraguay
+MOBI_2172,Paraguay,MISIONES,PY,Paraguay
+MOBI_2173,Paraguay,ÑEEMBUCU,PY,Paraguay
+MOBI_2174,Paraguay,PARAGUARI,PY,Paraguay
+MOBI_2175,Paraguay,PRESIDENTE HAYES,PY,Paraguay
+MOBI_2176,Paraguay,SAN PEDRO,PY,Paraguay
+MOBI_2177,Qatar,Al Daayen,QA,Qatar
+MOBI_2178,Qatar,Al Khor and Al Thakhira,QA,Qatar
+MOBI_2179,Qatar,Al Rayyan,QA,Qatar
+MOBI_2180,Qatar,Al Shamal,QA,Qatar
+MOBI_2181,Qatar,Al Sheehaniya,QA,Qatar
+MOBI_2182,Qatar,Al Wakra,QA,Qatar
+MOBI_2183,Qatar,Doha,QA,Qatar
+MOBI_2184,Qatar,Umm Slal,QA,Qatar
+MOBI_2185,Romania,ALBA,RO,Romania
+MOBI_2186,Romania,ARAD,RO,Romania
+MOBI_2187,Romania,ARGES,RO,Romania
+MOBI_2188,Romania,BACAU,RO,Romania
+MOBI_2189,Romania,BIHOR,RO,Romania
+MOBI_2190,Romania,BISTRITA-NASAUD,RO,Romania
+MOBI_2191,Romania,BOTOSANI,RO,Romania
+MOBI_2192,Romania,BRAILA,RO,Romania
+MOBI_2193,Romania,BRASOV,RO,Romania
+MOBI_2194,Romania,BUCURESTI,RO,Romania
+MOBI_2195,Romania,BUZAU,RO,Romania
+MOBI_2196,Romania,CALARASI,RO,Romania
+MOBI_2197,Romania,CARAS-SEVERIN,RO,Romania
+MOBI_2198,Romania,CLUJ,RO,Romania
+MOBI_2199,Romania,CONSTANTA,RO,Romania
+MOBI_2200,Romania,COVASNA,RO,Romania
+MOBI_2201,Romania,DAMBOVITA,RO,Romania
+MOBI_2202,Romania,DOLJ,RO,Romania
+MOBI_2203,Romania,GALATI,RO,Romania
+MOBI_2204,Romania,GIURGIU,RO,Romania
+MOBI_2205,Romania,GORJ,RO,Romania
+MOBI_2206,Romania,HARGHITA,RO,Romania
+MOBI_2207,Romania,HUNEDOARA,RO,Romania
+MOBI_2208,Romania,IALOMITA,RO,Romania
+MOBI_2209,Romania,IASI,RO,Romania
+MOBI_2210,Romania,ILFOV,RO,Romania
+MOBI_2211,Romania,MARAMURES,RO,Romania
+MOBI_2212,Romania,MEHEDINTI,RO,Romania
+MOBI_2213,Romania,MURES,RO,Romania
+MOBI_2214,Romania,NEAMT,RO,Romania
+MOBI_2215,Romania,OLT,RO,Romania
+MOBI_2216,Romania,PRAHOVA,RO,Romania
+MOBI_2217,Romania,SALAJ,RO,Romania
+MOBI_2218,Romania,SATU MARE,RO,Romania
+MOBI_2219,Romania,SIBIU,RO,Romania
+MOBI_2220,Romania,SUCEAVA,RO,Romania
+MOBI_2221,Romania,TELEORMAN,RO,Romania
+MOBI_2222,Romania,TIMIS,RO,Romania
+MOBI_2223,Romania,TULCEA,RO,Romania
+MOBI_2224,Romania,VALCEA,RO,Romania
+MOBI_2225,Romania,VASLUI,RO,Romania
+MOBI_2226,Romania,VRANCEA,RO,Romania
+MOBI_2227,Romania,SATU MARE,RO,Romania
+MOBI_2228,Serbia,Belgrade,RS,Serbia
+MOBI_2229,Serbia,Bor District,RS,Serbia
+MOBI_2230,Serbia,Branicevo District,RS,Serbia
+MOBI_2231,Serbia,Central Banat District,RS,Serbia
+MOBI_2232,Serbia,Jablanica District,RS,Serbia
+MOBI_2233,Serbia,Kolubara District,RS,Serbia
+MOBI_2234,Serbia,Macva District,RS,Serbia
+MOBI_2235,Serbia,Moravica District,RS,Serbia
+MOBI_2236,Serbia,Nisava District,RS,Serbia
+MOBI_2237,Serbia,North Backa District,RS,Serbia
+MOBI_2238,Serbia,North Banat District,RS,Serbia
+MOBI_2239,Serbia,Pcinja District,RS,Serbia
+MOBI_2240,Serbia,Pirot District,RS,Serbia
+MOBI_2241,Serbia,Podunavlje District,RS,Serbia
+MOBI_2242,Serbia,Pomoravlje District,RS,Serbia
+MOBI_2243,Serbia,Rasina District,RS,Serbia
+MOBI_2244,Serbia,Raska District,RS,Serbia
+MOBI_2245,Serbia,South Backa District,RS,Serbia
+MOBI_2246,Serbia,South Banat District,RS,Serbia
+MOBI_2247,Serbia,Sumadija District,RS,Serbia
+MOBI_2248,Serbia,Syrmia District,RS,Serbia
+MOBI_2249,Serbia,Toplica District,RS,Serbia
+MOBI_2250,Serbia,West Backa District,RS,Serbia
+MOBI_2251,Serbia,Zajecar District,RS,Serbia
+MOBI_2252,Serbia,Zlatibor District,RS,Serbia
+MOBI_2253,Russian Federation (the),Adygea,RU,Russia
+MOBI_2254,Russian Federation (the),Altai Krai,RU,Russia
+MOBI_2255,Russian Federation (the),Altai Republic,RU,Russia
+MOBI_2256,Russian Federation (the),Amur Oblast,RU,Russia
+MOBI_2257,Russian Federation (the),Arkhangelsk Oblast,RU,Russia
+MOBI_2258,Russian Federation (the),Astrakhan Oblast,RU,Russia
+MOBI_2259,Russian Federation (the),Bashkortostan,RU,Russia
+MOBI_2260,Russian Federation (the),Belgorod Oblast,RU,Russia
+MOBI_2261,Russian Federation (the),Bryansk Oblast,RU,Russia
+MOBI_2262,Russian Federation (the),Buryatia,RU,Russia
+MOBI_2263,Russian Federation (the),Chechnya,RU,Russia
+MOBI_2264,Russian Federation (the),Chelyabinsk Oblast,RU,Russia
+MOBI_2265,Russian Federation (the),Chukotka Autonomous Okrug,RU,Russia
+MOBI_2266,Russian Federation (the),Chuvashia,RU,Russia
+MOBI_2267,Russian Federation (the),Dagestan,RU,Russia
+MOBI_2268,Russian Federation (the),Ingushetia,RU,Russia
+MOBI_2269,Russian Federation (the),Irkutsk Oblast,RU,Russia
+MOBI_2270,Russian Federation (the),Ivanovo Oblast,RU,Russia
+MOBI_2271,Russian Federation (the),Jewish Autonomous Oblast,RU,Russia
+MOBI_2272,Russian Federation (the),Kabardino-Balkaria,RU,Russia
+MOBI_2273,Russian Federation (the),Kaliningrad,RU,Russia
+MOBI_2274,Russian Federation (the),Kalmykia,RU,Russia
+MOBI_2275,Russian Federation (the),Kaluga Oblast,RU,Russia
+MOBI_2276,Russian Federation (the),Kamchatka Krai,RU,Russia
+MOBI_2277,Russian Federation (the),Karachay-Cherkessia,RU,Russia
+MOBI_2278,Russian Federation (the),Kemerovo Oblast,RU,Russia
+MOBI_2279,Russian Federation (the),Khabarovsk Krai,RU,Russia
+MOBI_2280,Russian Federation (the),Khakassia,RU,Russia
+MOBI_2281,Russian Federation (the),Khanty-Mansiysk Autonomous Okrug – Ugra,RU,Russia
+MOBI_2282,Russian Federation (the),Kirov Oblast,RU,Russia
+MOBI_2283,Russian Federation (the),Komi Republic,RU,Russia
+MOBI_2284,Russian Federation (the),Kostroma Oblast,RU,Russia
+MOBI_2285,Russian Federation (the),Krasnodar Krai,RU,Russia
+MOBI_2286,Russian Federation (the),Krasnoyarsk Krai,RU,Russia
+MOBI_2287,Russian Federation (the),Kurgan Oblast,RU,Russia
+MOBI_2288,Russian Federation (the),Kursk Oblast,RU,Russia
+MOBI_2289,Russian Federation (the),Leningrad oblast,RU,Russia
+MOBI_2290,Russian Federation (the),Lipetsk Oblast,RU,Russia
+MOBI_2291,Russian Federation (the),Magadan Oblast,RU,Russia
+MOBI_2292,Russian Federation (the),Mari El,RU,Russia
+MOBI_2293,Russian Federation (the),Moscow,RU,Russia
+MOBI_2294,Russian Federation (the),Moscow Oblast,RU,Russia
+MOBI_2295,Russian Federation (the),Murmansk Oblast,RU,Russia
+MOBI_2296,Russian Federation (the),Nenets Autonomous Okrug,RU,Russia
+MOBI_2297,Russian Federation (the),Nizhny Novgorod Oblast,RU,Russia
+MOBI_2298,Russian Federation (the),North Ossetia–Alania,RU,Russia
+MOBI_2299,Russian Federation (the),Novgorod Oblast,RU,Russia
+MOBI_2300,Russian Federation (the),Novosibirsk Oblast,RU,Russia
+MOBI_2301,Russian Federation (the),Omsk Oblast,RU,Russia
+MOBI_2302,Russian Federation (the),Orenburg Oblast,RU,Russia
+MOBI_2303,Russian Federation (the),Oryol Oblast,RU,Russia
+MOBI_2304,Russian Federation (the),Penza Oblast,RU,Russia
+MOBI_2305,Russian Federation (the),Perm Krai,RU,Russia
+MOBI_2306,Russian Federation (the),Primorsky Krai,RU,Russia
+MOBI_2307,Russian Federation (the),Pskov Oblast,RU,Russia
+MOBI_2308,Russian Federation (the),Republic of Karelia,RU,Russia
+MOBI_2309,Russian Federation (the),Republic of Mordovia,RU,Russia
+MOBI_2310,Russian Federation (the),Rostov Oblast,RU,Russia
+MOBI_2311,Russian Federation (the),Ryazan Oblast,RU,Russia
+MOBI_2312,Russian Federation (the),Sakha Republic,RU,Russia
+MOBI_2313,Russian Federation (the),Sakhalin Oblast,RU,Russia
+MOBI_2314,Russian Federation (the),Samara Oblast,RU,Russia
+MOBI_2315,Russian Federation (the),Saratov Oblast,RU,Russia
+MOBI_2316,Russian Federation (the),Smolensk Oblast,RU,Russia
+MOBI_2317,Russian Federation (the),Stavropol Krai,RU,Russia
+MOBI_2318,Russian Federation (the),Sverdlovsk Oblast,RU,Russia
+MOBI_2319,Russian Federation (the),Tambov Oblast,RU,Russia
+MOBI_2320,Russian Federation (the),Tatarstan,RU,Russia
+MOBI_2321,Russian Federation (the),Tomsk Oblast,RU,Russia
+MOBI_2322,Russian Federation (the),Tula Oblast,RU,Russia
+MOBI_2323,Russian Federation (the),Tuva,RU,Russia
+MOBI_2324,Russian Federation (the),Tver Oblast,RU,Russia
+MOBI_2325,Russian Federation (the),Tyumen Oblast,RU,Russia
+MOBI_2326,Russian Federation (the),Udmurtia,RU,Russia
+MOBI_2327,Russian Federation (the),Ulyanovsk Oblast,RU,Russia
+MOBI_2328,Russian Federation (the),Vladimir Oblast,RU,Russia
+MOBI_2329,Russian Federation (the),Volgograd Oblast,RU,Russia
+MOBI_2330,Russian Federation (the),Vologda Oblast,RU,Russia
+MOBI_2331,Russian Federation (the),Voronezh Oblast,RU,Russia
+MOBI_2332,Russian Federation (the),Yamalo-Nenets Autonomous Okrug,RU,Russia
+MOBI_2333,Russian Federation (the),Yaroslavl Oblast,RU,Russia
+MOBI_2334,Russian Federation (the),Zabaykalsky Krai,RU,Russia
+MOBI_2335,Rwanda,City of Kigali,RW,Rwanda
+MOBI_2336,Rwanda,Eastern Province,RW,Rwanda
+MOBI_2337,Rwanda,Northern Province,RW,Rwanda
+MOBI_2338,Rwanda,Southern Province,RW,Rwanda
+MOBI_2339,Rwanda,Western Province,RW,Rwanda
+MOBI_2340,Saudi Arabia,Al Bahah Region,SA,Saudi Arabia
+MOBI_2341,Saudi Arabia,Al Jawf Region,SA,Saudi Arabia
+MOBI_2342,Saudi Arabia,Al Madinah Region,SA,Saudi Arabia
+MOBI_2343,Saudi Arabia,Al-Qassim Region,SA,Saudi Arabia
+MOBI_2344,Saudi Arabia,'Asir Region,SA,Saudi Arabia
+MOBI_2345,Saudi Arabia,Eastern Region,SA,Saudi Arabia
+MOBI_2346,Saudi Arabia,Hayel Region,SA,Saudi Arabia
+MOBI_2347,Saudi Arabia,Jazan Region,SA,Saudi Arabia
+MOBI_2348,Saudi Arabia,Makkah Region,SA,Saudi Arabia
+MOBI_2349,Saudi Arabia,Najran Region,SA,Saudi Arabia
+MOBI_2350,Saudi Arabia,Northern Borders Region,SA,Saudi Arabia
+MOBI_2351,Saudi Arabia,Riyadh Region,SA,Saudi Arabia
+MOBI_2352,Saudi Arabia,Tabuk Region,SA,Saudi Arabia
+MOBI_2353,Solomon Islands,Capital Territory (Honiara),SB,Solomon Is
+MOBI_2354,Solomon Islands,Central,SB,Solomon Is
+MOBI_2355,Solomon Islands,Choiseul,SB,Solomon Is
+MOBI_2356,Solomon Islands,Guadalcanal,SB,Solomon Is
+MOBI_2357,Solomon Islands,Isabel,SB,Solomon Is
+MOBI_2358,Solomon Islands,Makira,SB,Solomon Is
+MOBI_2359,Solomon Islands,Malaita,SB,Solomon Is
+MOBI_2360,Solomon Islands,Temotu,SB,Solomon Is
+MOBI_2361,Solomon Islands,Western,SB,Solomon Is
+MOBI_2362,Seychelles,Anse Royal,SC,Seychelles
+MOBI_2363,Seychelles,Baie Saint,SC,Seychelles
+MOBI_2364,Seychelles,Bel Air,SC,Seychelles
+MOBI_2365,Seychelles,La Digue a,SC,Seychelles
+MOBI_2366,Sudan (the),Blue Nile,SD,Sudan
+MOBI_2367,Sudan (the),Central Darfur,SD,Sudan
+MOBI_2368,Sudan (the),East Darfur,SD,Sudan
+MOBI_2369,Sudan (the),Gedaref,SD,Sudan
+MOBI_2370,Sudan (the),Gezira,SD,Sudan
+MOBI_2371,Sudan (the),Kassala,SD,Sudan
+MOBI_2372,Sudan (the),Khartoum,SD,Sudan
+MOBI_2373,Sudan (the),North Darfur,SD,Sudan
+MOBI_2374,Sudan (the),North Kordofan,SD,Sudan
+MOBI_2375,Sudan (the),Northern,SD,Sudan
+MOBI_2376,Sudan (the),Red Sea,SD,Sudan
+MOBI_2377,Sudan (the),River Nile,SD,Sudan
+MOBI_2378,Sudan (the),Sennar,SD,Sudan
+MOBI_2379,Sudan (the),South Darfur,SD,Sudan
+MOBI_2380,Sudan (the),South Kordofan,SD,Sudan
+MOBI_2381,Sudan (the),West Darfur,SD,Sudan
+MOBI_2382,Sudan (the),West Kordofan,SD,Sudan
+MOBI_2383,Sudan (the),White Nile,SD,Sudan
+MOBI_2384,Sudan (the),South Darfur,SD,Sudan
+MOBI_2385,Sweden,Blekinge län,SE,Sweden
+MOBI_2386,Sweden,Dalarnas län,SE,Sweden
+MOBI_2387,Sweden,Gävleborgs län,SE,Sweden
+MOBI_2388,Sweden,Gotlands län,SE,Sweden
+MOBI_2389,Sweden,Hallands län,SE,Sweden
+MOBI_2390,Sweden,Jämtlands län,SE,Sweden
+MOBI_2391,Sweden,Jönköpings län,SE,Sweden
+MOBI_2392,Sweden,Kalmar län,SE,Sweden
+MOBI_2393,Sweden,Kronobergs län,SE,Sweden
+MOBI_2394,Sweden,Norrbottens län,SE,Sweden
+MOBI_2395,Sweden,Örebro län,SE,Sweden
+MOBI_2396,Sweden,Östergötlands län,SE,Sweden
+MOBI_2397,Sweden,Skåne län,SE,Sweden
+MOBI_2398,Sweden,Södermanlands län,SE,Sweden
+MOBI_2399,Sweden,Stockholms län,SE,Sweden
+MOBI_2400,Sweden,Uppsala län,SE,Sweden
+MOBI_2401,Sweden,Värmlands län,SE,Sweden
+MOBI_2402,Sweden,Västerbottens län,SE,Sweden
+MOBI_2403,Sweden,Västernorrlands län,SE,Sweden
+MOBI_2404,Sweden,Västmanlands län,SE,Sweden
+MOBI_2405,Sweden,Västra Götalands län,SE,Sweden
+MOBI_2406,Singapore,CENTRAL REGION,SG,Singapore
+MOBI_2407,Singapore,EAST REGION,SG,Singapore
+MOBI_2408,Singapore,NORTH REGION,SG,Singapore
+MOBI_2409,Singapore,NORTH-EAST REGION,SG,Singapore
+MOBI_2410,Singapore,WEST REGION,SG,Singapore
+MOBI_2411,Slovenia,Vzhodna,SI,Slovenia
+MOBI_2412,Slovenia,Zahodna Slovenija,SI,Slovenia
+MOBI_2413,Slovakia,Region of Banská Bystrica,SK,Slovakia
+MOBI_2414,Slovakia,Region of Bratislava,SK,Slovakia
+MOBI_2415,Slovakia,Region of Košice,SK,Slovakia
+MOBI_2416,Slovakia,Region of Nitra,SK,Slovakia
+MOBI_2417,Slovakia,Region of Prešov,SK,Slovakia
+MOBI_2418,Slovakia,Region of Trenčín,SK,Slovakia
+MOBI_2419,Slovakia,Region of Trnava,SK,Slovakia
+MOBI_2420,Slovakia,Region of Žilina,SK,Slovakia
+MOBI_2421,Sierra Leone,Eastern,SL,Sierra Leone
+MOBI_2422,Sierra Leone,Northern,SL,Sierra Leone
+MOBI_2423,Sierra Leone,Southern,SL,Sierra Leone
+MOBI_2424,Sierra Leone,Western Area,SL,Sierra Leone
+MOBI_2425,San Marino,Acquaviva,SM,San Marino
+MOBI_2426,San Marino,Borgo Maggiore,SM,San Marino
+MOBI_2427,San Marino,Chiesanuova,SM,San Marino
+MOBI_2428,San Marino,Città di San Marino,SM,San Marino
+MOBI_2429,San Marino,Domagnano,SM,San Marino
+MOBI_2430,San Marino,Faetano,SM,San Marino
+MOBI_2431,San Marino,Fiorentino,SM,San Marino
+MOBI_2432,San Marino,Montegiardino,SM,San Marino
+MOBI_2433,San Marino,Serravalle,SM,San Marino
+MOBI_2434,Senegal,Dakar,SN,Senegal
+MOBI_2435,Senegal,Diourbel,SN,Senegal
+MOBI_2436,Senegal,Fatick,SN,Senegal
+MOBI_2437,Senegal,Kaffrine,SN,Senegal
+MOBI_2438,Senegal,Kaolack,SN,Senegal
+MOBI_2439,Senegal,Kedougou,SN,Senegal
+MOBI_2440,Senegal,Kolda,SN,Senegal
+MOBI_2441,Senegal,Louga,SN,Senegal
+MOBI_2442,Senegal,Matam,SN,Senegal
+MOBI_2443,Senegal,Saint Louis,SN,Senegal
+MOBI_2444,Senegal,Sedhiou,SN,Senegal
+MOBI_2445,Senegal,Tambacounda,SN,Senegal
+MOBI_2446,Senegal,Thies,SN,Senegal
+MOBI_2447,Senegal,Ziguinchor,SN,Senegal
+MOBI_2448,Somalia,Awdal,SO,Somalia
+MOBI_2449,Somalia,Bakool,SO,Somalia
+MOBI_2450,Somalia,Banadir,SO,Somalia
+MOBI_2451,Somalia,Bari,SO,Somalia
+MOBI_2452,Somalia,Bay,SO,Somalia
+MOBI_2453,Somalia,Galgaduud,SO,Somalia
+MOBI_2454,Somalia,Gedo,SO,Somalia
+MOBI_2455,Somalia,Hiiraan,SO,Somalia
+MOBI_2456,Somalia,Lower Juba,SO,Somalia
+MOBI_2457,Somalia,Lower Shebelle,SO,Somalia
+MOBI_2458,Somalia,Middle Juba,SO,Somalia
+MOBI_2459,Somalia,Middle Shebelle,SO,Somalia
+MOBI_2460,Somalia,Mudug,SO,Somalia
+MOBI_2461,Somalia,Nugaal,SO,Somalia
+MOBI_2462,Somalia,Sanaag,SO,Somalia
+MOBI_2463,Somalia,Sool,SO,Somalia
+MOBI_2464,Somalia,Togdheer,SO,Somalia
+MOBI_2465,Somalia,Woqooyi Galbeed,SO,Somalia
+MOBI_2466,Suriname,Brokopondo,SR,Suriname
+MOBI_2467,Suriname,Commewijne,SR,Suriname
+MOBI_2468,Suriname,Coronie,SR,Suriname
+MOBI_2469,Suriname,Marowijne,SR,Suriname
+MOBI_2470,Suriname,Nickerie,SR,Suriname
+MOBI_2471,Suriname,Para,SR,Suriname
+MOBI_2472,Suriname,Paramaribo,SR,Suriname
+MOBI_2473,Suriname,Saramacca,SR,Suriname
+MOBI_2474,Suriname,Sipaliwini,SR,Suriname
+MOBI_2475,Suriname,Wanica,SR,Suriname
+MOBI_2476,South Sudan,Central Equatoria,SS,South Sudan
+MOBI_2477,South Sudan,Eastern Equatoria,SS,South Sudan
+MOBI_2478,South Sudan,Jonglei,SS,South Sudan
+MOBI_2479,South Sudan,Lakes,SS,South Sudan
+MOBI_2480,South Sudan,Northern Bahr el Ghazal,SS,South Sudan
+MOBI_2481,South Sudan,Unity,SS,South Sudan
+MOBI_2482,South Sudan,Upper Nile,SS,South Sudan
+MOBI_2483,South Sudan,Warrap,SS,South Sudan
+MOBI_2484,South Sudan,Western Bahr el Ghazal,SS,South Sudan
+MOBI_2485,South Sudan,Western Equatoria,SS,South Sudan
+MOBI_2486,Sao Tome and Principe,Príncipe Province,ST,Sao Tome & Principe
+MOBI_2487,Sao Tome and Principe,São Tomé Province,ST,Sao Tome & Principe
+MOBI_2488,El Salvador,Departamento de Ahuachapán,SV,El Salvador
+MOBI_2489,El Salvador,Departamento de Cabañas,SV,El Salvador
+MOBI_2490,El Salvador,Departamento de Chalatenango,SV,El Salvador
+MOBI_2491,El Salvador,Departamento de Cuscatlán,SV,El Salvador
+MOBI_2492,El Salvador,Departamento de La Paz,SV,El Salvador
+MOBI_2493,El Salvador,Departamento de La Unión,SV,El Salvador
+MOBI_2494,El Salvador,Departamento de Morazán,SV,El Salvador
+MOBI_2495,El Salvador,Departamento de San Miguel,SV,El Salvador
+MOBI_2496,El Salvador,Departamento de San Salvador,SV,El Salvador
+MOBI_2497,El Salvador,Departamento de Santa Ana,SV,El Salvador
+MOBI_2498,El Salvador,Departamento de Sonsonate,SV,El Salvador
+MOBI_2499,El Salvador,Departamento de Usulután,SV,El Salvador
+MOBI_2500,El Salvador,La Libertad,SV,El Salvador
+MOBI_2501,El Salvador,San Vicente,SV,El Salvador
+MOBI_2502,Syrian Arab Republic (the),Aleppo,SY,Syria
+MOBI_2503,Syrian Arab Republic (the),Al-Hasakeh,SY,Syria
+MOBI_2504,Syrian Arab Republic (the),Ar-Raqqa,SY,Syria
+MOBI_2505,Syrian Arab Republic (the),As-Sweida,SY,Syria
+MOBI_2506,Syrian Arab Republic (the),Damascus,SY,Syria
+MOBI_2507,Syrian Arab Republic (the),Dar'a,SY,Syria
+MOBI_2508,Syrian Arab Republic (the),Deir-ez-Zor,SY,Syria
+MOBI_2509,Syrian Arab Republic (the),Hama,SY,Syria
+MOBI_2510,Syrian Arab Republic (the),Homs,SY,Syria
+MOBI_2511,Syrian Arab Republic (the),Idleb,SY,Syria
+MOBI_2512,Syrian Arab Republic (the),Lattakia,SY,Syria
+MOBI_2513,Syrian Arab Republic (the),Quneitra,SY,Syria
+MOBI_2514,Syrian Arab Republic (the),Rural Damascus,SY,Syria
+MOBI_2515,Syrian Arab Republic (the),Tartous,SY,Syria
+MOBI_2516,Eswatini,Hhohho,SZ,Swaziland
+MOBI_2517,Eswatini,Lubombo,SZ,Swaziland
+MOBI_2518,Eswatini,Manzini,SZ,Swaziland
+MOBI_2519,Eswatini,Shiselweni,SZ,Swaziland
+MOBI_2520,Chad,Bahr el Gazel,TD,Chad
+MOBI_2521,Chad,Batha,TD,Chad
+MOBI_2522,Chad,Borkou,TD,Chad
+MOBI_2523,Chad,Chari-Baguirmi,TD,Chad
+MOBI_2524,Chad,Ennedi-Est,TD,Chad
+MOBI_2525,Chad,Ennedi-Ouest,TD,Chad
+MOBI_2526,Chad,Guéra,TD,Chad
+MOBI_2527,Chad,Hadjer-Lamis,TD,Chad
+MOBI_2528,Chad,Kanem,TD,Chad
+MOBI_2529,Chad,Lac,TD,Chad
+MOBI_2530,Chad,Logone Occidental,TD,Chad
+MOBI_2531,Chad,Logone Oriental,TD,Chad
+MOBI_2532,Chad,Mandoul,TD,Chad
+MOBI_2533,Chad,Mayo-Kebbi Est,TD,Chad
+MOBI_2534,Chad,Mayo-Kebbi Ouest,TD,Chad
+MOBI_2535,Chad,Moyen-Chari,TD,Chad
+MOBI_2536,Chad,N'Djamena Region,TD,Chad
+MOBI_2537,Chad,Ouaddaï,TD,Chad
+MOBI_2538,Chad,Salamat,TD,Chad
+MOBI_2539,Chad,Sila,TD,Chad
+MOBI_2540,Chad,Tandjilé,TD,Chad
+MOBI_2541,Chad,Tibesti,TD,Chad
+MOBI_2542,Chad,Wadi Fira,TD,Chad
+MOBI_2543,Togo,Centrale Region,TG,Togo
+MOBI_2544,Togo,Kara Region,TG,Togo
+MOBI_2545,Togo,Maritime Region,TG,Togo
+MOBI_2546,Togo,Plateaux Region,TG,Togo
+MOBI_2547,Togo,Savanes Region,TG,Togo
+MOBI_2548,Thailand,Amnat Charoen Province,TH,Thailand
+MOBI_2549,Thailand,Ang Thong Province,TH,Thailand
+MOBI_2550,Thailand,Bangkok,TH,Thailand
+MOBI_2551,Thailand,Bueng Kan Province,TH,Thailand
+MOBI_2552,Thailand,Buri Ram Province,TH,Thailand
+MOBI_2553,Thailand,Chachoengsao Province,TH,Thailand
+MOBI_2554,Thailand,Chai Nat Province,TH,Thailand
+MOBI_2555,Thailand,Chaiyaphum Province,TH,Thailand
+MOBI_2556,Thailand,Chanthaburi Province,TH,Thailand
+MOBI_2557,Thailand,Chiang Mai Province,TH,Thailand
+MOBI_2558,Thailand,Chiang Rai Province,TH,Thailand
+MOBI_2559,Thailand,Chon Buri Province,TH,Thailand
+MOBI_2560,Thailand,Chumphon Province,TH,Thailand
+MOBI_2561,Thailand,Kalasin,TH,Thailand
+MOBI_2562,Thailand,Kamphaeng Phet Province,TH,Thailand
+MOBI_2563,Thailand,Kanchanaburi Province,TH,Thailand
+MOBI_2564,Thailand,Khon Kaen Province,TH,Thailand
+MOBI_2565,Thailand,Krabi Province,TH,Thailand
+MOBI_2566,Thailand,Lampang Province,TH,Thailand
+MOBI_2567,Thailand,Lamphun Province,TH,Thailand
+MOBI_2568,Thailand,Loei Province,TH,Thailand
+MOBI_2569,Thailand,Lopburi Province,TH,Thailand
+MOBI_2570,Thailand,Mae Hong Son Province,TH,Thailand
+MOBI_2571,Thailand,Maha Sarakham Province,TH,Thailand
+MOBI_2572,Thailand,Mukdahan Province,TH,Thailand
+MOBI_2573,Thailand,Nakhon Nayok Province,TH,Thailand
+MOBI_2574,Thailand,Nakhon Pathom Province,TH,Thailand
+MOBI_2575,Thailand,Nakhon Phanom Province,TH,Thailand
+MOBI_2576,Thailand,Nakhon Ratchasima Province,TH,Thailand
+MOBI_2577,Thailand,Nakhon Sawan Province,TH,Thailand
+MOBI_2578,Thailand,Nakhon Si Thammarat Province,TH,Thailand
+MOBI_2579,Thailand,Nan Province,TH,Thailand
+MOBI_2580,Thailand,Narathiwat Province,TH,Thailand
+MOBI_2581,Thailand,Nong Bua Lam Phu Province,TH,Thailand
+MOBI_2582,Thailand,Nong Khai Province,TH,Thailand
+MOBI_2583,Thailand,Nonthaburi Province,TH,Thailand
+MOBI_2584,Thailand,Pathum Thani Province,TH,Thailand
+MOBI_2585,Thailand,Pattani Province,TH,Thailand
+MOBI_2586,Thailand,Phangnga Province,TH,Thailand
+MOBI_2587,Thailand,Phatthalung Province,TH,Thailand
+MOBI_2588,Thailand,Phayao Province,TH,Thailand
+MOBI_2589,Thailand,Phetchabun Province,TH,Thailand
+MOBI_2590,Thailand,Phetchaburi Province,TH,Thailand
+MOBI_2591,Thailand,Phichit Province,TH,Thailand
+MOBI_2592,Thailand,Phitsanulok Province,TH,Thailand
+MOBI_2593,Thailand,Phra Nakhon Si Ayutthaya Province,TH,Thailand
+MOBI_2594,Thailand,Phrae Province,TH,Thailand
+MOBI_2595,Thailand,Phuket Province,TH,Thailand
+MOBI_2596,Thailand,Prachin Buri Province,TH,Thailand
+MOBI_2597,Thailand,Prachuap Khiri Khan Province,TH,Thailand
+MOBI_2598,Thailand,Ranong Province,TH,Thailand
+MOBI_2599,Thailand,Ratchaburi Province,TH,Thailand
+MOBI_2600,Thailand,Rayong Province,TH,Thailand
+MOBI_2601,Thailand,Roi Et Province,TH,Thailand
+MOBI_2602,Thailand,Sa Kaeo Province,TH,Thailand
+MOBI_2603,Thailand,Sakon Nakhon Province,TH,Thailand
+MOBI_2604,Thailand,Samut Prakan Province,TH,Thailand
+MOBI_2605,Thailand,Samut Sakhon Province,TH,Thailand
+MOBI_2606,Thailand,Samut Songkhram Province,TH,Thailand
+MOBI_2607,Thailand,Saraburi Province,TH,Thailand
+MOBI_2608,Thailand,Satun Province,TH,Thailand
+MOBI_2609,Thailand,Si Sa Ket Province,TH,Thailand
+MOBI_2610,Thailand,Sing Buri Province,TH,Thailand
+MOBI_2611,Thailand,Songkhla Province,TH,Thailand
+MOBI_2612,Thailand,Sukhothai Province,TH,Thailand
+MOBI_2613,Thailand,Suphan Buri Province,TH,Thailand
+MOBI_2614,Thailand,Surat Thani Province,TH,Thailand
+MOBI_2615,Thailand,Surin Province,TH,Thailand
+MOBI_2616,Thailand,Tak Province,TH,Thailand
+MOBI_2617,Thailand,Trang Province,TH,Thailand
+MOBI_2618,Thailand,Trat Province,TH,Thailand
+MOBI_2619,Thailand,Ubon Ratchathani Province,TH,Thailand
+MOBI_2620,Thailand,Udon Thani Province,TH,Thailand
+MOBI_2621,Thailand,Uthai Thani Province,TH,Thailand
+MOBI_2622,Thailand,Uttaradit Province,TH,Thailand
+MOBI_2623,Thailand,Yala Province,TH,Thailand
+MOBI_2624,Thailand,Yasothon Province,TH,Thailand
+MOBI_2625,Tajikistan,Districts of Republican Subordination,TJ,Tajikistan
+MOBI_2626,Tajikistan,Gorno-Badakhshan Autonomous Region,TJ,Tajikistan
+MOBI_2627,Tajikistan,Khatlon Region,TJ,Tajikistan
+MOBI_2628,Tajikistan,Sughd Region,TJ,Tajikistan
+MOBI_2629,Timor-Leste,Aileu,TL,Timor-Leste
+MOBI_2630,Timor-Leste,Ainaro,TL,Timor-Leste
+MOBI_2631,Timor-Leste,Baucau,TL,Timor-Leste
+MOBI_2632,Timor-Leste,Bobonaro,TL,Timor-Leste
+MOBI_2633,Timor-Leste,Cova Lima,TL,Timor-Leste
+MOBI_2634,Timor-Leste,Dili,TL,Timor-Leste
+MOBI_2635,Timor-Leste,Ermera,TL,Timor-Leste
+MOBI_2636,Timor-Leste,Lautém,TL,Timor-Leste
+MOBI_2637,Timor-Leste,Liquiçá,TL,Timor-Leste
+MOBI_2638,Timor-Leste,Manatuto,TL,Timor-Leste
+MOBI_2639,Timor-Leste,Manufahi,TL,Timor-Leste
+MOBI_2640,Timor-Leste,Oecusse,TL,Timor-Leste
+MOBI_2641,Timor-Leste,Viqueque,TL,Timor-Leste
+MOBI_2642,Turkmenistan,Ahai,TM,Turkmenistan
+MOBI_2643,Turkmenistan,Balkan,TM,Turkmenistan
+MOBI_2644,Turkmenistan,Dasoguz,TM,Turkmenistan
+MOBI_2645,Turkmenistan,Lebap,TM,Turkmenistan
+MOBI_2646,Turkmenistan,Mary,TM,Turkmenistan
+MOBI_2647,Tunisia,Ariana,TN,Tunisia
+MOBI_2648,Tunisia,Béja,TN,Tunisia
+MOBI_2649,Tunisia,Ben Arous,TN,Tunisia
+MOBI_2650,Tunisia,Bizerte,TN,Tunisia
+MOBI_2651,Tunisia,El Kef,TN,Tunisia
+MOBI_2652,Tunisia,Gabès,TN,Tunisia
+MOBI_2653,Tunisia,Gafsa,TN,Tunisia
+MOBI_2654,Tunisia,Jendouba,TN,Tunisia
+MOBI_2655,Tunisia,Kairouan,TN,Tunisia
+MOBI_2656,Tunisia,Kasserine,TN,Tunisia
+MOBI_2657,Tunisia,Kébili,TN,Tunisia
+MOBI_2658,Tunisia,Mahdia,TN,Tunisia
+MOBI_2659,Tunisia,Manouba,TN,Tunisia
+MOBI_2660,Tunisia,Médenine,TN,Tunisia
+MOBI_2661,Tunisia,Monastir,TN,Tunisia
+MOBI_2662,Tunisia,Nabeul,TN,Tunisia
+MOBI_2663,Tunisia,Sfax,TN,Tunisia
+MOBI_2664,Tunisia,Sidi Bouzid,TN,Tunisia
+MOBI_2665,Tunisia,Siliana,TN,Tunisia
+MOBI_2666,Tunisia,Sousse,TN,Tunisia
+MOBI_2667,Tunisia,Tataouine,TN,Tunisia
+MOBI_2668,Tunisia,Tozeur,TN,Tunisia
+MOBI_2669,Tunisia,Tunis,TN,Tunisia
+MOBI_2670,Tunisia,Zaghouan,TN,Tunisia
+MOBI_2671,Tonga,'Eua,TO,Tonga
+MOBI_2672,Tonga,Ha'apai,TO,Tonga
+MOBI_2673,Tonga,Niuas,TO,Tonga
+MOBI_2674,Tonga,Tongatapu,TO,Tonga
+MOBI_2675,Tonga,Vava'u,TO,Tonga
+MOBI_2676,Turkey,Adana,TR,Turkey
+MOBI_2677,Turkey,Adıyaman,TR,Turkey
+MOBI_2678,Turkey,Afyonkarahisar,TR,Turkey
+MOBI_2679,Turkey,Ağrı,TR,Turkey
+MOBI_2680,Turkey,Aksaray,TR,Turkey
+MOBI_2681,Turkey,Amasya,TR,Turkey
+MOBI_2682,Turkey,Ankara,TR,Turkey
+MOBI_2683,Turkey,Antalya,TR,Turkey
+MOBI_2684,Turkey,Ardahan,TR,Turkey
+MOBI_2685,Turkey,Artvin,TR,Turkey
+MOBI_2686,Turkey,Aydın,TR,Turkey
+MOBI_2687,Turkey,Balıkesir,TR,Turkey
+MOBI_2688,Turkey,Bartın,TR,Turkey
+MOBI_2689,Turkey,Batman,TR,Turkey
+MOBI_2690,Turkey,Bayburt,TR,Turkey
+MOBI_2691,Turkey,Bilecik,TR,Turkey
+MOBI_2692,Turkey,Bingöl,TR,Turkey
+MOBI_2693,Turkey,Bitlis,TR,Turkey
+MOBI_2694,Turkey,Bolu,TR,Turkey
+MOBI_2695,Turkey,Burdur,TR,Turkey
+MOBI_2696,Turkey,Bursa,TR,Turkey
+MOBI_2697,Turkey,Çanakkale,TR,Turkey
+MOBI_2698,Turkey,Çankırı,TR,Turkey
+MOBI_2699,Turkey,Çorum,TR,Turkey
+MOBI_2700,Turkey,Denizli,TR,Turkey
+MOBI_2701,Turkey,Diyarbakır,TR,Turkey
+MOBI_2702,Turkey,Düzce,TR,Turkey
+MOBI_2703,Turkey,Edirne,TR,Turkey
+MOBI_2704,Turkey,Elazığ,TR,Turkey
+MOBI_2705,Turkey,Erzincan,TR,Turkey
+MOBI_2706,Turkey,Erzurum,TR,Turkey
+MOBI_2707,Turkey,Eskişehir,TR,Turkey
+MOBI_2708,Turkey,Gaziantep,TR,Turkey
+MOBI_2709,Turkey,Giresun,TR,Turkey
+MOBI_2710,Turkey,Gümüşhane,TR,Turkey
+MOBI_2711,Turkey,Hakkâri,TR,Turkey
+MOBI_2712,Turkey,Hatay,TR,Turkey
+MOBI_2713,Turkey,Iğdır,TR,Turkey
+MOBI_2714,Turkey,Isparta,TR,Turkey
+MOBI_2715,Turkey,İstanbul,TR,Turkey
+MOBI_2716,Turkey,İzmir,TR,Turkey
+MOBI_2717,Turkey,Kahramanmaraş,TR,Turkey
+MOBI_2718,Turkey,Karabük,TR,Turkey
+MOBI_2719,Turkey,Karaman,TR,Turkey
+MOBI_2720,Turkey,Kars,TR,Turkey
+MOBI_2721,Turkey,Kastamonu,TR,Turkey
+MOBI_2722,Turkey,Kayseri,TR,Turkey
+MOBI_2723,Turkey,Kilis,TR,Turkey
+MOBI_2724,Turkey,Kırıkkale,TR,Turkey
+MOBI_2725,Turkey,Kırklareli,TR,Turkey
+MOBI_2726,Turkey,Kırşehir,TR,Turkey
+MOBI_2727,Turkey,Kocaeli,TR,Turkey
+MOBI_2728,Turkey,Konya,TR,Turkey
+MOBI_2729,Turkey,Kütahya,TR,Turkey
+MOBI_2730,Turkey,Malatya,TR,Turkey
+MOBI_2731,Turkey,Manisa,TR,Turkey
+MOBI_2732,Turkey,Mardin,TR,Turkey
+MOBI_2733,Turkey,Mersin,TR,Turkey
+MOBI_2734,Turkey,Muğla,TR,Turkey
+MOBI_2735,Turkey,Muş,TR,Turkey
+MOBI_2736,Turkey,Nevşehir,TR,Turkey
+MOBI_2737,Turkey,Niğde,TR,Turkey
+MOBI_2738,Turkey,Ordu,TR,Turkey
+MOBI_2739,Turkey,Osmaniye,TR,Turkey
+MOBI_2740,Turkey,Rize,TR,Turkey
+MOBI_2741,Turkey,Sakarya,TR,Turkey
+MOBI_2742,Turkey,Samsun,TR,Turkey
+MOBI_2743,Turkey,Şanlıurfa,TR,Turkey
+MOBI_2744,Turkey,Siirt,TR,Turkey
+MOBI_2745,Turkey,Sinop,TR,Turkey
+MOBI_2746,Turkey,Şırnak,TR,Turkey
+MOBI_2747,Turkey,Sivas,TR,Turkey
+MOBI_2748,Turkey,Tekirdağ,TR,Turkey
+MOBI_2749,Turkey,Tokat,TR,Turkey
+MOBI_2750,Turkey,Trabzon,TR,Turkey
+MOBI_2751,Turkey,Tunceli,TR,Turkey
+MOBI_2752,Turkey,Uşak,TR,Turkey
+MOBI_2753,Turkey,Van,TR,Turkey
+MOBI_2754,Turkey,Yalova,TR,Turkey
+MOBI_2755,Turkey,Yozgat,TR,Turkey
+MOBI_2756,Turkey,Zonguldak,TR,Turkey
+MOBI_2757,Trinidad and Tobago,Chaguanas,TT,Trinidad & Tobago
+MOBI_2758,Trinidad and Tobago,Couva-Tabaquite-Talparo,TT,Trinidad & Tobago
+MOBI_2759,Trinidad and Tobago,Diego Martin,TT,Trinidad & Tobago
+MOBI_2760,Trinidad and Tobago,Penal-Debe,TT,Trinidad & Tobago
+MOBI_2761,Trinidad and Tobago,Point Fortin,TT,Trinidad & Tobago
+MOBI_2762,Trinidad and Tobago,Port of Spain,TT,Trinidad & Tobago
+MOBI_2763,Trinidad and Tobago,Princes Town,TT,Trinidad & Tobago
+MOBI_2764,Trinidad and Tobago,Rio Claro-Mayaro,TT,Trinidad & Tobago
+MOBI_2765,Trinidad and Tobago,San Fernando,TT,Trinidad & Tobago
+MOBI_2766,Trinidad and Tobago,San Juan-Laventille,TT,Trinidad & Tobago
+MOBI_2767,Trinidad and Tobago,Sangre Grande,TT,Trinidad & Tobago
+MOBI_2768,Trinidad and Tobago,Siparia,TT,Trinidad & Tobago
+MOBI_2769,Trinidad and Tobago,Tobago,TT,Trinidad & Tobago
+MOBI_2770,Trinidad and Tobago,Tunapuna-Piarco,TT,Trinidad & Tobago
+MOBI_2771,Tuvalu,Nui,TV,Tuvalu
+MOBI_2772,Tuvalu,Nukufetau,TV,Tuvalu
+MOBI_2773,Tuvalu,Vaitupu,TV,Tuvalu
+MOBI_2774,Taiwan (Province of China),Changhua County,TW,Taiwan
+MOBI_2775,Taiwan (Province of China),Chiayi,TW,Taiwan
+MOBI_2776,Taiwan (Province of China),Chiayi County,TW,Taiwan
+MOBI_2777,Taiwan (Province of China),Hsinchu,TW,Taiwan
+MOBI_2778,Taiwan (Province of China),Hsinchu County,TW,Taiwan
+MOBI_2779,Taiwan (Province of China),Hualien County,TW,Taiwan
+MOBI_2780,Taiwan (Province of China),Kaohsiung,TW,Taiwan
+MOBI_2781,Taiwan (Province of China),Keelung,TW,Taiwan
+MOBI_2782,Taiwan (Province of China),Kinmen,TW,Taiwan
+MOBI_2783,Taiwan (Province of China),Matsu Islands,TW,Taiwan
+MOBI_2784,Taiwan (Province of China),Miaoli County,TW,Taiwan
+MOBI_2785,Taiwan (Province of China),Nantou County,TW,Taiwan
+MOBI_2786,Taiwan (Province of China),New Taipei,TW,Taiwan
+MOBI_2787,Taiwan (Province of China),Penghu,TW,Taiwan
+MOBI_2788,Taiwan (Province of China),Pingtung County,TW,Taiwan
+MOBI_2789,Taiwan (Province of China),Taichung,TW,Taiwan
+MOBI_2790,Taiwan (Province of China),Tainan,TW,Taiwan
+MOBI_2791,Taiwan (Province of China),Taipei,TW,Taiwan
+MOBI_2792,Taiwan (Province of China),Taitung County,TW,Taiwan
+MOBI_2793,Taiwan (Province of China),Taoyuan,TW,Taiwan
+MOBI_2794,Taiwan (Province of China),Yilan County,TW,Taiwan
+MOBI_2795,Taiwan (Province of China),Yunlin County,TW,Taiwan
+MOBI_2796,"Tanzania, the United Republic of",Arusha,TZ,Tanzania
+MOBI_2797,"Tanzania, the United Republic of",Dar es Salaam,TZ,Tanzania
+MOBI_2798,"Tanzania, the United Republic of",Dodoma,TZ,Tanzania
+MOBI_2799,"Tanzania, the United Republic of",Geita,TZ,Tanzania
+MOBI_2800,"Tanzania, the United Republic of",Iringa,TZ,Tanzania
+MOBI_2801,"Tanzania, the United Republic of",Kagera,TZ,Tanzania
+MOBI_2802,"Tanzania, the United Republic of",Katavi,TZ,Tanzania
+MOBI_2803,"Tanzania, the United Republic of",Kigoma,TZ,Tanzania
+MOBI_2804,"Tanzania, the United Republic of",Kilimanjaro,TZ,Tanzania
+MOBI_2805,"Tanzania, the United Republic of",Lindi,TZ,Tanzania
+MOBI_2806,"Tanzania, the United Republic of",Manyara,TZ,Tanzania
+MOBI_2807,"Tanzania, the United Republic of",Mara,TZ,Tanzania
+MOBI_2808,"Tanzania, the United Republic of",Mbeya,TZ,Tanzania
+MOBI_2809,"Tanzania, the United Republic of",Morogoro,TZ,Tanzania
+MOBI_2810,"Tanzania, the United Republic of",Mtwara,TZ,Tanzania
+MOBI_2811,"Tanzania, the United Republic of",Mwanza,TZ,Tanzania
+MOBI_2812,"Tanzania, the United Republic of",Njombe,TZ,Tanzania
+MOBI_2813,"Tanzania, the United Republic of",North Pemba,TZ,Tanzania
+MOBI_2814,"Tanzania, the United Republic of",Pwani,TZ,Tanzania
+MOBI_2815,"Tanzania, the United Republic of",Rukwa,TZ,Tanzania
+MOBI_2816,"Tanzania, the United Republic of",Ruvuma,TZ,Tanzania
+MOBI_2817,"Tanzania, the United Republic of",Shinyanga,TZ,Tanzania
+MOBI_2818,"Tanzania, the United Republic of",Simiyu,TZ,Tanzania
+MOBI_2819,"Tanzania, the United Republic of",Singida,TZ,Tanzania
+MOBI_2820,"Tanzania, the United Republic of",South Pemba,TZ,Tanzania
+MOBI_2821,"Tanzania, the United Republic of",Tabora,TZ,Tanzania
+MOBI_2822,"Tanzania, the United Republic of",Tanga,TZ,Tanzania
+MOBI_2823,"Tanzania, the United Republic of",Zanzibar North,TZ,Tanzania
+MOBI_2824,"Tanzania, the United Republic of",Zanzibar South & Central,TZ,Tanzania
+MOBI_2825,"Tanzania, the United Republic of",Zanzibar Urban/West,TZ,Tanzania
+MOBI_2826,Ukraine,Autonomous Republic of Crimea,UA,Ukraine
+MOBI_2827,Ukraine,Cherkasy Oblast,UA,Ukraine
+MOBI_2828,Ukraine,Chernihiv Oblast,UA,Ukraine
+MOBI_2829,Ukraine,Chernivtsi Oblast,UA,Ukraine
+MOBI_2830,Ukraine,Dnipropetrovsk Oblast,UA,Ukraine
+MOBI_2831,Ukraine,Donetsk Oblast,UA,Ukraine
+MOBI_2832,Ukraine,Ivano-Frankivsk Oblast,UA,Ukraine
+MOBI_2833,Ukraine,Kharkiv Oblast,UA,Ukraine
+MOBI_2834,Ukraine,Kherson Oblast,UA,Ukraine
+MOBI_2835,Ukraine,Khmelnytskyi Oblast,UA,Ukraine
+MOBI_2836,Ukraine,Kirovohrad Oblast,UA,Ukraine
+MOBI_2837,Ukraine,Kyiv,UA,Ukraine
+MOBI_2838,Ukraine,Kyiv Oblast,UA,Ukraine
+MOBI_2839,Ukraine,Luhansk Oblast,UA,Ukraine
+MOBI_2840,Ukraine,Lviv Oblast,UA,Ukraine
+MOBI_2841,Ukraine,Mykolaiv Oblast,UA,Ukraine
+MOBI_2842,Ukraine,Odessa Oblast,UA,Ukraine
+MOBI_2843,Ukraine,Poltava Oblast,UA,Ukraine
+MOBI_2844,Ukraine,Rivne Oblast,UA,Ukraine
+MOBI_2845,Ukraine,Sevastopol,UA,Ukraine
+MOBI_2846,Ukraine,Sumy Oblast,UA,Ukraine
+MOBI_2847,Ukraine,Ternopil Oblast,UA,Ukraine
+MOBI_2848,Ukraine,Vinnytsia Oblast,UA,Ukraine
+MOBI_2849,Ukraine,Volyn Oblast,UA,Ukraine
+MOBI_2850,Ukraine,Zakarpattia Oblast,UA,Ukraine
+MOBI_2851,Ukraine,Zaporizhia Oblast,UA,Ukraine
+MOBI_2852,Ukraine,Zhytomyr Oblast,UA,Ukraine
+MOBI_2853,Uganda,Central Region,UG,Uganda
+MOBI_2854,Uganda,Eastern Region,UG,Uganda
+MOBI_2855,Uganda,Northern Region,UG,Uganda
+MOBI_2856,Uganda,Western Region,UG,Uganda
+MOBI_2857,United States of America (the),Alabama,US,United States
+MOBI_2858,United States of America (the),Alaska,US,United States
+MOBI_2859,United States of America (the),American Samoa,US,United States
+MOBI_2860,United States of America (the),Arizona,US,United States
+MOBI_2861,United States of America (the),Arkansas,US,United States
+MOBI_2862,United States of America (the),California,US,United States
+MOBI_2863,United States of America (the),Colorado,US,United States
+MOBI_2864,United States of America (the),Commonwealth of the Northern Mariana Islands,US,United States
+MOBI_2865,United States of America (the),Connecticut,US,United States
+MOBI_2866,United States of America (the),Delaware,US,United States
+MOBI_2867,United States of America (the),District of Columbia,US,United States
+MOBI_2868,United States of America (the),Florida,US,United States
+MOBI_2869,United States of America (the),Georgia,US,United States
+MOBI_2870,United States of America (the),Guam,US,United States
+MOBI_2871,United States of America (the),Hawaii,US,United States
+MOBI_2872,United States of America (the),Idaho,US,United States
+MOBI_2873,United States of America (the),Illinois,US,United States
+MOBI_2874,United States of America (the),Indiana,US,United States
+MOBI_2875,United States of America (the),Iowa,US,United States
+MOBI_2876,United States of America (the),Kansas,US,United States
+MOBI_2877,United States of America (the),Kentucky,US,United States
+MOBI_2878,United States of America (the),Louisiana,US,United States
+MOBI_2879,United States of America (the),Maine,US,United States
+MOBI_2880,United States of America (the),Maryland,US,United States
+MOBI_2881,United States of America (the),Massachusetts,US,United States
+MOBI_2882,United States of America (the),Michigan,US,United States
+MOBI_2883,United States of America (the),Minnesota,US,United States
+MOBI_2884,United States of America (the),Mississippi,US,United States
+MOBI_2885,United States of America (the),Missouri,US,United States
+MOBI_2886,United States of America (the),Montana,US,United States
+MOBI_2887,United States of America (the),Nebraska,US,United States
+MOBI_2888,United States of America (the),Nevada,US,United States
+MOBI_2889,United States of America (the),New Hampshire,US,United States
+MOBI_2890,United States of America (the),New Jersey,US,United States
+MOBI_2891,United States of America (the),New Mexico,US,United States
+MOBI_2892,United States of America (the),New York,US,United States
+MOBI_2893,United States of America (the),North Carolina,US,United States
+MOBI_2894,United States of America (the),North Dakota,US,United States
+MOBI_2895,United States of America (the),Ohio,US,United States
+MOBI_2896,United States of America (the),Oklahoma,US,United States
+MOBI_2897,United States of America (the),Oregon,US,United States
+MOBI_2898,United States of America (the),Pennsylvania,US,United States
+MOBI_2899,United States of America (the),Puerto Rico,US,United States
+MOBI_2900,United States of America (the),Rhode Island,US,United States
+MOBI_2901,United States of America (the),South Carolina,US,United States
+MOBI_2902,United States of America (the),South Dakota,US,United States
+MOBI_2903,United States of America (the),Tennessee,US,United States
+MOBI_2904,United States of America (the),Texas,US,United States
+MOBI_2905,United States of America (the),United States Virgin Islands,US,United States
+MOBI_2906,United States of America (the),Utah,US,United States
+MOBI_2907,United States of America (the),Vermont,US,United States
+MOBI_2908,United States of America (the),Virginia,US,United States
+MOBI_2909,United States of America (the),Washington,US,United States
+MOBI_2910,United States of America (the),West Virginia,US,United States
+MOBI_2911,United States of America (the),Wisconsin,US,United States
+MOBI_2912,United States of America (the),Wyoming,US,United States
+MOBI_2913,Uruguay,Artigas,UY,Uruguay
+MOBI_2914,Uruguay,Canelones,UY,Uruguay
+MOBI_2915,Uruguay,Cerro Largo,UY,Uruguay
+MOBI_2916,Uruguay,Colonia,UY,Uruguay
+MOBI_2917,Uruguay,Durazno,UY,Uruguay
+MOBI_2918,Uruguay,Florida,UY,Uruguay
+MOBI_2919,Uruguay,Lavalleja,UY,Uruguay
+MOBI_2920,Uruguay,Maldonado,UY,Uruguay
+MOBI_2921,Uruguay,Montevideo,UY,Uruguay
+MOBI_2922,Uruguay,Paysandú,UY,Uruguay
+MOBI_2923,Uruguay,Río Negro,UY,Uruguay
+MOBI_2924,Uruguay,Rivera,UY,Uruguay
+MOBI_2925,Uruguay,Rocha,UY,Uruguay
+MOBI_2926,Uruguay,Salto,UY,Uruguay
+MOBI_2927,Uruguay,San José,UY,Uruguay
+MOBI_2928,Uruguay,Soriano,UY,Uruguay
+MOBI_2929,Uruguay,Tacuarembó,UY,Uruguay
+MOBI_2930,Uruguay,Treinta y Tres,UY,Uruguay
+MOBI_2931,Uzbekistan,Andijan Region,UZ,Uzbekistan
+MOBI_2932,Uzbekistan,Bukhara Region,UZ,Uzbekistan
+MOBI_2933,Uzbekistan,Fergana Region,UZ,Uzbekistan
+MOBI_2934,Uzbekistan,Jizzakh Region,UZ,Uzbekistan
+MOBI_2935,Uzbekistan,Namangan Region,UZ,Uzbekistan
+MOBI_2936,Uzbekistan,Navoiy Region,UZ,Uzbekistan
+MOBI_2937,Uzbekistan,Qashqadaryo Region,UZ,Uzbekistan
+MOBI_2938,Uzbekistan,Republic of Karakalpakstan,UZ,Uzbekistan
+MOBI_2939,Uzbekistan,Samarqand Region,UZ,Uzbekistan
+MOBI_2940,Uzbekistan,Sirdaryo Region,UZ,Uzbekistan
+MOBI_2941,Uzbekistan,Surxondaryo Region,UZ,Uzbekistan
+MOBI_2942,Uzbekistan,Tashkent,UZ,Uzbekistan
+MOBI_2943,Uzbekistan,Tashkent Region,UZ,Uzbekistan
+MOBI_2944,Uzbekistan,Xorazm Region,UZ,Uzbekistan
+MOBI_2945,Holy See (the),Vatican City,VA,Vatican City
+MOBI_2946,Saint Vincent and the Grenadines,Charlotte,VC,St Vincent & the Grenadines
+MOBI_2947,Saint Vincent and the Grenadines,Saint Andrew,VC,St Vincent & the Grenadines
+MOBI_2948,Saint Vincent and the Grenadines,Saint David,VC,St Vincent & the Grenadines
+MOBI_2949,Saint Vincent and the Grenadines,Saint George,VC,St Vincent & the Grenadines
+MOBI_2950,Saint Vincent and the Grenadines,Saint Patrick,VC,St Vincent & the Grenadines
+MOBI_2951,Venezuela (Bolivarian Republic of),Amazonas,VE,Venezuela
+MOBI_2952,Venezuela (Bolivarian Republic of),Anzoátegui,VE,Venezuela
+MOBI_2953,Venezuela (Bolivarian Republic of),Apure,VE,Venezuela
+MOBI_2954,Venezuela (Bolivarian Republic of),Aragua,VE,Venezuela
+MOBI_2955,Venezuela (Bolivarian Republic of),Barinas,VE,Venezuela
+MOBI_2956,Venezuela (Bolivarian Republic of),Bolívar,VE,Venezuela
+MOBI_2957,Venezuela (Bolivarian Republic of),Carabobo,VE,Venezuela
+MOBI_2958,Venezuela (Bolivarian Republic of),Cojedes,VE,Venezuela
+MOBI_2959,Venezuela (Bolivarian Republic of),Delta Amacuro,VE,Venezuela
+MOBI_2960,Venezuela (Bolivarian Republic of),Distrito Capital,VE,Venezuela
+MOBI_2961,Venezuela (Bolivarian Republic of),Falcón,VE,Venezuela
+MOBI_2962,Venezuela (Bolivarian Republic of),Guárico,VE,Venezuela
+MOBI_2963,Venezuela (Bolivarian Republic of),Lara,VE,Venezuela
+MOBI_2964,Venezuela (Bolivarian Republic of),Mérida,VE,Venezuela
+MOBI_2965,Venezuela (Bolivarian Republic of),Miranda,VE,Venezuela
+MOBI_2966,Venezuela (Bolivarian Republic of),Monagas,VE,Venezuela
+MOBI_2967,Venezuela (Bolivarian Republic of),Nueva Esparta,VE,Venezuela
+MOBI_2968,Venezuela (Bolivarian Republic of),Portuguesa,VE,Venezuela
+MOBI_2969,Venezuela (Bolivarian Republic of),Sucre,VE,Venezuela
+MOBI_2970,Venezuela (Bolivarian Republic of),Táchira,VE,Venezuela
+MOBI_2971,Venezuela (Bolivarian Republic of),Trujillo,VE,Venezuela
+MOBI_2972,Venezuela (Bolivarian Republic of),Yaracuy,VE,Venezuela
+MOBI_2973,Venezuela (Bolivarian Republic of),Zulia,VE,Venezuela
+MOBI_2974,Viet Nam,An Giang,VN,Vietnam
+MOBI_2975,Viet Nam,Bà Rịa–Vũng Tàu,VN,Vietnam
+MOBI_2976,Viet Nam,Bắc Giang,VN,Vietnam
+MOBI_2977,Viet Nam,Bắc Kạn,VN,Vietnam
+MOBI_2978,Viet Nam,Bạc Liêu,VN,Vietnam
+MOBI_2979,Viet Nam,Bắc Ninh,VN,Vietnam
+MOBI_2980,Viet Nam,Bến Tre,VN,Vietnam
+MOBI_2981,Viet Nam,Bình Định,VN,Vietnam
+MOBI_2982,Viet Nam,Bình Dương,VN,Vietnam
+MOBI_2983,Viet Nam,Bình Phước,VN,Vietnam
+MOBI_2984,Viet Nam,Bình Thuận,VN,Vietnam
+MOBI_2985,Viet Nam,Cà Mau,VN,Vietnam
+MOBI_2986,Viet Nam,Cần Thơ,VN,Vietnam
+MOBI_2987,Viet Nam,Cao Bằng,VN,Vietnam
+MOBI_2988,Viet Nam,Côn Đảo,VN,Vietnam
+MOBI_2989,Viet Nam,Đà Nẵng,VN,Vietnam
+MOBI_2990,Viet Nam,Đắk Lắk,VN,Vietnam
+MOBI_2991,Viet Nam,Đắk Nông,VN,Vietnam
+MOBI_2992,Viet Nam,Điện Biên,VN,Vietnam
+MOBI_2993,Viet Nam,Đồng Nai,VN,Vietnam
+MOBI_2994,Viet Nam,Đồng Tháp,VN,Vietnam
+MOBI_2995,Viet Nam,Gia Lai,VN,Vietnam
+MOBI_2996,Viet Nam,Hà Giang,VN,Vietnam
+MOBI_2997,Viet Nam,Hà Nam,VN,Vietnam
+MOBI_2998,Viet Nam,Hà Nội	,VN,Vietnam
+MOBI_2999,Viet Nam,Hà Tĩnh,VN,Vietnam
+MOBI_3000,Viet Nam,Hải Dương,VN,Vietnam
+MOBI_3001,Viet Nam,Hải Phòng,VN,Vietnam
+MOBI_3002,Viet Nam,Hậu Giang,VN,Vietnam
+MOBI_3003,Viet Nam,Ho Chi Minh,VN,Vietnam
+MOBI_3004,Viet Nam,Hòa Bình,VN,Vietnam
+MOBI_3005,Viet Nam,Hưng Yên,VN,Vietnam
+MOBI_3006,Viet Nam,Khánh Hòa,VN,Vietnam
+MOBI_3007,Viet Nam,Kiên Giang,VN,Vietnam
+MOBI_3008,Viet Nam,Kon Tum,VN,Vietnam
+MOBI_3009,Viet Nam,Lai Châu,VN,Vietnam
+MOBI_3010,Viet Nam,Lâm Đồng,VN,Vietnam
+MOBI_3011,Viet Nam,Lạng Sơn,VN,Vietnam
+MOBI_3012,Viet Nam,Lào Cai,VN,Vietnam
+MOBI_3013,Viet Nam,Long An,VN,Vietnam
+MOBI_3014,Viet Nam,Nam Định,VN,Vietnam
+MOBI_3015,Viet Nam,Nghệ An,VN,Vietnam
+MOBI_3016,Viet Nam,Ninh Bình,VN,Vietnam
+MOBI_3017,Viet Nam,Ninh Thuận,VN,Vietnam
+MOBI_3018,Viet Nam,Phú Thọ,VN,Vietnam
+MOBI_3019,Viet Nam,Phú Yên,VN,Vietnam
+MOBI_3020,Viet Nam,Quảng Bình,VN,Vietnam
+MOBI_3021,Viet Nam,Quảng Nam,VN,Vietnam
+MOBI_3022,Viet Nam,Quảng Ngãi,VN,Vietnam
+MOBI_3023,Viet Nam,Quảng Ninh,VN,Vietnam
+MOBI_3024,Viet Nam,Quảng Trị,VN,Vietnam
+MOBI_3025,Viet Nam,Sóc Trăng,VN,Vietnam
+MOBI_3026,Viet Nam,Sơn La,VN,Vietnam
+MOBI_3027,Viet Nam,Tây Ninh,VN,Vietnam
+MOBI_3028,Viet Nam,Thái Bình,VN,Vietnam
+MOBI_3029,Viet Nam,Thái Nguyên,VN,Vietnam
+MOBI_3030,Viet Nam,Thanh Hóa,VN,Vietnam
+MOBI_3031,Viet Nam,Thừa Thiên Huế,VN,Vietnam
+MOBI_3032,Viet Nam,Tiền Giang,VN,Vietnam
+MOBI_3033,Viet Nam,Trà Vinh,VN,Vietnam
+MOBI_3034,Viet Nam,Tuyên Quang,VN,Vietnam
+MOBI_3035,Viet Nam,Vĩnh Long,VN,Vietnam
+MOBI_3036,Viet Nam,Vĩnh Phúc,VN,Vietnam
+MOBI_3037,Viet Nam,Yên Bái,VN,Vietnam
+MOBI_3038,Vanuatu,Malampa,VU,Vanuatu
+MOBI_3039,Vanuatu,Penama,VU,Vanuatu
+MOBI_3040,Vanuatu,Sanma,VU,Vanuatu
+MOBI_3041,Vanuatu,Shefa Province,VU,Vanuatu
+MOBI_3042,Vanuatu,Tafea,VU,Vanuatu
+MOBI_3043,Vanuatu,Torba,VU,Vanuatu
+MOBI_3044,Samoa,A'ana,WS,Samoa
+MOBI_3045,Samoa,Aiga-i-le-Tai,WS,Samoa
+MOBI_3046,Samoa,Atua,WS,Samoa
+MOBI_3047,Samoa,Fa'asaleleage,WS,Samoa
+MOBI_3048,Samoa,Gaga'emauga,WS,Samoa
+MOBI_3049,Samoa,Gaga'ifomauga,WS,Samoa
+MOBI_3050,Samoa,Palauli,WS,Samoa
+MOBI_3051,Samoa,Satupa'itea,WS,Samoa
+MOBI_3052,Samoa,Tuamasaga,WS,Samoa
+MOBI_3053,Samoa,Va'a-o-Fonoti,WS,Samoa
+MOBI_3054,Samoa,Vaisigano,WS,Samoa
+MOBI_3055,Yemen,‘Adan Governorate,YE,Yemen
+MOBI_3056,Yemen,Abyan Governorate,YE,Yemen
+MOBI_3057,Yemen,Ad Dali' Governorate,YE,Yemen
+MOBI_3058,Yemen,Al Bayda' Governorate,YE,Yemen
+MOBI_3059,Yemen,Al Hudaydah Governorate,YE,Yemen
+MOBI_3060,Yemen,Al Jawf Governorate,YE,Yemen
+MOBI_3061,Yemen,Al Mahrah Governorate,YE,Yemen
+MOBI_3062,Yemen,Al Mahwit Governorate,YE,Yemen
+MOBI_3063,Yemen,'Amran Governorate,YE,Yemen
+MOBI_3064,Yemen,Dhamar Governorate,YE,Yemen
+MOBI_3065,Yemen,Hadhramaut,YE,Yemen
+MOBI_3066,Yemen,Hajjah Governorate,YE,Yemen
+MOBI_3067,Yemen,Ibb Governorate,YE,Yemen
+MOBI_3068,Yemen,Lahij Governorate,YE,Yemen
+MOBI_3069,Yemen,Ma'rib Governorate,YE,Yemen
+MOBI_3070,Yemen,Raymah Governorate,YE,Yemen
+MOBI_3071,Yemen,Sa'dah Governorate,YE,Yemen
+MOBI_3072,Yemen,Sanʿaʾ,YE,Yemen
+MOBI_3073,Yemen,Sanʿaʾ Governorate,YE,Yemen
+MOBI_3074,Yemen,Shabwah Governorate,YE,Yemen
+MOBI_3075,Yemen,Socotra,YE,Yemen
+MOBI_3076,Yemen,Ta'izz Governorate,YE,Yemen
+MOBI_3077,South Africa,Eastern Cape,ZA,South Africa
+MOBI_3078,South Africa,Free State,ZA,South Africa
+MOBI_3079,South Africa,Gauteng,ZA,South Africa
+MOBI_3080,South Africa,KwaZulu-Natal,ZA,South Africa
+MOBI_3081,South Africa,Limpopo,ZA,South Africa
+MOBI_3082,South Africa,Mpumalanga,ZA,South Africa
+MOBI_3083,South Africa,North West,ZA,South Africa
+MOBI_3084,South Africa,Nothern Cape,ZA,South Africa
+MOBI_3085,South Africa,Western Cape,ZA,South Africa
+MOBI_3086,Zambia,Central,ZM,Zambia
+MOBI_3087,Zambia,Copperbelt,ZM,Zambia
+MOBI_3088,Zambia,Eastern,ZM,Zambia
+MOBI_3089,Zambia,Luapula,ZM,Zambia
+MOBI_3090,Zambia,Lusaka,ZM,Zambia
+MOBI_3091,Zambia,Muchinga,ZM,Zambia
+MOBI_3092,Zambia,Northern,ZM,Zambia
+MOBI_3093,Zambia,North-Western,ZM,Zambia
+MOBI_3094,Zambia,Southern,ZM,Zambia
+MOBI_3095,Zambia,Western,ZM,Zambia
+MOBI_3096,Zimbabwe,Bulawayo,ZW,Zimbabwe
+MOBI_3097,Zimbabwe,Harare,ZW,Zimbabwe
+MOBI_3098,Zimbabwe,Manicaland,ZW,Zimbabwe
+MOBI_3099,Zimbabwe,Mashonaland Central,ZW,Zimbabwe
+MOBI_3100,Zimbabwe,Mashonaland East,ZW,Zimbabwe
+MOBI_3101,Zimbabwe,Mashonaland West,ZW,Zimbabwe
+MOBI_3102,Zimbabwe,Masvingo,ZW,Zimbabwe
+MOBI_3103,Zimbabwe,Matabeleland North,ZW,Zimbabwe
+MOBI_3104,Zimbabwe,Matabeleland South,ZW,Zimbabwe
+MOBI_3105,Zimbabwe,Midlands,ZW,Zimbabwe
+MOBI_3106,,Abyei,,Abyei
+MOBI_3107,,Aksai Chin,,Aksai Chin
+MOBI_3108,,Demchok,,Demchok
+MOBI_3109,,Dragonja,,Dragonja
+MOBI_3110,,Dramana-Shakatoe,,Dramana-Shakatoe
+MOBI_3111,,Gaza Strip,,Gaza Strip
+MOBI_3112,,Isla Brasilera,,Isla Brasilera
+MOBI_3113,,Kalapani,,Kalapani
+MOBI_3114,,District of Ferizaj,,Kosovo
+MOBI_3115,,District of Gjakova,,Kosovo
+MOBI_3116,,District of Gjilan,,Kosovo
+MOBI_3117,,District of Mitrovica,,Kosovo
+MOBI_3118,,District of Peja,,Kosovo
+MOBI_3119,,District of Prishtina,,Kosovo
+MOBI_3120,,District of Prizren,,Kosovo
+MOBI_3121,,Koualou,,Koualou
+MOBI_3122,,No Man's Land,,No Man's Land
+MOBI_3123,,Paracel Is,,Paracel Is
+MOBI_3124,,Senkakus,,Senkakus
+MOBI_3125,,Siachen-Saltoro,,Siachen-Saltoro
+MOBI_3126,,Spratly Is,,Spratly Is
+MOBI_3127,,West Bank,,West Bank

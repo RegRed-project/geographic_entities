@@ -1,0 +1,199 @@
+locationID,country,countryCode,verbatimCountry
+MOBI_1,Andorra,AD,Andorra
+MOBI_2,United Arab Emirates (the),AE,United Arab Emirates
+MOBI_3,Afghanistan,AF,Afghanistan
+MOBI_4,Antigua and Barbuda,AG,Antigua & Barbuda
+MOBI_5,Albania,AL,Albania
+MOBI_6,Armenia,AM,Armenia
+MOBI_7,Angola,AO,Angola
+MOBI_8,Antarctica,AQ,Antarctica
+MOBI_9,Argentina,AR,Argentina
+MOBI_10,Austria,AT,Austria
+MOBI_11,Australia,AU,Australia
+MOBI_12,Azerbaijan,AZ,Azerbaijan
+MOBI_13,Bosnia and Herzegovina,BA,Bosnia & Herzegovina
+MOBI_14,Barbados,BB,Barbados
+MOBI_15,Bangladesh,BD,Bangladesh
+MOBI_16,Belgium,BE,Belgium
+MOBI_17,Burkina Faso,BF,Burkina Faso
+MOBI_18,Bulgaria,BG,Bulgaria
+MOBI_19,Bahrain,BH,Bahrain
+MOBI_20,Burundi,BI,Burundi
+MOBI_21,Benin,BJ,Benin
+MOBI_22,Brunei Darussalam,BN,Brunei
+MOBI_23,Bolivia (Plurinational State of),BO,Bolivia
+MOBI_24,Brazil,BR,Brazil
+MOBI_25,Bahamas (the),BS,"Bahamas, The"
+MOBI_26,Bhutan,BT,Bhutan
+MOBI_27,Botswana,BW,Botswana
+MOBI_28,Belarus,BY,Belarus
+MOBI_29,Belize,BZ,Belize
+MOBI_30,Canada,CA,Canada
+MOBI_31,Congo (the Democratic Republic of the),CD,"Congo, Dem Rep of the"
+MOBI_32,Central African Republic (the),CF,Central African Rep
+MOBI_33,Congo (the),CG,"Congo, Rep of the"
+MOBI_34,Switzerland,CH,Switzerland
+MOBI_35,Côte d'Ivoire,CI,Cote d'Ivoire
+MOBI_36,Chile,CL,Chile
+MOBI_37,Cameroon,CM,Cameroon
+MOBI_38,China,CN,China
+MOBI_39,Colombia,CO,Colombia
+MOBI_40,Costa Rica,CR,Costa Rica
+MOBI_41,Cuba,CU,Cuba
+MOBI_42,Cabo Verde,CV,Cabo Verde
+MOBI_43,Cyprus,CY,Cyprus
+MOBI_44,Czechia,CZ,Czechia
+MOBI_45,Germany,DE,Germany
+MOBI_46,Djibouti,DJ,Djibouti
+MOBI_47,Denmark,DK,Denmark
+MOBI_48,Dominica,DM,Dominica
+MOBI_49,Dominican Republic (the),DO,Dominican Republic
+MOBI_50,Algeria,DZ,Algeria
+MOBI_51,Ecuador,EC,Ecuador
+MOBI_52,Estonia,EE,Estonia
+MOBI_53,Egypt,EG,Egypt
+MOBI_54,Western Sahara,EH,Western Sahara
+MOBI_55,Eritrea,ER,Eritrea
+MOBI_56,Spain,ES,Spain
+MOBI_57,Ethiopia,ET,Ethiopia
+MOBI_58,Finland,FI,Finland
+MOBI_59,Fiji,FJ,Fiji
+MOBI_60,Micronesia (Federated States of),FM,"Micronesia, Fed States of"
+MOBI_61,France,FR,France
+MOBI_62,Gabon,GA,Gabon
+MOBI_63,United Kingdom,GB,United Kingdom
+MOBI_64,Grenada,GD,Grenada
+MOBI_65,Georgia,GE,Georgia
+MOBI_66,Ghana,GH,Ghana
+MOBI_67,Greenland,GL,Greenland
+MOBI_68,Gambia (the),GM,"Gambia, The"
+MOBI_69,Guinea,GN,Guinea
+MOBI_70,Equatorial Guinea,GQ,Equatorial Guinea
+MOBI_71,Greece,GR,Greece
+MOBI_72,Guatemala,GT,Guatemala
+MOBI_73,Guinea-Bissau,GW,Guinea-Bissau
+MOBI_74,Guyana,GY,Guyana
+MOBI_75,Honduras,HN,Honduras
+MOBI_76,Croatia,HR,Croatia
+MOBI_77,Haiti,HT,Haiti
+MOBI_78,Hungary,HU,Hungary
+MOBI_79,Indonesia,ID,Indonesia
+MOBI_80,Ireland,IE,Ireland
+MOBI_81,Israel,IL,Israel
+MOBI_82,India,IN,India
+MOBI_83,Iraq,IQ,Iraq
+MOBI_84,Iran (Islamic Republic of),IR,Iran
+MOBI_85,Iceland,IS,Iceland
+MOBI_86,Italy,IT,Italy
+MOBI_87,Jamaica,JM,Jamaica
+MOBI_88,Jordan,JO,Jordan
+MOBI_89,Japan,JP,Japan
+MOBI_90,Kenya,KE,Kenya
+MOBI_91,Kyrgyzstan,KG,Kyrgyzstan
+MOBI_92,Cambodia,KH,Cambodia
+MOBI_93,Kiribati,KI,Kiribati
+MOBI_94,Comoros (the),KM,Comoros
+MOBI_95,Saint Kitts and Nevis,KN,St Kitts & Nevis
+MOBI_96,Korea (the Democratic People's Republic of),KP,"Korea, North"
+MOBI_97,Korea (the Republic of),KR,"Korea, South"
+MOBI_98,Kuwait,KW,Kuwait
+MOBI_99,Kazakhstan,KZ,Kazakhstan
+MOBI_100,Lao People's Democratic Republic (the),LA,Laos
+MOBI_101,Lebanon,LB,Lebanon
+MOBI_102,Saint Lucia,LC,St Lucia
+MOBI_103,Liechtenstein,LI,Liechtenstein
+MOBI_104,Sri Lanka,LK,Sri Lanka
+MOBI_105,Liberia,LR,Liberia
+MOBI_106,Lesotho,LS,Lesotho
+MOBI_107,Lithuania,LT,Lithuania
+MOBI_108,Luxembourg,LU,Luxembourg
+MOBI_109,Latvia,LV,Latvia
+MOBI_110,Libya,LY,Libya
+MOBI_111,Morocco,MA,Morocco
+MOBI_112,Monaco,MC,Monaco
+MOBI_113,Moldova (the Republic of),MD,Moldova
+MOBI_114,Montenegro,ME,Montenegro
+MOBI_115,Madagascar,MG,Madagascar
+MOBI_116,Marshall Islands (the),MH,Marshall Is
+MOBI_117,North Macedonia,MK,Macedonia
+MOBI_118,Mali,ML,Mali
+MOBI_119,Myanmar,MM,Burma
+MOBI_120,Mongolia,MN,Mongolia
+MOBI_121,Mauritania,MR,Mauritania
+MOBI_122,Malta,MT,Malta
+MOBI_123,Mauritius,MU,Mauritius
+MOBI_124,Maldives,MV,Maldives
+MOBI_125,Malawi,MW,Malawi
+MOBI_126,Mexico,MX,Mexico
+MOBI_127,Malaysia,MY,Malaysia
+MOBI_128,Mozambique,MZ,Mozambique
+MOBI_129,,,Namibia
+MOBI_130,Niger (the),NE,Niger
+MOBI_131,Nigeria,NG,Nigeria
+MOBI_132,Nicaragua,NI,Nicaragua
+MOBI_133,Netherlands (the),NL,Netherlands
+MOBI_134,Norway,NO,Norway
+MOBI_135,Nepal,NP,Nepal
+MOBI_136,Nauru,NR,Nauru
+MOBI_137,New Zealand,NZ,New Zealand
+MOBI_138,Oman,OM,Oman
+MOBI_139,Panama,PA,Panama
+MOBI_140,Peru,PE,Peru
+MOBI_141,Papua New Guinea,PG,Papua New Guinea
+MOBI_142,Philippines (the),PH,Philippines
+MOBI_143,Pakistan,PK,Pakistan
+MOBI_144,Poland,PL,Poland
+MOBI_145,Portugal,PT,Portugal
+MOBI_146,Palau,PW,Palau
+MOBI_147,Paraguay,PY,Paraguay
+MOBI_148,Qatar,QA,Qatar
+MOBI_149,Romania,RO,Romania
+MOBI_150,Serbia,RS,Serbia
+MOBI_151,Russian Federation (the),RU,Russia
+MOBI_152,Rwanda,RW,Rwanda
+MOBI_153,Saudi Arabia,SA,Saudi Arabia
+MOBI_154,Solomon Islands,SB,Solomon Is
+MOBI_155,Seychelles,SC,Seychelles
+MOBI_156,Sudan (the),SD,Sudan
+MOBI_157,Sweden,SE,Sweden
+MOBI_158,Singapore,SG,Singapore
+MOBI_159,Slovenia,SI,Slovenia
+MOBI_160,Slovakia,SK,Slovakia
+MOBI_161,Sierra Leone,SL,Sierra Leone
+MOBI_162,San Marino,SM,San Marino
+MOBI_163,Senegal,SN,Senegal
+MOBI_164,Somalia,SO,Somalia
+MOBI_165,Suriname,SR,Suriname
+MOBI_166,South Sudan,SS,South Sudan
+MOBI_167,Sao Tome and Principe,ST,Sao Tome & Principe
+MOBI_168,El Salvador,SV,El Salvador
+MOBI_169,Syrian Arab Republic (the),SY,Syria
+MOBI_170,Eswatini,SZ,Swaziland
+MOBI_171,Chad,TD,Chad
+MOBI_172,Togo,TG,Togo
+MOBI_173,Thailand,TH,Thailand
+MOBI_174,Tajikistan,TJ,Tajikistan
+MOBI_175,Timor-Leste,TL,Timor-Leste
+MOBI_176,Turkmenistan,TM,Turkmenistan
+MOBI_177,Tunisia,TN,Tunisia
+MOBI_178,Tonga,TO,Tonga
+MOBI_179,Turkey,TR,Turkey
+MOBI_180,Trinidad and Tobago,TT,Trinidad & Tobago
+MOBI_181,Tuvalu,TV,Tuvalu
+MOBI_182,Taiwan (Province of China),TW,Taiwan
+MOBI_183,"Tanzania, the United Republic of",TZ,Tanzania
+MOBI_184,Ukraine,UA,Ukraine
+MOBI_185,Uganda,UG,Uganda
+MOBI_186,United States of America (the),US,United States
+MOBI_187,Uruguay,UY,Uruguay
+MOBI_188,Uzbekistan,UZ,Uzbekistan
+MOBI_189,Holy See (the),VA,Vatican City
+MOBI_190,Saint Vincent and the Grenadines,VC,St Vincent & the Grenadines
+MOBI_191,Venezuela (Bolivarian Republic of),VE,Venezuela
+MOBI_192,Viet Nam,VN,Vietnam
+MOBI_193,Vanuatu,VU,Vanuatu
+MOBI_194,Samoa,WS,Samoa
+MOBI_195,Yemen,YE,Yemen
+MOBI_196,South Africa,ZA,South Africa
+MOBI_197,Zambia,ZM,Zambia
+MOBI_198,Zimbabwe,ZW,Zimbabwe

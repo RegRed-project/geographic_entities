@@ -1,0 +1,26 @@
+Template to input location data to the RegRed database,Unnamed: 1
+,
+Template last updated,2025-11-24 00:00:00
+Point of contact,Gabriel Ortega
+Email,ortega_solis@fzp.czu.cz
+,
+How to use this file,
+Each data sheet has colored columns with the variables we need. ,
+The table below indicates which sheet should be prefered in different scenarios.,
+Case,Prefered sheet
+If you are looking for a country (ADM0),geoboundaries_country
+If you are looking for a second order administrative region (ADM1),geoboundaries_stateProvince
+If you are looking for the lowest administrative region possible (ADM2),geoboundaries_county
+,
+If you are looking for a protected area,wdpa_sep2025
+If you are looking for an island,"1) geoboundaries_country if it is a country.
+2) geoboundaries_stateProvince if it can be a lower admin region.
+3) geoboundaries_county if it is an even smaller region.
+4) global_islands if none of the above had the information."
+,
+If you didn't find what you were looking for,Send an email with the name of the locality and a picture/screenshot of an acompanying map (if available) to ortega_solis@fzp.czu.cz
+If you find an error,Send an email explaining the error to ortega_solis@fzp.czu.cz
+,
+You can see some maps online:,
+geoBoundaries,https://www.geoboundaries.org/visualize.html
+WDPA,https://www.protectedplanet.net/en/search-areas?geo_type=region
