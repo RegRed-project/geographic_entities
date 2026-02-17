@@ -1,12 +1,13 @@
-Template to input location data to the RegRed database,Unnamed: 1
+Template to input location data to the RegRed database,
 ,
 Template last updated,2025-11-24 00:00:00
 Point of contact,Gabriel Ortega
 Email,ortega_solis@fzp.czu.cz
 ,
 How to use this file,
-Each data sheet has colored columns with the variables we need. ,
-The table below indicates which sheet should be prefered in different scenarios.,
+,
+-The table below indicates which sheet should be prefered in different scenarios.,
+,
 Case,Prefered sheet
 If you are looking for a country (ADM0),geoboundaries_country
 If you are looking for a second order administrative region (ADM1),geoboundaries_stateProvince
