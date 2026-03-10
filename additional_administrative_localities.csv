@@ -1,9 +1,8 @@
 locationID,country,stateProvince,county,countryCode,locality,remarks
-MOBI_1SP_RUS,Russian Federation (the),,,RU,Saint Petersburg,Saint Petersburg has a special administrative designation. This code was made only for RegRed usage.
-MOBI_1SJ_NOR,Norway,,,NO,Svalbard,
-MOBI_1XK_XKX,Kosovo,,,XK,Kosovo,
-MOBI_1PT-20_PT,Portugal,,,PT,Azores,
+MOBI_1SP_RUS,Russian Federation (the),Saint Petersburg,,RU,,Saint Petersburg has a special administrative designation. This code was made only for RegRed usage.
+MOBI_1SJ_NOR,Norway,Svalbard,,NO,,
+MOBI_1XK_XKX,Kosovo,,,XK,,
+MOBI_1PT-20_PT,Portugal,Azores,,PT,,
 MOBI_3CL-VS _CHL,Chile,Región de Valparaíso,Provincia de Valparaíso,CL,Juan Fernández,
-MOBI_1ES-CN_ESP,Spain,,,ES,Canary Islands,
-MOBI_1CL-MA_CHL,Chile,Región de Magallanes y Antártica Chilena,,CL,Magallanes,Without Antarctica
-MOBI_2CL-MA_CHL,Chile,,,CL,Chilean Antarctica,Chilean claimed territory without Magallanes
+MOBI_1ES-CN_ESP,Spain,Canary Islands,,ES,,
+MOBI_2CL-MA_CHL,Chile,Región de Magallanes y Antártica Chilena,Provincia de la Antártica Chilena,CL,Chilean Antarctica,Chilean claimed territory without Magallanes
