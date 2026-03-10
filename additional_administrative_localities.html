@@ -37,9 +37,9 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>🗺️ Custom regions</h1>
+            <h1>🗺️ Additional administrative localities</h1>
             <div class="buttons">
-                <a href="Custom_regions.csv" class="btn" download>⬇ CSV</a>
+                <a href="additional_administrative_localities.csv" class="btn" download>⬇ CSV</a>
                 <a href="index.html" class="btn">← Index</a>
             </div>
         </div>
@@ -78,7 +78,7 @@
         const rowsPerPage = 150;
         
         function loadData() {
-            Papa.parse('Custom_regions.csv', {
+            Papa.parse('additional_administrative_localities.csv', {
                 header: true,
                 skipEmptyLines: true,
                 download: true,
