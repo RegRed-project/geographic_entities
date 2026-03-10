@@ -79,24 +79,33 @@
         <p class="subtitle">Searchable, paginated database</p>
         <h2>Readme</h2>
         <p><br>
-            Last updated: 17.2.2026<br>
+            Last updated: 10.3.2026<br>
             Point of contact: Gabriel Ortega<br>
             Email: ortega_solis@fzp.czu.cz<br>
             <br>
 
-            Case Preferred sheet
-            -If you are looking for a country (ADM0) geoboundaries_country
-            -If you are looking for a second order administrative region (ADM1) geoboundaries_stateProvince
-            -If you are looking for the lowest administrative region possible (ADM2) geoboundaries_county
-
-            -If you are looking for a protected area wdpa_sep2025
-            -If you are looking for an island 1) geoboundaries_country if it is a country. 2)
-            geoboundaries_stateProvince if it can be a lower admin region. 3) geoboundaries_county if it is an even
-            smaller region. 4) global_islands if none of the above had the information.
+            <div style="background: #f9f9f9; border-left: 4px solid #667eea; padding: 20px; border-radius: 5px; margin: 15px 0;">
+                <strong style="font-size: 1.1em; color: #333;">How to find your geographic entity:</strong>
+                <ul style="margin: 15px 0 0 20px; line-height: 1.8;">
+                    <li>Looking for a <strong>country (ADM0)</strong>? → <code style="background: #e8eaf6; padding: 2px 6px; border-radius: 3px;">geoboundaries_country</code></li>
+                    <li>Looking for a <strong>state/province (ADM1)</strong>? → <code style="background: #e8eaf6; padding: 2px 6px; border-radius: 3px;">geoboundaries_stateProvince</code></li>
+                    <li>Looking for a <strong>county (ADM2)</strong>? → <code style="background: #e8eaf6; padding: 2px 6px; border-radius: 3px;">geoboundaries_county</code></li>
+                    <li>Looking for a <strong>protected area</strong>? → <code style="background: #e8eaf6; padding: 2px 6px; border-radius: 3px;">wdpa_sep2025</code></li>
+                    <li style="margin-top: 10px;">Looking for an <strong>island</strong>? Try in order:
+                        <ol style="margin: 10px 0 0 20px; line-height: 1.8;">
+                            <li><code style="background: #e8eaf6; padding: 2px 6px; border-radius: 3px;">geoboundaries_country</code> (if it's a country)</li>
+                            <li><code style="background: #e8eaf6; padding: 2px 6px; border-radius: 3px;">geoboundaries_stateProvince</code> (if it's a lower region)</li>
+                            <li><code style="background: #e8eaf6; padding: 2px 6px; border-radius: 3px;">geoboundaries_county</code> (if it's smaller)</li>
+                            <li><code style="background: #e8eaf6; padding: 2px 6px; border-radius: 3px;">global_islands</code> (if none above work)</li>
+                        </ol>
+                    </li>
+                </ul>
+            </div>
             <br>
-            -If you didn't find what you were looking for, please send an email with the name of the locality and a
+            If you didn't find what you were looking for, please send an email with the name of the locality and a
             picture/screenshot of an accompanying map (if available) to ortega_solis@fzp.czu.cz<br>
-            -If you find an error, please send an email explaining the error to ortega_solis@fzp.czu.cz<br>
+            <br>
+            If you find an error, please send an email explaining the error to ortega_solis@fzp.czu.cz<br>
             <br>
             You can see some maps online:<br>
         <ul>
