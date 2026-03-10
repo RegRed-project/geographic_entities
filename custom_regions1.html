@@ -76,6 +76,9 @@
         let filteredData = [];
         let currentPage = 1;
         const rowsPerPage = 150;
+        // Add exact CSV header names here to hide them from the table.
+        const hiddenColumns = [];
+        let visibleHeaders = [];
         
         function loadData() {
             Papa.parse('custom_regions1.csv', {
@@ -125,8 +128,8 @@
             
             // Create header
             if (thead.innerHTML === '') {
-                const headers = Object.keys(allData[0]);
-                const headerRow = '<tr>' + headers.map(h => '<th>' + (h || '').substring(0, 50) + '</th>').join('') + '</tr>';
+                visibleHeaders = Object.keys(allData[0]).filter(h => !hiddenColumns.includes(h));
+                const headerRow = '<tr>' + visibleHeaders.map(h => '<th>' + (h || '').substring(0, 50) + '</th>').join('') + '</tr>';
                 thead.innerHTML = headerRow;
             }
             
@@ -138,7 +141,7 @@
             
             // Render rows
             tbody.innerHTML = pageData.map(row => {
-                const values = Object.values(row).map(v => '<td>' + (v || '') + '</td>').join('');
+                const values = visibleHeaders.map(h => '<td>' + (row[h] || '') + '</td>').join('');
                 return '<tr>' + values + '</tr>';
             }).join('');
             
