@@ -47,3 +47,5 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+geoboundaries_additional_prep.ipynb
+geoboundaries_index.csv
