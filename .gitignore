@@ -54,3 +54,9 @@ repair_wdpa.ipynb
 wdpa_diff1.csv
 wdpa_diff2.csv
 wdpa_sep2025_OLD.csv
+global_islands_w_adm_clean.csv
+global_islands_w_adm.csv
+pre-process_global_islands_w_adm.ipynb
+pre-process_wdpa_sep2025_w_adm.ipynb
+wdpa_sep2025_w_adm_clean.csv
+wdpa_sep2025_w_adm.csv
