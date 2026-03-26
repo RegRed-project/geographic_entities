@@ -60,3 +60,5 @@ pre-process_global_islands_w_adm.ipynb
 pre-process_wdpa_sep2025_w_adm.ipynb
 wdpa_sep2025_w_adm_clean.csv
 wdpa_sep2025_w_adm.csv
+global_islands_OLD.csv
+repair_global_islands.ipynb
