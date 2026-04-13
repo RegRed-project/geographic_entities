@@ -1,295 +1,295 @@
 iso3c,iso2c,iso3n,iso.name.en,iso.name.fr,continent,country.name.de,country.name.en,country.name.fr,country.name.it,fao,gaul,region,region23,un,un.name.ar,un.name.en,un.name.es,un.name.fr,un.name.ru,un.name.zh,unicode.symbol
-AFG,AF,4.0,Afghanistan,Afghanistan (l'),Asia,Afghanistan,Afghanistan,Afghanistan,Afghanistan,2.0,1.0,South Asia,Southern Asia,4.0,أفغانستان,Afghanistan,Afganistán,Afghanistan,Афганистан,阿富汗,🇦🇫
-ALB,AL,8.0,Albania,Albanie (l'),Europe,Albanien,Albania,Albanie,Albania,3.0,3.0,Europe & Central Asia,Southern Europe,8.0,ألبانيا,Albania,Albania,Albanie,Албания,阿尔巴尼亚,🇦🇱
-DZA,DZ,12.0,Algeria,Algérie (l'),Africa,Algerien,Algeria,Algérie,Algeria,4.0,4.0,Middle East & North Africa,Northern Africa,12.0,الجزائر,Algeria,Argelia,Algérie,Алжир,阿尔及利亚,🇩🇿
-ASM,AS,16.0,American Samoa,Samoa américaines (les),Oceania,Amerikanisch-Samoa,American Samoa,Samoa américaines,Samoa americane,5.0,5.0,East Asia & Pacific,Polynesia,16.0,,,,,,,🇦🇸
-AND,AD,20.0,Andorra,Andorre (l'),Europe,Andorra,Andorra,Andorre,Andorra,6.0,7.0,Europe & Central Asia,Southern Europe,20.0,أندورا,Andorra,Andorra,Andorre,Андорра,安道尔,🇦🇩
-AGO,AO,24.0,Angola,Angola (l'),Africa,Angola,Angola,Angola,Angola,7.0,8.0,Sub-Saharan Africa,Middle Africa,24.0,أنغولا,Angola,Angola,Angola,Ангола,安哥拉,🇦🇴
-AIA,AI,660.0,Anguilla,Anguilla,Americas,Anguilla,Anguilla,Anguilla,Anguilla,258.0,9.0,Latin America & Caribbean,Caribbean,660.0,,,,,,,🇦🇮
-ATA,AQ,10.0,Antarctica,Antarctique (l'),Antarctica,Antarktis,Antarctica,Antarctique,Antartide,30.0,10.0,,,10.0,,,,,,,🇦🇶
-ATG,AG,28.0,Antigua and Barbuda,Antigua-et-Barbuda,Americas,Antigua und Barbuda,Antigua & Barbuda,Antigua-et-Barbuda,Antigua e Barbuda,8.0,11.0,Latin America & Caribbean,Caribbean,28.0,أنتيغوا وبربودا,Antigua and Barbuda,Antigua y Barbuda,Antigua-et-Barbuda,Антигуа и Барбуда,安提瓜和巴布达,🇦🇬
-ARG,AR,32.0,Argentina,Argentine (l'),Americas,Argentinien,Argentina,Argentine,Argentina,9.0,12.0,Latin America & Caribbean,South America,32.0,الأرجنتين,Argentina,Argentina,Argentine,Аргентина,阿根廷,🇦🇷
-ARM,AM,51.0,Armenia,Arménie (l'),Asia,Armenien,Armenia,Arménie,Armenia,1.0,13.0,Europe & Central Asia,Western Asia,51.0,أرمينيا,Armenia,Armenia,Arménie,Армения,亚美尼亚,🇦🇲
-ABW,AW,533.0,Aruba,Aruba,Americas,Aruba,Aruba,Aruba,Aruba,22.0,14.0,Latin America & Caribbean,Caribbean,533.0,,,,,,,🇦🇼
-AUS,AU,36.0,Australia,Australie (l'),Oceania,Australien,Australia,Australie,Australia,10.0,17.0,East Asia & Pacific,Australia and New Zealand,36.0,أستراليا,Australia,Australia,Australie,Австралия,澳大利亚,🇦🇺
-AUT,AT,40.0,Austria,Autriche (l'),Europe,Österreich,Austria,Autriche,Austria,11.0,18.0,Europe & Central Asia,Western Europe,40.0,النمسا,Austria,Austria,Autriche,Австрия,奥地利,🇦🇹
+AFG,AF,4,Afghanistan,Afghanistan (l'),Asia,Afghanistan,Afghanistan,Afghanistan,Afghanistan,2,1,South Asia,Southern Asia,4,أفغانستان,Afghanistan,Afganistán,Afghanistan,Афганистан,阿富汗,🇦🇫
+ALB,AL,8,Albania,Albanie (l'),Europe,Albanien,Albania,Albanie,Albania,3,3,Europe & Central Asia,Southern Europe,8,ألبانيا,Albania,Albania,Albanie,Албания,阿尔巴尼亚,🇦🇱
+DZA,DZ,12,Algeria,Algérie (l'),Africa,Algerien,Algeria,Algérie,Algeria,4,4,Middle East & North Africa,Northern Africa,12,الجزائر,Algeria,Argelia,Algérie,Алжир,阿尔及利亚,🇩🇿
+ASM,AS,16,American Samoa,Samoa américaines (les),Oceania,Amerikanisch-Samoa,American Samoa,Samoa américaines,Samoa americane,5,5,East Asia & Pacific,Polynesia,16,,,,,,,🇦🇸
+AND,AD,20,Andorra,Andorre (l'),Europe,Andorra,Andorra,Andorre,Andorra,6,7,Europe & Central Asia,Southern Europe,20,أندورا,Andorra,Andorra,Andorre,Андорра,安道尔,🇦🇩
+AGO,AO,24,Angola,Angola (l'),Africa,Angola,Angola,Angola,Angola,7,8,Sub-Saharan Africa,Middle Africa,24,أنغولا,Angola,Angola,Angola,Ангола,安哥拉,🇦🇴
+AIA,AI,660,Anguilla,Anguilla,Americas,Anguilla,Anguilla,Anguilla,Anguilla,258,9,Latin America & Caribbean,Caribbean,660,,,,,,,🇦🇮
+ATA,AQ,10,Antarctica,Antarctique (l'),Antarctica,Antarktis,Antarctica,Antarctique,Antartide,30,10,,,10,,,,,,,🇦🇶
+ATG,AG,28,Antigua and Barbuda,Antigua-et-Barbuda,Americas,Antigua und Barbuda,Antigua & Barbuda,Antigua-et-Barbuda,Antigua e Barbuda,8,11,Latin America & Caribbean,Caribbean,28,أنتيغوا وبربودا,Antigua and Barbuda,Antigua y Barbuda,Antigua-et-Barbuda,Антигуа и Барбуда,安提瓜和巴布达,🇦🇬
+ARG,AR,32,Argentina,Argentine (l'),Americas,Argentinien,Argentina,Argentine,Argentina,9,12,Latin America & Caribbean,South America,32,الأرجنتين,Argentina,Argentina,Argentine,Аргентина,阿根廷,🇦🇷
+ARM,AM,51,Armenia,Arménie (l'),Asia,Armenien,Armenia,Arménie,Armenia,1,13,Europe & Central Asia,Western Asia,51,أرمينيا,Armenia,Armenia,Arménie,Армения,亚美尼亚,🇦🇲
+ABW,AW,533,Aruba,Aruba,Americas,Aruba,Aruba,Aruba,Aruba,22,14,Latin America & Caribbean,Caribbean,533,,,,,,,🇦🇼
+AUS,AU,36,Australia,Australie (l'),Oceania,Australien,Australia,Australie,Australia,10,17,East Asia & Pacific,Australia and New Zealand,36,أستراليا,Australia,Australia,Australie,Австралия,澳大利亚,🇦🇺
+AUT,AT,40,Austria,Autriche (l'),Europe,Österreich,Austria,Autriche,Austria,11,18,Europe & Central Asia,Western Europe,40,النمسا,Austria,Austria,Autriche,Австрия,奥地利,🇦🇹
 ,,,,,,Österreich-Ungarn,Austria-Hungary,,,,,Europe & Central Asia,,,,,,,,,
-AZE,AZ,31.0,Azerbaijan,Azerbaïdjan (l'),Asia,Aserbaidschan,Azerbaijan,Azerbaïdjan,Azerbaigian,52.0,19.0,Europe & Central Asia,Western Asia,31.0,أذربيجان,Azerbaijan,Azerbaiyán,Azerbaïdjan,Азербайджан,阿塞拜疆,🇦🇿
+AZE,AZ,31,Azerbaijan,Azerbaïdjan (l'),Asia,Aserbaidschan,Azerbaijan,Azerbaïdjan,Azerbaigian,52,19,Europe & Central Asia,Western Asia,31,أذربيجان,Azerbaijan,Azerbaiyán,Azerbaïdjan,Азербайджан,阿塞拜疆,🇦🇿
 ,,,,,,Baden,Baden,,,,,Europe & Central Asia,,,,,,,,,
-BHS,BS,44.0,Bahamas (the),Bahamas (les),Americas,Bahamas,Bahamas,Bahamas,Bahamas,12.0,20.0,Latin America & Caribbean,Caribbean,44.0,جزر البهاما,Bahamas,Bahamas,Bahamas,Багамские Острова,巴哈马,🇧🇸
-BHR,BH,48.0,Bahrain,Bahreïn,Asia,Bahrain,Bahrain,Bahreïn,Bahrein,13.0,21.0,Middle East & North Africa,Western Asia,48.0,البحرين,Bahrain,Bahrein,Bahreïn,Бахрейн,巴林,🇧🇭
-BGD,BD,50.0,Bangladesh,Bangladesh (le),Asia,Bangladesch,Bangladesh,Bangladesh,Bangladesh,16.0,23.0,South Asia,Southern Asia,50.0,بنغلاديش,Bangladesh,Bangladesh,Bangladesh,Бангладеш,孟加拉国,🇧🇩
-BRB,BB,52.0,Barbados,Barbade (la),Americas,Barbados,Barbados,Barbade,Barbados,14.0,24.0,Latin America & Caribbean,Caribbean,52.0,بربادوس,Barbados,Barbados,Barbade,Барбадос,巴巴多斯,🇧🇧
+BHS,BS,44,Bahamas (the),Bahamas (les),Americas,Bahamas,Bahamas,Bahamas,Bahamas,12,20,Latin America & Caribbean,Caribbean,44,جزر البهاما,Bahamas,Bahamas,Bahamas,Багамские Острова,巴哈马,🇧🇸
+BHR,BH,48,Bahrain,Bahreïn,Asia,Bahrain,Bahrain,Bahreïn,Bahrein,13,21,Middle East & North Africa,Western Asia,48,البحرين,Bahrain,Bahrein,Bahreïn,Бахрейн,巴林,🇧🇭
+BGD,BD,50,Bangladesh,Bangladesh (le),Asia,Bangladesch,Bangladesh,Bangladesh,Bangladesh,16,23,South Asia,Southern Asia,50,بنغلاديش,Bangladesh,Bangladesh,Bangladesh,Бангладеш,孟加拉国,🇧🇩
+BRB,BB,52,Barbados,Barbade (la),Americas,Barbados,Barbados,Barbade,Barbados,14,24,Latin America & Caribbean,Caribbean,52,بربادوس,Barbados,Barbados,Barbade,Барбадос,巴巴多斯,🇧🇧
 ,,,,,,Bayern,Bavaria,,,,,Europe & Central Asia,,,,,,,,,
-BLR,BY,112.0,Belarus,Bélarus (le),Europe,Weißrussland,Belarus,Biélorussie,Bielorussia,57.0,26.0,Europe & Central Asia,Eastern Europe,112.0,بيلاروس,Belarus,Belarús,Bélarus,Беларусь,白俄罗斯,🇧🇾
-BEL,BE,56.0,Belgium,Belgique (la),Europe,Belgien,Belgium,Belgique,Belgio,255.0,27.0,Europe & Central Asia,Western Europe,56.0,بلجيكا,Belgium,Bélgica,Belgique,Бельгия,比利时,🇧🇪
-BLZ,BZ,84.0,Belize,Belize (le),Americas,Belize,Belize,Belize,Belize,23.0,28.0,Latin America & Caribbean,Central America,84.0,بليز,Belize,Belice,Belize,Белиз,伯利兹,🇧🇿
-BEN,BJ,204.0,Benin,Bénin (le),Africa,Benin,Benin,Bénin,Benin,53.0,29.0,Sub-Saharan Africa,Western Africa,204.0,بنن,Benin,Benin,Bénin,Бенин,贝宁,🇧🇯
-BMU,BM,60.0,Bermuda,Bermudes (les),Americas,Bermuda,Bermuda,Bermudes,Bermuda,17.0,30.0,North America,Northern America,60.0,,,,,,,🇧🇲
-BTN,BT,64.0,Bhutan,Bhoutan (le),Asia,Bhutan,Bhutan,Bhoutan,Bhutan,18.0,31.0,South Asia,Southern Asia,64.0,بوتان,Bhutan,Bhután,Bhoutan,Бутан,不丹,🇧🇹
-BOL,BO,68.0,Bolivia (Plurinational State of),Bolivie (État plurinational de),Americas,Bolivien,Bolivia,Bolivie,Bolivia,19.0,33.0,Latin America & Caribbean,South America,68.0,بوليفيا (دولة-متعددة القوميات),Bolivia (Plurinational State of),Bolivia (Estado Plurinacional de),Bolivie (État plurinational de),Боливия (Многонациональное Государство),玻利维亚 (多民族国),🇧🇴
-BIH,BA,70.0,Bosnia and Herzegovina,Bosnie-Herzégovine (la),Europe,Bosnien und Herzegowina,Bosnia & Herzegovina,Bosnie-Herzégovine,Bosnia ed Erzegovina,80.0,34.0,Europe & Central Asia,Southern Europe,70.0,البوسنة والهرسك,Bosnia and Herzegovina,Bosnia y Herzegovina,Bosnie-Herzégovine,Босния и Герцеговина,波斯尼亚和黑塞哥维那,🇧🇦
-BWA,BW,72.0,Botswana,Botswana (le),Africa,Botswana,Botswana,Botswana,Botswana,20.0,35.0,Sub-Saharan Africa,Southern Africa,72.0,بوتسوانا,Botswana,Botswana,Botswana,Ботсвана,博茨瓦纳,🇧🇼
-BVT,BV,74.0,Bouvet Island,Bouvet (l'Île),,Bouvetinsel,Bouvet Island,Île Bouvet,Isola Bouvet,,36.0,,,74.0,,,,,,,🇧🇻
-BRA,BR,76.0,Brazil,Brésil (le),Americas,Brasilien,Brazil,Brésil,Brasile,21.0,37.0,Latin America & Caribbean,South America,76.0,البرازيل,Brazil,Brasil,Brésil,Бразилия,巴西,🇧🇷
-IOT,IO,86.0,British Indian Ocean Territory (the),Indien (le Territoire britannique de l'océan),,Britisches Territorium im Indischen Ozean,British Indian Ocean Territory,Territoire britannique de l’océan Indien,Territorio britannico dell’Oceano Indiano,24.0,38.0,,,86.0,,,,,,,🇮🇴
-VGB,VG,92.0,Virgin Islands (British),Vierges britanniques (les Îles),Americas,Britische Jungferninseln,British Virgin Islands,Îles Vierges britanniques,Isole Vergini Britanniche,239.0,39.0,Latin America & Caribbean,Caribbean,92.0,,,,,,,🇻🇬
-BRN,BN,96.0,Brunei Darussalam,Brunéi Darussalam (le),Asia,Brunei Darussalam,Brunei,Brunéi Darussalam,Brunei,26.0,40.0,East Asia & Pacific,South-Eastern Asia,96.0,بروني دار السلام,Brunei Darussalam,Brunei Darussalam,Brunéi Darussalam,Бруней-Даруссалам,文莱达鲁萨兰国,🇧🇳
+BLR,BY,112,Belarus,Bélarus (le),Europe,Weißrussland,Belarus,Biélorussie,Bielorussia,57,26,Europe & Central Asia,Eastern Europe,112,بيلاروس,Belarus,Belarús,Bélarus,Беларусь,白俄罗斯,🇧🇾
+BEL,BE,56,Belgium,Belgique (la),Europe,Belgien,Belgium,Belgique,Belgio,255,27,Europe & Central Asia,Western Europe,56,بلجيكا,Belgium,Bélgica,Belgique,Бельгия,比利时,🇧🇪
+BLZ,BZ,84,Belize,Belize (le),Americas,Belize,Belize,Belize,Belize,23,28,Latin America & Caribbean,Central America,84,بليز,Belize,Belice,Belize,Белиз,伯利兹,🇧🇿
+BEN,BJ,204,Benin,Bénin (le),Africa,Benin,Benin,Bénin,Benin,53,29,Sub-Saharan Africa,Western Africa,204,بنن,Benin,Benin,Bénin,Бенин,贝宁,🇧🇯
+BMU,BM,60,Bermuda,Bermudes (les),Americas,Bermuda,Bermuda,Bermudes,Bermuda,17,30,North America,Northern America,60,,,,,,,🇧🇲
+BTN,BT,64,Bhutan,Bhoutan (le),Asia,Bhutan,Bhutan,Bhoutan,Bhutan,18,31,South Asia,Southern Asia,64,بوتان,Bhutan,Bhután,Bhoutan,Бутан,不丹,🇧🇹
+BOL,BO,68,Bolivia (Plurinational State of),Bolivie (État plurinational de),Americas,Bolivien,Bolivia,Bolivie,Bolivia,19,33,Latin America & Caribbean,South America,68,بوليفيا (دولة-متعددة القوميات),Bolivia (Plurinational State of),Bolivia (Estado Plurinacional de),Bolivie (État plurinational de),Боливия (Многонациональное Государство),玻利维亚 (多民族国),🇧🇴
+BIH,BA,70,Bosnia and Herzegovina,Bosnie-Herzégovine (la),Europe,Bosnien und Herzegowina,Bosnia & Herzegovina,Bosnie-Herzégovine,Bosnia ed Erzegovina,80,34,Europe & Central Asia,Southern Europe,70,البوسنة والهرسك,Bosnia and Herzegovina,Bosnia y Herzegovina,Bosnie-Herzégovine,Босния и Герцеговина,波斯尼亚和黑塞哥维那,🇧🇦
+BWA,BW,72,Botswana,Botswana (le),Africa,Botswana,Botswana,Botswana,Botswana,20,35,Sub-Saharan Africa,Southern Africa,72,بوتسوانا,Botswana,Botswana,Botswana,Ботсвана,博茨瓦纳,🇧🇼
+BVT,BV,74,Bouvet Island,Bouvet (l'Île),,Bouvetinsel,Bouvet Island,Île Bouvet,Isola Bouvet,,36,,,74,,,,,,,🇧🇻
+BRA,BR,76,Brazil,Brésil (le),Americas,Brasilien,Brazil,Brésil,Brasile,21,37,Latin America & Caribbean,South America,76,البرازيل,Brazil,Brasil,Brésil,Бразилия,巴西,🇧🇷
+IOT,IO,86,British Indian Ocean Territory (the),Indien (le Territoire britannique de l'océan),,Britisches Territorium im Indischen Ozean,British Indian Ocean Territory,Territoire britannique de l’océan Indien,Territorio britannico dell’Oceano Indiano,24,38,,,86,,,,,,,🇮🇴
+VGB,VG,92,Virgin Islands (British),Vierges britanniques (les Îles),Americas,Britische Jungferninseln,British Virgin Islands,Îles Vierges britanniques,Isole Vergini Britanniche,239,39,Latin America & Caribbean,Caribbean,92,,,,,,,🇻🇬
+BRN,BN,96,Brunei Darussalam,Brunéi Darussalam (le),Asia,Brunei Darussalam,Brunei,Brunéi Darussalam,Brunei,26,40,East Asia & Pacific,South-Eastern Asia,96,بروني دار السلام,Brunei Darussalam,Brunei Darussalam,Brunéi Darussalam,Бруней-Даруссалам,文莱达鲁萨兰国,🇧🇳
 ,,,,,,Braunschweig,Brunswick,,,,,Europe & Central Asia,,,,,,,,,
-BGR,BG,100.0,Bulgaria,Bulgarie (la),Europe,Bulgarien,Bulgaria,Bulgarie,Bulgaria,27.0,41.0,Europe & Central Asia,Eastern Europe,100.0,بلغاريا,Bulgaria,Bulgaria,Bulgarie,Болгария,保加利亚,🇧🇬
-BFA,BF,854.0,Burkina Faso,Burkina Faso (le),Africa,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,233.0,42.0,Sub-Saharan Africa,Western Africa,854.0,بوركينا فاسو,Burkina Faso,Burkina Faso,Burkina Faso,Буркина-Фасо,布基纳法索,🇧🇫
-BDI,BI,108.0,Burundi,Burundi (le),Africa,Burundi,Burundi,Burundi,Burundi,29.0,43.0,Sub-Saharan Africa,Eastern Africa,108.0,بوروندي,Burundi,Burundi,Burundi,Бурунди,布隆迪,🇧🇮
-KHM,KH,116.0,Cambodia,Cambodge (le),Asia,Kambodscha,Cambodia,Cambodge,Cambogia,115.0,44.0,East Asia & Pacific,South-Eastern Asia,116.0,كمبوديا,Cambodia,Camboya,Cambodge,Камбоджа,柬埔寨,🇰🇭
-CMR,CM,120.0,Cameroon,Cameroun (le),Africa,Kamerun,Cameroon,Cameroun,Camerun,32.0,45.0,Sub-Saharan Africa,Middle Africa,120.0,الكاميرون,Cameroon,Camerún,Cameroun,Камерун,喀麦隆,🇨🇲
-CAN,CA,124.0,Canada,Canada (le),Americas,Kanada,Canada,Canada,Canada,33.0,46.0,North America,Northern America,124.0,كندا,Canada,Canadá,Canada,Канада,加拿大,🇨🇦
-CPV,CV,132.0,Cabo Verde,Cabo Verde,Africa,Cabo Verde,Cape Verde,Cap-Vert,Capo Verde,35.0,47.0,Sub-Saharan Africa,Western Africa,132.0,كابو فيردي,Cabo Verde,Cabo Verde,Cabo Verde,Кабо-Верде,佛得角,🇨🇻
-BES,BQ,535.0,"Bonaire, Sint Eustatius and Saba","Bonaire, Saint-Eustache et Saba",Americas,"Bonaire, Sint Eustatius und Saba",Caribbean Netherlands,Pays-Bas caribéens,Caraibi olandesi,,,Latin America & Caribbean,Caribbean,535.0,,,,,,,🇧🇶
-CYM,KY,136.0,Cayman Islands (the),Caïmans (les Îles),Americas,Kaimaninseln,Cayman Islands,Îles Caïmans,Isole Cayman,36.0,48.0,Latin America & Caribbean,Caribbean,136.0,,,,,,,🇰🇾
-CAF,CF,140.0,Central African Republic (the),République centrafricaine (la),Africa,Zentralafrikanische Republik,Central African Republic,République centrafricaine,Repubblica Centrafricana,37.0,49.0,Sub-Saharan Africa,Middle Africa,140.0,جمهورية أفريقيا الوسطى,Central African Republic,República Centroafricana,République centrafricaine,Центральноафриканская Республика,中非共和国,🇨🇫
-TCD,TD,148.0,Chad,Tchad (le),Africa,Tschad,Chad,Tchad,Ciad,39.0,50.0,Sub-Saharan Africa,Middle Africa,148.0,تشاد,Chad,Chad,Tchad,Чад,乍得,🇹🇩
+BGR,BG,100,Bulgaria,Bulgarie (la),Europe,Bulgarien,Bulgaria,Bulgarie,Bulgaria,27,41,Europe & Central Asia,Eastern Europe,100,بلغاريا,Bulgaria,Bulgaria,Bulgarie,Болгария,保加利亚,🇧🇬
+BFA,BF,854,Burkina Faso,Burkina Faso (le),Africa,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,233,42,Sub-Saharan Africa,Western Africa,854,بوركينا فاسو,Burkina Faso,Burkina Faso,Burkina Faso,Буркина-Фасо,布基纳法索,🇧🇫
+BDI,BI,108,Burundi,Burundi (le),Africa,Burundi,Burundi,Burundi,Burundi,29,43,Sub-Saharan Africa,Eastern Africa,108,بوروندي,Burundi,Burundi,Burundi,Бурунди,布隆迪,🇧🇮
+KHM,KH,116,Cambodia,Cambodge (le),Asia,Kambodscha,Cambodia,Cambodge,Cambogia,115,44,East Asia & Pacific,South-Eastern Asia,116,كمبوديا,Cambodia,Camboya,Cambodge,Камбоджа,柬埔寨,🇰🇭
+CMR,CM,120,Cameroon,Cameroun (le),Africa,Kamerun,Cameroon,Cameroun,Camerun,32,45,Sub-Saharan Africa,Middle Africa,120,الكاميرون,Cameroon,Camerún,Cameroun,Камерун,喀麦隆,🇨🇲
+CAN,CA,124,Canada,Canada (le),Americas,Kanada,Canada,Canada,Canada,33,46,North America,Northern America,124,كندا,Canada,Canadá,Canada,Канада,加拿大,🇨🇦
+CPV,CV,132,Cabo Verde,Cabo Verde,Africa,Cabo Verde,Cape Verde,Cap-Vert,Capo Verde,35,47,Sub-Saharan Africa,Western Africa,132,كابو فيردي,Cabo Verde,Cabo Verde,Cabo Verde,Кабо-Верде,佛得角,🇨🇻
+BES,BQ,535,"Bonaire, Sint Eustatius and Saba","Bonaire, Saint-Eustache et Saba",Americas,"Bonaire, Sint Eustatius und Saba",Caribbean Netherlands,Pays-Bas caribéens,Caraibi olandesi,,,Latin America & Caribbean,Caribbean,535,,,,,,,🇧🇶
+CYM,KY,136,Cayman Islands (the),Caïmans (les Îles),Americas,Kaimaninseln,Cayman Islands,Îles Caïmans,Isole Cayman,36,48,Latin America & Caribbean,Caribbean,136,,,,,,,🇰🇾
+CAF,CF,140,Central African Republic (the),République centrafricaine (la),Africa,Zentralafrikanische Republik,Central African Republic,République centrafricaine,Repubblica Centrafricana,37,49,Sub-Saharan Africa,Middle Africa,140,جمهورية أفريقيا الوسطى,Central African Republic,República Centroafricana,République centrafricaine,Центральноафриканская Республика,中非共和国,🇨🇫
+TCD,TD,148,Chad,Tchad (le),Africa,Tschad,Chad,Tchad,Ciad,39,50,Sub-Saharan Africa,Middle Africa,148,تشاد,Chad,Chad,Tchad,Чад,乍得,🇹🇩
 ,,,,,,Kanalinseln,Channel Islands,,,,,Europe & Central Asia,,,,,,,,,
-CHL,CL,152.0,Chile,Chili (le),Americas,Chile,Chile,Chili,Cile,40.0,51.0,Latin America & Caribbean,South America,152.0,شيلي,Chile,Chile,Chili,Чили,智利,🇨🇱
-CHN,CN,156.0,China,Chine (la),Asia,China,China,Chine,Cina,351.0,53.0,East Asia & Pacific,Eastern Asia,156.0,الصين,China,China,Chine,Китай,中国,🇨🇳
-CXR,CX,162.0,Christmas Island,Christmas (l'Île),Oceania,Weihnachtsinsel,Christmas Island,Île Christmas,Isola Christmas,42.0,54.0,East Asia & Pacific,,162.0,,,,,,,🇨🇽
-CCK,CC,166.0,Cocos (Keeling) Islands (the),Cocos (les Îles)/ Keeling (les Îles),,Kokosinseln (Keelinginseln),Cocos (Keeling) Islands,Îles Cocos,Isole Cocos (Keeling),43.0,56.0,East Asia & Pacific,,166.0,,,,,,,🇨🇨
-COL,CO,170.0,Colombia,Colombie (la),Americas,Kolumbien,Colombia,Colombie,Colombia,44.0,57.0,Latin America & Caribbean,South America,170.0,كولومبيا,Colombia,Colombia,Colombie,Колумбия,哥伦比亚,🇨🇴
-COM,KM,174.0,Comoros (the),Comores (les),Africa,Komoren,Comoros,Comores,Comore,45.0,58.0,Sub-Saharan Africa,Eastern Africa,174.0,جزر القمر,Comoros,Comoras,Comores,Коморские Острова,科摩罗,🇰🇲
-COG,CG,178.0,Congo (the),Congo (le),Africa,Kongo,Congo - Brazzaville,Congo-Brazzaville,Congo-Brazzaville,46.0,59.0,Sub-Saharan Africa,Middle Africa,178.0,الكونغو,Congo,Congo,Congo,Конго,刚果,🇨🇬
-COD,CD,180.0,Congo (the Democratic Republic of the),Congo (la République démocratique du),Africa,Demokratische Republik Kongo,Congo - Kinshasa,Congo-Kinshasa,Congo - Kinshasa,250.0,68.0,Sub-Saharan Africa,Middle Africa,180.0,جمهورية الكونغو الديمقراطية,Democratic Republic of the Congo,República Democrática del Congo,République démocratique du Congo,Демократическая Республика Конго,刚果民主共和国,🇨🇩
-COK,CK,184.0,Cook Islands (the),Cook (les Îles),Oceania,Cookinseln,Cook Islands,Îles Cook,Isole Cook,47.0,60.0,East Asia & Pacific,Polynesia,184.0,,,,,,,🇨🇰
-CRI,CR,188.0,Costa Rica,Costa Rica (le),Americas,Costa Rica,Costa Rica,Costa Rica,Costa Rica,48.0,61.0,Latin America & Caribbean,Central America,188.0,كوستاريكا,Costa Rica,Costa Rica,Costa Rica,Коста-Рика,哥斯达黎加,🇨🇷
-HRV,HR,191.0,Croatia,Croatie (la),Europe,Kroatien,Croatia,Croatie,Croazia,98.0,62.0,Europe & Central Asia,Southern Europe,191.0,كرواتيا,Croatia,Croacia,Croatie,Хорватия,克罗地亚,🇭🇷
-CUB,CU,192.0,Cuba,Cuba,Americas,Kuba,Cuba,Cuba,Cuba,49.0,63.0,Latin America & Caribbean,Caribbean,192.0,كوبا,Cuba,Cuba,Cuba,Куба,古巴,🇨🇺
-CUW,CW,531.0,Curaçao,Curaçao,Americas,Curaçao,Curaçao,Curaçao,Curaçao,,,Latin America & Caribbean,Caribbean,531.0,,,,,,,🇨🇼
-CYP,CY,196.0,Cyprus,Chypre,Asia,Zypern,Cyprus,Chypre,Cipro,50.0,64.0,Europe & Central Asia,Western Asia,196.0,قبرص,Cyprus,Chipre,Chypre,Кипр,塞浦路斯,🇨🇾
-CZE,CZ,203.0,Czechia,Tchéquie (la),Europe,Tschechische Republik,Czechia,Tchéquie,Cechia,167.0,65.0,Europe & Central Asia,Eastern Europe,203.0,تشيكيا,Czechia,Chequia,Tchéquie,Чеxия,捷克,🇨🇿
+CHL,CL,152,Chile,Chili (le),Americas,Chile,Chile,Chili,Cile,40,51,Latin America & Caribbean,South America,152,شيلي,Chile,Chile,Chili,Чили,智利,🇨🇱
+CHN,CN,156,China,Chine (la),Asia,China,China,Chine,Cina,351,53,East Asia & Pacific,Eastern Asia,156,الصين,China,China,Chine,Китай,中国,🇨🇳
+CXR,CX,162,Christmas Island,Christmas (l'Île),Oceania,Weihnachtsinsel,Christmas Island,Île Christmas,Isola Christmas,42,54,East Asia & Pacific,,162,,,,,,,🇨🇽
+CCK,CC,166,Cocos (Keeling) Islands (the),Cocos (les Îles)/ Keeling (les Îles),,Kokosinseln (Keelinginseln),Cocos (Keeling) Islands,Îles Cocos,Isole Cocos (Keeling),43,56,East Asia & Pacific,,166,,,,,,,🇨🇨
+COL,CO,170,Colombia,Colombie (la),Americas,Kolumbien,Colombia,Colombie,Colombia,44,57,Latin America & Caribbean,South America,170,كولومبيا,Colombia,Colombia,Colombie,Колумбия,哥伦比亚,🇨🇴
+COM,KM,174,Comoros (the),Comores (les),Africa,Komoren,Comoros,Comores,Comore,45,58,Sub-Saharan Africa,Eastern Africa,174,جزر القمر,Comoros,Comoras,Comores,Коморские Острова,科摩罗,🇰🇲
+COG,CG,178,Congo (the),Congo (le),Africa,Kongo,Congo - Brazzaville,Congo-Brazzaville,Congo-Brazzaville,46,59,Sub-Saharan Africa,Middle Africa,178,الكونغو,Congo,Congo,Congo,Конго,刚果,🇨🇬
+COD,CD,180,Congo (the Democratic Republic of the),Congo (la République démocratique du),Africa,Demokratische Republik Kongo,Congo - Kinshasa,Congo-Kinshasa,Congo - Kinshasa,250,68,Sub-Saharan Africa,Middle Africa,180,جمهورية الكونغو الديمقراطية,Democratic Republic of the Congo,República Democrática del Congo,République démocratique du Congo,Демократическая Республика Конго,刚果民主共和国,🇨🇩
+COK,CK,184,Cook Islands (the),Cook (les Îles),Oceania,Cookinseln,Cook Islands,Îles Cook,Isole Cook,47,60,East Asia & Pacific,Polynesia,184,,,,,,,🇨🇰
+CRI,CR,188,Costa Rica,Costa Rica (le),Americas,Costa Rica,Costa Rica,Costa Rica,Costa Rica,48,61,Latin America & Caribbean,Central America,188,كوستاريكا,Costa Rica,Costa Rica,Costa Rica,Коста-Рика,哥斯达黎加,🇨🇷
+HRV,HR,191,Croatia,Croatie (la),Europe,Kroatien,Croatia,Croatie,Croazia,98,62,Europe & Central Asia,Southern Europe,191,كرواتيا,Croatia,Croacia,Croatie,Хорватия,克罗地亚,🇭🇷
+CUB,CU,192,Cuba,Cuba,Americas,Kuba,Cuba,Cuba,Cuba,49,63,Latin America & Caribbean,Caribbean,192,كوبا,Cuba,Cuba,Cuba,Куба,古巴,🇨🇺
+CUW,CW,531,Curaçao,Curaçao,Americas,Curaçao,Curaçao,Curaçao,Curaçao,,,Latin America & Caribbean,Caribbean,531,,,,,,,🇨🇼
+CYP,CY,196,Cyprus,Chypre,Asia,Zypern,Cyprus,Chypre,Cipro,50,64,Europe & Central Asia,Western Asia,196,قبرص,Cyprus,Chipre,Chypre,Кипр,塞浦路斯,🇨🇾
+CZE,CZ,203,Czechia,Tchéquie (la),Europe,Tschechische Republik,Czechia,Tchéquie,Cechia,167,65,Europe & Central Asia,Eastern Europe,203,تشيكيا,Czechia,Chequia,Tchéquie,Чеxия,捷克,🇨🇿
 ,,,,,,Tschechoslowakei,Czechoslovakia,,,,,Europe & Central Asia,,,,,,,,,
-CIV,CI,384.0,Côte d'Ivoire,Côte d'Ivoire (la),Africa,Elfenbeinküste,Côte d’Ivoire,Côte d’Ivoire,Costa d’Avorio,107.0,66.0,Sub-Saharan Africa,Western Africa,384.0,كوت ديفوار,Côte d’Ivoire,Côte d’Ivoire,Côte d’Ivoire,Кот-д’Ивуар,科特迪瓦,🇨🇮
-DNK,DK,208.0,Denmark,Danemark (le),Europe,Dänemark,Denmark,Danemark,Danimarca,54.0,69.0,Europe & Central Asia,Northern Europe,208.0,الدانمرك,Denmark,Dinamarca,Danemark,Дания,丹麦,🇩🇰
-DJI,DJ,262.0,Djibouti,Djibouti,Africa,Dschibuti,Djibouti,Djibouti,Gibuti,72.0,70.0,Middle East & North Africa,Eastern Africa,262.0,جيبوتي,Djibouti,Djibouti,Djibouti,Джибути,吉布提,🇩🇯
-DMA,DM,212.0,Dominica,Dominique (la),Americas,Dominica,Dominica,Dominique,Dominica,55.0,71.0,Latin America & Caribbean,Caribbean,212.0,دومينيكا,Dominica,Dominica,Dominique,Доминика,多米尼克,🇩🇲
-DOM,DO,214.0,Dominican Republic (the),dominicaine (la République),Americas,Dominikanische Republik,Dominican Republic,République dominicaine,Repubblica Dominicana,56.0,72.0,Latin America & Caribbean,Caribbean,214.0,الجمهورية الدومينيكية,Dominican Republic,República Dominicana,République dominicaine,Доминиканская Республика,多米尼加,🇩🇴
-ECU,EC,218.0,Ecuador,Équateur (l'),Americas,Ecuador,Ecuador,Équateur,Ecuador,58.0,73.0,Latin America & Caribbean,South America,218.0,إكوادور,Ecuador,Ecuador,Équateur,Эквадор,厄瓜多尔,🇪🇨
-EGY,EG,818.0,Egypt,Égypte (l'),Africa,Ägypten,Egypt,Égypte,Egitto,59.0,40765.0,Middle East & North Africa,Northern Africa,818.0,مصر,Egypt,Egipto,Égypte,Египет,埃及,🇪🇬
-SLV,SV,222.0,El Salvador,El Salvador,Americas,El Salvador,El Salvador,Salvador,El Salvador,60.0,75.0,Latin America & Caribbean,Central America,222.0,السلفادور,El Salvador,El Salvador,El Salvador,Сальвадор,萨尔瓦多,🇸🇻
-GNQ,GQ,226.0,Equatorial Guinea,Guinée équatoriale (la),Africa,Äquatorialguinea,Equatorial Guinea,Guinée équatoriale,Guinea Equatoriale,61.0,76.0,Sub-Saharan Africa,Middle Africa,226.0,غينيا الإستوائية,Equatorial Guinea,Guinea Ecuatorial,Guinée équatoriale,Экваториальная Гвинея,赤道几内亚,🇬🇶
-ERI,ER,232.0,Eritrea,Érythrée (l'),Africa,Eritrea,Eritrea,Érythrée,Eritrea,178.0,77.0,Sub-Saharan Africa,Eastern Africa,232.0,إريتريا,Eritrea,Eritrea,Érythrée,Эритрея,厄立特里亚,🇪🇷
-EST,EE,233.0,Estonia,Estonie (l'),Europe,Estland,Estonia,Estonie,Estonia,63.0,78.0,Europe & Central Asia,Northern Europe,233.0,إستونيا,Estonia,Estonia,Estonie,Эстония,爱沙尼亚,🇪🇪
-SWZ,SZ,748.0,Eswatini,Eswatini (l'),Africa,Swasiland,Eswatini,Eswatini,Swaziland,209.0,235.0,Sub-Saharan Africa,Southern Africa,748.0,إسواتيني,Eswatini,Eswatini,Eswatini,Эсватини,斯威士兰,🇸🇿
-ETH,ET,231.0,Ethiopia,Éthiopie (l'),Africa,Äthiopien,Ethiopia,Éthiopie,Etiopia,238.0,79.0,Sub-Saharan Africa,Eastern Africa,231.0,إثيوبيا,Ethiopia,Etiopía,Éthiopie,Эфиопия,埃塞俄比亚,🇪🇹
-FLK,FK,238.0,Falkland Islands (the) [Malvinas],Falkland (les Îles)/Malouines (les Îles),Americas,Falklandinseln (Malvinas),Falkland Islands,Îles Malouines,Isole Falkland,65.0,81.0,Latin America & Caribbean,South America,238.0,,,,,,,🇫🇰
-FRO,FO,234.0,Faroe Islands (the),Féroé (les Îles),Europe,Färöer Inseln,Faroe Islands,Îles Féroé,Isole Fær Øer,64.0,82.0,Europe & Central Asia,Northern Europe,234.0,,,,,,,🇫🇴
-FJI,FJ,242.0,Fiji,Fidji (les),Oceania,Fidschi,Fiji,Fidji,Figi,66.0,83.0,East Asia & Pacific,Melanesia,242.0,فيجي,Fiji,Fiji,Fidji,Фиджи,斐济,🇫🇯
-FIN,FI,246.0,Finland,Finlande (la),Europe,Finnland,Finland,Finlande,Finlandia,67.0,84.0,Europe & Central Asia,Northern Europe,246.0,فنلندا,Finland,Finlandia,Finlande,Финляндия,芬兰,🇫🇮
-FRA,FR,250.0,France,France (la),Europe,Frankreich,France,France,Francia,68.0,85.0,Europe & Central Asia,Western Europe,250.0,فرنسا,France,Francia,France,Франция,法国,🇫🇷
-GUF,GF,254.0,French Guiana,Guyane française (la ),Americas,Französisch-Guayana,French Guiana,Guyane française,Guyana francese,69.0,86.0,Latin America & Caribbean,South America,254.0,,,,,,,🇬🇫
-PYF,PF,258.0,French Polynesia,Polynésie française (la),Oceania,Französisch Polynesien,French Polynesia,Polynésie française,Polinesia francese,70.0,87.0,East Asia & Pacific,Polynesia,258.0,,,,,,,🇵🇫
-ATF,TF,260.0,French Southern Territories (the),Terres australes françaises (les),,Französische Südgebiete,French Southern Territories,Terres australes françaises,Terre australi francesi,71.0,88.0,,,260.0,,,,,,,🇹🇫
-GAB,GA,266.0,Gabon,Gabon (le),Africa,Gabun,Gabon,Gabon,Gabon,74.0,89.0,Sub-Saharan Africa,Middle Africa,266.0,غابون,Gabon,Gabón,Gabon,Габон,加蓬,🇬🇦
-GMB,GM,270.0,Gambia (the),Gambie (la),Africa,Gambia,Gambia,Gambie,Gambia,75.0,90.0,Sub-Saharan Africa,Western Africa,270.0,غامبيا,Gambia,Gambia,Gambie,Гамбия,冈比亚,🇬🇲
-GEO,GE,268.0,Georgia,Géorgie (la),Asia,Georgien,Georgia,Géorgie,Georgia,73.0,92.0,Europe & Central Asia,Western Asia,268.0,جورجيا,Georgia,Georgia,Géorgie,Грузия,格鲁吉亚,🇬🇪
+CIV,CI,384,Côte d'Ivoire,Côte d'Ivoire (la),Africa,Elfenbeinküste,Côte d’Ivoire,Côte d’Ivoire,Costa d’Avorio,107,66,Sub-Saharan Africa,Western Africa,384,كوت ديفوار,Côte d’Ivoire,Côte d’Ivoire,Côte d’Ivoire,Кот-д’Ивуар,科特迪瓦,🇨🇮
+DNK,DK,208,Denmark,Danemark (le),Europe,Dänemark,Denmark,Danemark,Danimarca,54,69,Europe & Central Asia,Northern Europe,208,الدانمرك,Denmark,Dinamarca,Danemark,Дания,丹麦,🇩🇰
+DJI,DJ,262,Djibouti,Djibouti,Africa,Dschibuti,Djibouti,Djibouti,Gibuti,72,70,Middle East & North Africa,Eastern Africa,262,جيبوتي,Djibouti,Djibouti,Djibouti,Джибути,吉布提,🇩🇯
+DMA,DM,212,Dominica,Dominique (la),Americas,Dominica,Dominica,Dominique,Dominica,55,71,Latin America & Caribbean,Caribbean,212,دومينيكا,Dominica,Dominica,Dominique,Доминика,多米尼克,🇩🇲
+DOM,DO,214,Dominican Republic (the),dominicaine (la République),Americas,Dominikanische Republik,Dominican Republic,République dominicaine,Repubblica Dominicana,56,72,Latin America & Caribbean,Caribbean,214,الجمهورية الدومينيكية,Dominican Republic,República Dominicana,République dominicaine,Доминиканская Республика,多米尼加,🇩🇴
+ECU,EC,218,Ecuador,Équateur (l'),Americas,Ecuador,Ecuador,Équateur,Ecuador,58,73,Latin America & Caribbean,South America,218,إكوادور,Ecuador,Ecuador,Équateur,Эквадор,厄瓜多尔,🇪🇨
+EGY,EG,818,Egypt,Égypte (l'),Africa,Ägypten,Egypt,Égypte,Egitto,59,40765,Middle East & North Africa,Northern Africa,818,مصر,Egypt,Egipto,Égypte,Египет,埃及,🇪🇬
+SLV,SV,222,El Salvador,El Salvador,Americas,El Salvador,El Salvador,Salvador,El Salvador,60,75,Latin America & Caribbean,Central America,222,السلفادور,El Salvador,El Salvador,El Salvador,Сальвадор,萨尔瓦多,🇸🇻
+GNQ,GQ,226,Equatorial Guinea,Guinée équatoriale (la),Africa,Äquatorialguinea,Equatorial Guinea,Guinée équatoriale,Guinea Equatoriale,61,76,Sub-Saharan Africa,Middle Africa,226,غينيا الإستوائية,Equatorial Guinea,Guinea Ecuatorial,Guinée équatoriale,Экваториальная Гвинея,赤道几内亚,🇬🇶
+ERI,ER,232,Eritrea,Érythrée (l'),Africa,Eritrea,Eritrea,Érythrée,Eritrea,178,77,Sub-Saharan Africa,Eastern Africa,232,إريتريا,Eritrea,Eritrea,Érythrée,Эритрея,厄立特里亚,🇪🇷
+EST,EE,233,Estonia,Estonie (l'),Europe,Estland,Estonia,Estonie,Estonia,63,78,Europe & Central Asia,Northern Europe,233,إستونيا,Estonia,Estonia,Estonie,Эстония,爱沙尼亚,🇪🇪
+SWZ,SZ,748,Eswatini,Eswatini (l'),Africa,Swasiland,Eswatini,Eswatini,Swaziland,209,235,Sub-Saharan Africa,Southern Africa,748,إسواتيني,Eswatini,Eswatini,Eswatini,Эсватини,斯威士兰,🇸🇿
+ETH,ET,231,Ethiopia,Éthiopie (l'),Africa,Äthiopien,Ethiopia,Éthiopie,Etiopia,238,79,Sub-Saharan Africa,Eastern Africa,231,إثيوبيا,Ethiopia,Etiopía,Éthiopie,Эфиопия,埃塞俄比亚,🇪🇹
+FLK,FK,238,Falkland Islands (the) [Malvinas],Falkland (les Îles)/Malouines (les Îles),Americas,Falklandinseln (Malvinas),Falkland Islands,Îles Malouines,Isole Falkland,65,81,Latin America & Caribbean,South America,238,,,,,,,🇫🇰
+FRO,FO,234,Faroe Islands (the),Féroé (les Îles),Europe,Färöer Inseln,Faroe Islands,Îles Féroé,Isole Fær Øer,64,82,Europe & Central Asia,Northern Europe,234,,,,,,,🇫🇴
+FJI,FJ,242,Fiji,Fidji (les),Oceania,Fidschi,Fiji,Fidji,Figi,66,83,East Asia & Pacific,Melanesia,242,فيجي,Fiji,Fiji,Fidji,Фиджи,斐济,🇫🇯
+FIN,FI,246,Finland,Finlande (la),Europe,Finnland,Finland,Finlande,Finlandia,67,84,Europe & Central Asia,Northern Europe,246,فنلندا,Finland,Finlandia,Finlande,Финляндия,芬兰,🇫🇮
+FRA,FR,250,France,France (la),Europe,Frankreich,France,France,Francia,68,85,Europe & Central Asia,Western Europe,250,فرنسا,France,Francia,France,Франция,法国,🇫🇷
+GUF,GF,254,French Guiana,Guyane française (la ),Americas,Französisch-Guayana,French Guiana,Guyane française,Guyana francese,69,86,Latin America & Caribbean,South America,254,,,,,,,🇬🇫
+PYF,PF,258,French Polynesia,Polynésie française (la),Oceania,Französisch Polynesien,French Polynesia,Polynésie française,Polinesia francese,70,87,East Asia & Pacific,Polynesia,258,,,,,,,🇵🇫
+ATF,TF,260,French Southern Territories (the),Terres australes françaises (les),,Französische Südgebiete,French Southern Territories,Terres australes françaises,Terre australi francesi,71,88,,,260,,,,,,,🇹🇫
+GAB,GA,266,Gabon,Gabon (le),Africa,Gabun,Gabon,Gabon,Gabon,74,89,Sub-Saharan Africa,Middle Africa,266,غابون,Gabon,Gabón,Gabon,Габон,加蓬,🇬🇦
+GMB,GM,270,Gambia (the),Gambie (la),Africa,Gambia,Gambia,Gambie,Gambia,75,90,Sub-Saharan Africa,Western Africa,270,غامبيا,Gambia,Gambia,Gambie,Гамбия,冈比亚,🇬🇲
+GEO,GE,268,Georgia,Géorgie (la),Asia,Georgien,Georgia,Géorgie,Georgia,73,92,Europe & Central Asia,Western Asia,268,جورجيا,Georgia,Georgia,Géorgie,Грузия,格鲁吉亚,🇬🇪
 ,,,,,,Deutsche Demokratische Republik,German Democratic Republic,,,,,Europe & Central Asia,,,,,,,,,
-DEU,DE,276.0,Germany,Allemagne (l'),Europe,Deutschland,Germany,Allemagne,Germania,79.0,93.0,Europe & Central Asia,Western Europe,276.0,ألمانيا,Germany,Alemania,Allemagne,Германия,德国,🇩🇪
-GHA,GH,288.0,Ghana,Ghana (le),Africa,Ghana,Ghana,Ghana,Ghana,81.0,94.0,Sub-Saharan Africa,Western Africa,288.0,غانا,Ghana,Ghana,Ghana,Гана,加纳,🇬🇭
-GIB,GI,292.0,Gibraltar,Gibraltar,Europe,Gibraltar,Gibraltar,Gibraltar,Gibilterra,82.0,95.0,Europe & Central Asia,Southern Europe,292.0,,,,,,,🇬🇮
-GRC,GR,300.0,Greece,Grèce (la),Europe,Griechenland,Greece,Grèce,Grecia,84.0,97.0,Europe & Central Asia,Southern Europe,300.0,اليونان,Greece,Grecia,Grèce,Греция,希腊,🇬🇷
-GRL,GL,304.0,Greenland,Groenland (le),Americas,Grönland,Greenland,Groenland,Groenlandia,85.0,98.0,Europe & Central Asia,Northern America,304.0,,,,,,,🇬🇱
-GRD,GD,308.0,Grenada,Grenade (la),Americas,Grenada,Grenada,Grenade,Grenada,86.0,99.0,Latin America & Caribbean,Caribbean,308.0,غرينادا,Grenada,Granada,Grenade,Гренада,格林纳达,🇬🇩
-GLP,GP,312.0,Guadeloupe,Guadeloupe (la),Americas,Guadeloupe,Guadeloupe,Guadeloupe,Guadalupa,87.0,100.0,Latin America & Caribbean,Caribbean,312.0,,,,,,,🇬🇵
-GUM,GU,316.0,Guam,Guam,Oceania,Guam,Guam,Guam,Guam,88.0,101.0,East Asia & Pacific,Micronesia,316.0,,,,,,,🇬🇺
-GTM,GT,320.0,Guatemala,Guatemala (le),Americas,Guatemala,Guatemala,Guatemala,Guatemala,89.0,103.0,Latin America & Caribbean,Central America,320.0,غواتيمالا,Guatemala,Guatemala,Guatemala,Гватемала,危地马拉,🇬🇹
-GGY,GG,831.0,Guernsey,Guernesey,Europe,Guernsey,Guernsey,Guernesey,Guernsey,,104.0,Europe & Central Asia,Northern Europe,831.0,,,,,,,🇬🇬
-GIN,GN,324.0,Guinea,Guinée (la),Africa,Guinea,Guinea,Guinée,Guinea,90.0,106.0,Sub-Saharan Africa,Western Africa,324.0,غينيا,Guinea,Guinea,Guinée,Гвинея,几内亚,🇬🇳
-GNB,GW,624.0,Guinea-Bissau,Guinée-Bissau (la),Africa,Guinea-Bissau,Guinea-Bissau,Guinée-Bissau,Guinea-Bissau,175.0,105.0,Sub-Saharan Africa,Western Africa,624.0,غينيا-بيساو,Guinea-Bissau,Guinea-Bissau,Guinée-Bissau,Гвинея-Бисау,几内亚比绍,🇬🇼
-GUY,GY,328.0,Guyana,Guyana (le),Americas,Guyana,Guyana,Guyana,Guyana,91.0,107.0,Latin America & Caribbean,South America,328.0,غيانا,Guyana,Guyana,Guyana,Гайана,圭亚那,🇬🇾
-HTI,HT,332.0,Haiti,Haïti,Americas,Haiti,Haiti,Haïti,Haiti,93.0,108.0,Latin America & Caribbean,Caribbean,332.0,هايتي,Haiti,Haití,Haïti,Гаити,海地,🇭🇹
+DEU,DE,276,Germany,Allemagne (l'),Europe,Deutschland,Germany,Allemagne,Germania,79,93,Europe & Central Asia,Western Europe,276,ألمانيا,Germany,Alemania,Allemagne,Германия,德国,🇩🇪
+GHA,GH,288,Ghana,Ghana (le),Africa,Ghana,Ghana,Ghana,Ghana,81,94,Sub-Saharan Africa,Western Africa,288,غانا,Ghana,Ghana,Ghana,Гана,加纳,🇬🇭
+GIB,GI,292,Gibraltar,Gibraltar,Europe,Gibraltar,Gibraltar,Gibraltar,Gibilterra,82,95,Europe & Central Asia,Southern Europe,292,,,,,,,🇬🇮
+GRC,GR,300,Greece,Grèce (la),Europe,Griechenland,Greece,Grèce,Grecia,84,97,Europe & Central Asia,Southern Europe,300,اليونان,Greece,Grecia,Grèce,Греция,希腊,🇬🇷
+GRL,GL,304,Greenland,Groenland (le),Americas,Grönland,Greenland,Groenland,Groenlandia,85,98,Europe & Central Asia,Northern America,304,,,,,,,🇬🇱
+GRD,GD,308,Grenada,Grenade (la),Americas,Grenada,Grenada,Grenade,Grenada,86,99,Latin America & Caribbean,Caribbean,308,غرينادا,Grenada,Granada,Grenade,Гренада,格林纳达,🇬🇩
+GLP,GP,312,Guadeloupe,Guadeloupe (la),Americas,Guadeloupe,Guadeloupe,Guadeloupe,Guadalupa,87,100,Latin America & Caribbean,Caribbean,312,,,,,,,🇬🇵
+GUM,GU,316,Guam,Guam,Oceania,Guam,Guam,Guam,Guam,88,101,East Asia & Pacific,Micronesia,316,,,,,,,🇬🇺
+GTM,GT,320,Guatemala,Guatemala (le),Americas,Guatemala,Guatemala,Guatemala,Guatemala,89,103,Latin America & Caribbean,Central America,320,غواتيمالا,Guatemala,Guatemala,Guatemala,Гватемала,危地马拉,🇬🇹
+GGY,GG,831,Guernsey,Guernesey,Europe,Guernsey,Guernsey,Guernesey,Guernsey,,104,Europe & Central Asia,Northern Europe,831,,,,,,,🇬🇬
+GIN,GN,324,Guinea,Guinée (la),Africa,Guinea,Guinea,Guinée,Guinea,90,106,Sub-Saharan Africa,Western Africa,324,غينيا,Guinea,Guinea,Guinée,Гвинея,几内亚,🇬🇳
+GNB,GW,624,Guinea-Bissau,Guinée-Bissau (la),Africa,Guinea-Bissau,Guinea-Bissau,Guinée-Bissau,Guinea-Bissau,175,105,Sub-Saharan Africa,Western Africa,624,غينيا-بيساو,Guinea-Bissau,Guinea-Bissau,Guinée-Bissau,Гвинея-Бисау,几内亚比绍,🇬🇼
+GUY,GY,328,Guyana,Guyana (le),Americas,Guyana,Guyana,Guyana,Guyana,91,107,Latin America & Caribbean,South America,328,غيانا,Guyana,Guyana,Guyana,Гайана,圭亚那,🇬🇾
+HTI,HT,332,Haiti,Haïti,Americas,Haiti,Haiti,Haïti,Haiti,93,108,Latin America & Caribbean,Caribbean,332,هايتي,Haiti,Haití,Haïti,Гаити,海地,🇭🇹
 ,,,,,,Hamburg,Hamburg,,,,,Europe & Central Asia,,,,,,,,,
 ,,,,,,Hannover,Hanover,,,,,Europe & Central Asia,,,,,,,,,
-HMD,HM,334.0,Heard Island and McDonald Islands,Heard-et-Îles MacDonald (l'Île),,Heard und McDonaldinseln,Heard & McDonald Islands,Îles Heard et McDonald,Isole Heard e McDonald,,109.0,East Asia & Pacific,,334.0,,,,,,,🇭🇲
+HMD,HM,334,Heard Island and McDonald Islands,Heard-et-Îles MacDonald (l'Île),,Heard und McDonaldinseln,Heard & McDonald Islands,Îles Heard et McDonald,Isole Heard e McDonald,,109,East Asia & Pacific,,334,,,,,,,🇭🇲
 ,,,,,,Kurfürstentum Hessen,Hesse Electoral,,,,,Europe & Central Asia,,,,,,,,,
 ,,,,,,Großherzogtum Hessen,Hesse Grand Ducal,,,,,Europe & Central Asia,,,,,,,,,
 ,,,,,,Hessen-Darmstadt,Hesse-Darmstadt,,,,,Europe & Central Asia,,,,,,,,,
 ,,,,,,Hessen-Kassel,Hesse-Kassel,,,,,Europe & Central Asia,,,,,,,,,
-HND,HN,340.0,Honduras,Honduras (le),Americas,Honduras,Honduras,Honduras,Honduras,95.0,111.0,Latin America & Caribbean,Central America,340.0,هندوراس,Honduras,Honduras,Honduras,Гондурас,洪都拉斯,🇭🇳
-HKG,HK,344.0,Hong Kong,Hong Kong,Asia,Hongkong,Hong Kong SAR China,R.A.S. chinoise de Hong Kong,RAS di Hong Kong,96.0,33364.0,East Asia & Pacific,Eastern Asia,344.0,,,,,,,🇭🇰
-HUN,HU,348.0,Hungary,Hongrie (la),Europe,Ungarn,Hungary,Hongrie,Ungheria,97.0,113.0,Europe & Central Asia,Eastern Europe,348.0,هنغاريا,Hungary,Hungría,Hongrie,Венгрия,匈牙利,🇭🇺
-ISL,IS,352.0,Iceland,Islande (l'),Europe,Island,Iceland,Islande,Islanda,99.0,114.0,Europe & Central Asia,Northern Europe,352.0,آيسلندا,Iceland,Islandia,Islande,Исландия,冰岛,🇮🇸
-IND,IN,356.0,India,Inde (l'),Asia,Indien,India,Inde,India,100.0,115.0,South Asia,Southern Asia,356.0,الهند,India,India,Inde,Индия,印度,🇮🇳
-IDN,ID,360.0,Indonesia,Indonésie (l'),Asia,Indonesien,Indonesia,Indonésie,Indonesia,101.0,116.0,East Asia & Pacific,South-Eastern Asia,360.0,إندونيسيا,Indonesia,Indonesia,Indonésie,Индонезия,印度尼西亚,🇮🇩
-IRN,IR,364.0,Iran (Islamic Republic of),Iran (République Islamique d'),Asia,Iran,Iran,Iran,Iran,102.0,117.0,Middle East & North Africa,Southern Asia,364.0,إيران (جمهورية - إسلامية),Iran (Islamic Republic of),Irán (República Islámica del),Iran (République islamique d’),Иран (Исламская Республика),伊朗（伊斯兰共和国）,🇮🇷
-IRQ,IQ,368.0,Iraq,Iraq (l'),Asia,Irak,Iraq,Irak,Iraq,103.0,118.0,Middle East & North Africa,Western Asia,368.0,العراق,Iraq,Iraq,Iraq,Ирак,伊拉克,🇮🇶
-IRL,IE,372.0,Ireland,Irlande (l'),Europe,Irland,Ireland,Irlande,Irlanda,104.0,119.0,Europe & Central Asia,Northern Europe,372.0,أيرلندا,Ireland,Irlanda,Irlande,Ирландия,爱尔兰,🇮🇪
-IMN,IM,833.0,Isle of Man,Île de Man,Europe,Isle of Man,Isle of Man,Île de Man,Isola di Man,264.0,120.0,Europe & Central Asia,Northern Europe,833.0,,,,,,,🇮🇲
-ISR,IL,376.0,Israel,Israël,Asia,Israel,Israel,Israël,Israele,105.0,121.0,Middle East & North Africa,Western Asia,376.0,إسرائيل,Israel,Israel,Israël,Израиль,以色列,🇮🇱
-ITA,IT,380.0,Italy,Italie (l'),Europe,Italien,Italy,Italie,Italia,106.0,122.0,Europe & Central Asia,Southern Europe,380.0,إيطاليا,Italy,Italia,Italie,Италия,意大利,🇮🇹
-JAM,JM,388.0,Jamaica,Jamaïque (la),Americas,Jamaika,Jamaica,Jamaïque,Giamaica,109.0,123.0,Latin America & Caribbean,Caribbean,388.0,جامايكا,Jamaica,Jamaica,Jamaïque,Ямайка,牙买加,🇯🇲
-JPN,JP,392.0,Japan,Japon (le),Asia,Japan,Japan,Japon,Giappone,110.0,126.0,East Asia & Pacific,Eastern Asia,392.0,اليابان,Japan,Japón,Japon,Япония,日本,🇯🇵
-JEY,JE,832.0,Jersey,Jersey,Europe,Jersey,Jersey,Jersey,Jersey,283.0,128.0,Europe & Central Asia,Northern Europe,832.0,,,,,,,🇯🇪
-JOR,JO,400.0,Jordan,Jordanie (la),Asia,Jordanien,Jordan,Jordanie,Giordania,112.0,130.0,Middle East & North Africa,Western Asia,400.0,الأردن,Jordan,Jordania,Jordanie,Иордания,约旦,🇯🇴
-KAZ,KZ,398.0,Kazakhstan,Kazakhstan (le),Asia,Kasachstan,Kazakhstan,Kazakhstan,Kazakistan,108.0,132.0,Europe & Central Asia,Central Asia,398.0,كازاخستان,Kazakhstan,Kazajstán,Kazakhstan,Казахстан,哈萨克斯坦,🇰🇿
-KEN,KE,404.0,Kenya,Kenya (le),Africa,Kenia,Kenya,Kenya,Kenya,114.0,133.0,Sub-Saharan Africa,Eastern Africa,404.0,كينيا,Kenya,Kenya,Kenya,Кения,肯尼亚,🇰🇪
-KIR,KI,296.0,Kiribati,Kiribati,Oceania,Kiribati,Kiribati,Kiribati,Kiribati,83.0,135.0,East Asia & Pacific,Micronesia,296.0,كيريباس,Kiribati,Kiribati,Kiribati,Кирибати,基里巴斯,🇰🇮
+HND,HN,340,Honduras,Honduras (le),Americas,Honduras,Honduras,Honduras,Honduras,95,111,Latin America & Caribbean,Central America,340,هندوراس,Honduras,Honduras,Honduras,Гондурас,洪都拉斯,🇭🇳
+HKG,HK,344,Hong Kong,Hong Kong,Asia,Hongkong,Hong Kong SAR China,R.A.S. chinoise de Hong Kong,RAS di Hong Kong,96,33364,East Asia & Pacific,Eastern Asia,344,,,,,,,🇭🇰
+HUN,HU,348,Hungary,Hongrie (la),Europe,Ungarn,Hungary,Hongrie,Ungheria,97,113,Europe & Central Asia,Eastern Europe,348,هنغاريا,Hungary,Hungría,Hongrie,Венгрия,匈牙利,🇭🇺
+ISL,IS,352,Iceland,Islande (l'),Europe,Island,Iceland,Islande,Islanda,99,114,Europe & Central Asia,Northern Europe,352,آيسلندا,Iceland,Islandia,Islande,Исландия,冰岛,🇮🇸
+IND,IN,356,India,Inde (l'),Asia,Indien,India,Inde,India,100,115,South Asia,Southern Asia,356,الهند,India,India,Inde,Индия,印度,🇮🇳
+IDN,ID,360,Indonesia,Indonésie (l'),Asia,Indonesien,Indonesia,Indonésie,Indonesia,101,116,East Asia & Pacific,South-Eastern Asia,360,إندونيسيا,Indonesia,Indonesia,Indonésie,Индонезия,印度尼西亚,🇮🇩
+IRN,IR,364,Iran (Islamic Republic of),Iran (République Islamique d'),Asia,Iran,Iran,Iran,Iran,102,117,Middle East & North Africa,Southern Asia,364,إيران (جمهورية - إسلامية),Iran (Islamic Republic of),Irán (República Islámica del),Iran (République islamique d’),Иран (Исламская Республика),伊朗（伊斯兰共和国）,🇮🇷
+IRQ,IQ,368,Iraq,Iraq (l'),Asia,Irak,Iraq,Irak,Iraq,103,118,Middle East & North Africa,Western Asia,368,العراق,Iraq,Iraq,Iraq,Ирак,伊拉克,🇮🇶
+IRL,IE,372,Ireland,Irlande (l'),Europe,Irland,Ireland,Irlande,Irlanda,104,119,Europe & Central Asia,Northern Europe,372,أيرلندا,Ireland,Irlanda,Irlande,Ирландия,爱尔兰,🇮🇪
+IMN,IM,833,Isle of Man,Île de Man,Europe,Isle of Man,Isle of Man,Île de Man,Isola di Man,264,120,Europe & Central Asia,Northern Europe,833,,,,,,,🇮🇲
+ISR,IL,376,Israel,Israël,Asia,Israel,Israel,Israël,Israele,105,121,Middle East & North Africa,Western Asia,376,إسرائيل,Israel,Israel,Israël,Израиль,以色列,🇮🇱
+ITA,IT,380,Italy,Italie (l'),Europe,Italien,Italy,Italie,Italia,106,122,Europe & Central Asia,Southern Europe,380,إيطاليا,Italy,Italia,Italie,Италия,意大利,🇮🇹
+JAM,JM,388,Jamaica,Jamaïque (la),Americas,Jamaika,Jamaica,Jamaïque,Giamaica,109,123,Latin America & Caribbean,Caribbean,388,جامايكا,Jamaica,Jamaica,Jamaïque,Ямайка,牙买加,🇯🇲
+JPN,JP,392,Japan,Japon (le),Asia,Japan,Japan,Japon,Giappone,110,126,East Asia & Pacific,Eastern Asia,392,اليابان,Japan,Japón,Japon,Япония,日本,🇯🇵
+JEY,JE,832,Jersey,Jersey,Europe,Jersey,Jersey,Jersey,Jersey,283,128,Europe & Central Asia,Northern Europe,832,,,,,,,🇯🇪
+JOR,JO,400,Jordan,Jordanie (la),Asia,Jordanien,Jordan,Jordanie,Giordania,112,130,Middle East & North Africa,Western Asia,400,الأردن,Jordan,Jordania,Jordanie,Иордания,约旦,🇯🇴
+KAZ,KZ,398,Kazakhstan,Kazakhstan (le),Asia,Kasachstan,Kazakhstan,Kazakhstan,Kazakistan,108,132,Europe & Central Asia,Central Asia,398,كازاخستان,Kazakhstan,Kazajstán,Kazakhstan,Казахстан,哈萨克斯坦,🇰🇿
+KEN,KE,404,Kenya,Kenya (le),Africa,Kenia,Kenya,Kenya,Kenya,114,133,Sub-Saharan Africa,Eastern Africa,404,كينيا,Kenya,Kenya,Kenya,Кения,肯尼亚,🇰🇪
+KIR,KI,296,Kiribati,Kiribati,Oceania,Kiribati,Kiribati,Kiribati,Kiribati,83,135,East Asia & Pacific,Micronesia,296,كيريباس,Kiribati,Kiribati,Kiribati,Кирибати,基里巴斯,🇰🇮
 ,,,,,,Kosovo,Kosovo,Kosovo,Kosovo,,,Europe & Central Asia,,,,,,,,,🇽🇰
-KWT,KW,414.0,Kuwait,Koweït (le),Asia,Kuwait,Kuwait,Koweït,Kuwait,118.0,137.0,Middle East & North Africa,Western Asia,414.0,الكويت,Kuwait,Kuwait,Koweït,Кувейт,科威特,🇰🇼
-KGZ,KG,417.0,Kyrgyzstan,Kirghizistan (le),Asia,Kirgisistan,Kyrgyzstan,Kirghizistan,Kirghizistan,113.0,138.0,Europe & Central Asia,Central Asia,417.0,قيرغيزستان,Kyrgyzstan,Kirguistán,Kirghizistan,Кыргызстан,吉尔吉斯斯坦,🇰🇬
-LAO,LA,418.0,Lao People's Democratic Republic (the),Lao (la République démocratique populaire),Asia,Demokratische Volksrepublik Laos,Laos,Laos,Laos,120.0,139.0,East Asia & Pacific,South-Eastern Asia,418.0,جمهورية لاو الديمقراطية الشعبية,Lao People’s Democratic Republic,República Democrática Popular Lao,République démocratique populaire lao,Лаосская Народно-Демократическая Республика,老挝人民民主共和国,🇱🇦
-LVA,LV,428.0,Latvia,Lettonie (la),Europe,Lettland,Latvia,Lettonie,Lettonia,119.0,140.0,Europe & Central Asia,Northern Europe,428.0,لاتفيا,Latvia,Letonia,Lettonie,Латвия,拉脱维亚,🇱🇻
-LBN,LB,422.0,Lebanon,Liban (le),Asia,Libanon,Lebanon,Liban,Libano,121.0,141.0,Middle East & North Africa,Western Asia,422.0,لبنان,Lebanon,Líbano,Liban,Ливан,黎巴嫩,🇱🇧
-LSO,LS,426.0,Lesotho,Lesotho (le),Africa,Lesotho,Lesotho,Lesotho,Lesotho,122.0,142.0,Sub-Saharan Africa,Southern Africa,426.0,ليسوتو,Lesotho,Lesotho,Lesotho,Лесото,莱索托,🇱🇸
-LBR,LR,430.0,Liberia,Libéria (le),Africa,Liberia,Liberia,Libéria,Liberia,123.0,144.0,Sub-Saharan Africa,Western Africa,430.0,ليبريا,Liberia,Liberia,Libéria,Либерия,利比里亚,🇱🇷
-LBY,LY,434.0,Libya,Libye (la),Africa,Libyen,Libya,Libye,Libia,124.0,145.0,Middle East & North Africa,Northern Africa,434.0,ليبيا,Libya,Libia,Libye,Ливия,利比亚,🇱🇾
-LIE,LI,438.0,Liechtenstein,Liechtenstein (le),Europe,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,125.0,146.0,Europe & Central Asia,Western Europe,438.0,ليختنشتاين,Liechtenstein,Liechtenstein,Liechtenstein,Лихтенштейн,列支敦士登,🇱🇮
-LTU,LT,440.0,Lithuania,Lituanie (la),Europe,Litauen,Lithuania,Lituanie,Lituania,126.0,147.0,Europe & Central Asia,Northern Europe,440.0,ليتوانيا,Lithuania,Lituania,Lituanie,Литва,立陶宛,🇱🇹
-LUX,LU,442.0,Luxembourg,Luxembourg (le),Europe,Luxemburg,Luxembourg,Luxembourg,Lussemburgo,256.0,148.0,Europe & Central Asia,Western Europe,442.0,لكسمبرغ,Luxembourg,Luxemburgo,Luxembourg,Люксембург,卢森堡,🇱🇺
-MAC,MO,446.0,Macao,Macao,Asia,Macao,Macao SAR China,R.A.S. chinoise de Macao,RAS di Macao,128.0,149.0,East Asia & Pacific,Eastern Asia,446.0,,,,,,,🇲🇴
-MDG,MG,450.0,Madagascar,Madagascar,Africa,Madagaskar,Madagascar,Madagascar,Madagascar,129.0,150.0,Sub-Saharan Africa,Eastern Africa,450.0,مدغشقر,Madagascar,Madagascar,Madagascar,Мадагаскар,马达加斯加,🇲🇬
-MWI,MW,454.0,Malawi,Malawi (le),Africa,Malawi,Malawi,Malawi,Malawi,130.0,152.0,Sub-Saharan Africa,Eastern Africa,454.0,ملاوي,Malawi,Malawi,Malawi,Малави,马拉维,🇲🇼
-MYS,MY,458.0,Malaysia,Malaisie (la),Asia,Malaysia,Malaysia,Malaisie,Malaysia,131.0,153.0,East Asia & Pacific,South-Eastern Asia,458.0,ماليزيا,Malaysia,Malasia,Malaisie,Малайзия,马来西亚,🇲🇾
-MDV,MV,462.0,Maldives,Maldives (les),Asia,Malediven,Maldives,Maldives,Maldive,132.0,154.0,South Asia,Southern Asia,462.0,ملديف,Maldives,Maldivas,Maldives,Мальдивские Острова,马尔代夫,🇲🇻
-MLI,ML,466.0,Mali,Mali (le),Africa,Mali,Mali,Mali,Mali,133.0,155.0,Sub-Saharan Africa,Western Africa,466.0,مالي,Mali,Malí,Mali,Мали,马里,🇲🇱
-MLT,MT,470.0,Malta,Malte,Europe,Malta,Malta,Malte,Malta,134.0,156.0,Middle East & North Africa,Southern Europe,470.0,مالطة,Malta,Malta,Malte,Мальта,马耳他,🇲🇹
-MHL,MH,584.0,Marshall Islands (the),Marshall (les Îles),Oceania,Marshallinseln,Marshall Islands,Îles Marshall,Isole Marshall,127.0,157.0,East Asia & Pacific,Micronesia,584.0,جزر مارشال,Marshall Islands,Islas Marshall,Îles Marshall,Маршалловы Острова,马绍尔群岛,🇲🇭
-MTQ,MQ,474.0,Martinique,Martinique (la),Americas,Martinique,Martinique,Martinique,Martinica,135.0,158.0,Latin America & Caribbean,Caribbean,474.0,,,,,,,🇲🇶
-MRT,MR,478.0,Mauritania,Mauritanie (la),Africa,Mauretanien,Mauritania,Mauritanie,Mauritania,136.0,159.0,Sub-Saharan Africa,Western Africa,478.0,موريتانيا,Mauritania,Mauritania,Mauritanie,Мавритания,毛里塔尼亚,🇲🇷
-MUS,MU,480.0,Mauritius,Maurice,Africa,Mauritius,Mauritius,Maurice,Mauritius,137.0,160.0,Sub-Saharan Africa,Eastern Africa,480.0,موريشيوس,Mauritius,Mauricio,Maurice,Маврикий,毛里求斯,🇲🇺
-MYT,YT,175.0,Mayotte,Mayotte,Africa,Mayotte,Mayotte,Mayotte,Mayotte,270.0,161.0,,Eastern Africa,175.0,,,,,,,🇾🇹
+KWT,KW,414,Kuwait,Koweït (le),Asia,Kuwait,Kuwait,Koweït,Kuwait,118,137,Middle East & North Africa,Western Asia,414,الكويت,Kuwait,Kuwait,Koweït,Кувейт,科威特,🇰🇼
+KGZ,KG,417,Kyrgyzstan,Kirghizistan (le),Asia,Kirgisistan,Kyrgyzstan,Kirghizistan,Kirghizistan,113,138,Europe & Central Asia,Central Asia,417,قيرغيزستان,Kyrgyzstan,Kirguistán,Kirghizistan,Кыргызстан,吉尔吉斯斯坦,🇰🇬
+LAO,LA,418,Lao People's Democratic Republic (the),Lao (la République démocratique populaire),Asia,Demokratische Volksrepublik Laos,Laos,Laos,Laos,120,139,East Asia & Pacific,South-Eastern Asia,418,جمهورية لاو الديمقراطية الشعبية,Lao People’s Democratic Republic,República Democrática Popular Lao,République démocratique populaire lao,Лаосская Народно-Демократическая Республика,老挝人民民主共和国,🇱🇦
+LVA,LV,428,Latvia,Lettonie (la),Europe,Lettland,Latvia,Lettonie,Lettonia,119,140,Europe & Central Asia,Northern Europe,428,لاتفيا,Latvia,Letonia,Lettonie,Латвия,拉脱维亚,🇱🇻
+LBN,LB,422,Lebanon,Liban (le),Asia,Libanon,Lebanon,Liban,Libano,121,141,Middle East & North Africa,Western Asia,422,لبنان,Lebanon,Líbano,Liban,Ливан,黎巴嫩,🇱🇧
+LSO,LS,426,Lesotho,Lesotho (le),Africa,Lesotho,Lesotho,Lesotho,Lesotho,122,142,Sub-Saharan Africa,Southern Africa,426,ليسوتو,Lesotho,Lesotho,Lesotho,Лесото,莱索托,🇱🇸
+LBR,LR,430,Liberia,Libéria (le),Africa,Liberia,Liberia,Libéria,Liberia,123,144,Sub-Saharan Africa,Western Africa,430,ليبريا,Liberia,Liberia,Libéria,Либерия,利比里亚,🇱🇷
+LBY,LY,434,Libya,Libye (la),Africa,Libyen,Libya,Libye,Libia,124,145,Middle East & North Africa,Northern Africa,434,ليبيا,Libya,Libia,Libye,Ливия,利比亚,🇱🇾
+LIE,LI,438,Liechtenstein,Liechtenstein (le),Europe,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,125,146,Europe & Central Asia,Western Europe,438,ليختنشتاين,Liechtenstein,Liechtenstein,Liechtenstein,Лихтенштейн,列支敦士登,🇱🇮
+LTU,LT,440,Lithuania,Lituanie (la),Europe,Litauen,Lithuania,Lituanie,Lituania,126,147,Europe & Central Asia,Northern Europe,440,ليتوانيا,Lithuania,Lituania,Lituanie,Литва,立陶宛,🇱🇹
+LUX,LU,442,Luxembourg,Luxembourg (le),Europe,Luxemburg,Luxembourg,Luxembourg,Lussemburgo,256,148,Europe & Central Asia,Western Europe,442,لكسمبرغ,Luxembourg,Luxemburgo,Luxembourg,Люксембург,卢森堡,🇱🇺
+MAC,MO,446,Macao,Macao,Asia,Macao,Macao SAR China,R.A.S. chinoise de Macao,RAS di Macao,128,149,East Asia & Pacific,Eastern Asia,446,,,,,,,🇲🇴
+MDG,MG,450,Madagascar,Madagascar,Africa,Madagaskar,Madagascar,Madagascar,Madagascar,129,150,Sub-Saharan Africa,Eastern Africa,450,مدغشقر,Madagascar,Madagascar,Madagascar,Мадагаскар,马达加斯加,🇲🇬
+MWI,MW,454,Malawi,Malawi (le),Africa,Malawi,Malawi,Malawi,Malawi,130,152,Sub-Saharan Africa,Eastern Africa,454,ملاوي,Malawi,Malawi,Malawi,Малави,马拉维,🇲🇼
+MYS,MY,458,Malaysia,Malaisie (la),Asia,Malaysia,Malaysia,Malaisie,Malaysia,131,153,East Asia & Pacific,South-Eastern Asia,458,ماليزيا,Malaysia,Malasia,Malaisie,Малайзия,马来西亚,🇲🇾
+MDV,MV,462,Maldives,Maldives (les),Asia,Malediven,Maldives,Maldives,Maldive,132,154,South Asia,Southern Asia,462,ملديف,Maldives,Maldivas,Maldives,Мальдивские Острова,马尔代夫,🇲🇻
+MLI,ML,466,Mali,Mali (le),Africa,Mali,Mali,Mali,Mali,133,155,Sub-Saharan Africa,Western Africa,466,مالي,Mali,Malí,Mali,Мали,马里,🇲🇱
+MLT,MT,470,Malta,Malte,Europe,Malta,Malta,Malte,Malta,134,156,Middle East & North Africa,Southern Europe,470,مالطة,Malta,Malta,Malte,Мальта,马耳他,🇲🇹
+MHL,MH,584,Marshall Islands (the),Marshall (les Îles),Oceania,Marshallinseln,Marshall Islands,Îles Marshall,Isole Marshall,127,157,East Asia & Pacific,Micronesia,584,جزر مارشال,Marshall Islands,Islas Marshall,Îles Marshall,Маршалловы Острова,马绍尔群岛,🇲🇭
+MTQ,MQ,474,Martinique,Martinique (la),Americas,Martinique,Martinique,Martinique,Martinica,135,158,Latin America & Caribbean,Caribbean,474,,,,,,,🇲🇶
+MRT,MR,478,Mauritania,Mauritanie (la),Africa,Mauretanien,Mauritania,Mauritanie,Mauritania,136,159,Sub-Saharan Africa,Western Africa,478,موريتانيا,Mauritania,Mauritania,Mauritanie,Мавритания,毛里塔尼亚,🇲🇷
+MUS,MU,480,Mauritius,Maurice,Africa,Mauritius,Mauritius,Maurice,Mauritius,137,160,Sub-Saharan Africa,Eastern Africa,480,موريشيوس,Mauritius,Mauricio,Maurice,Маврикий,毛里求斯,🇲🇺
+MYT,YT,175,Mayotte,Mayotte,Africa,Mayotte,Mayotte,Mayotte,Mayotte,270,161,,Eastern Africa,175,,,,,,,🇾🇹
 ,,,,,,Mecklenburg-Schwerin,Mecklenburg Schwerin,,,,,Europe & Central Asia,,,,,,,,,
-MEX,MX,484.0,Mexico,Mexique (le),Americas,Mexiko,Mexico,Mexique,Messico,138.0,162.0,Latin America & Caribbean,Central America,484.0,المكسيك,Mexico,México,Mexique,Мексика,墨西哥,🇲🇽
-FSM,FM,583.0,Micronesia (Federated States of),Micronésie (États fédérés de),Oceania,Mikronesien,Micronesia (Federated States of),Micronésie (États fédérés de),,145.0,163.0,East Asia & Pacific,Micronesia,583.0,ميكرونيزيا (ولايات ــ الموحدة),Micronesia (Federated States of),Micronesia (Estados Federados de),Micronésie (États fédérés de),Микронезия (Федеративные Штаты),密克罗尼西亚 (联邦),🇫🇲
+MEX,MX,484,Mexico,Mexique (le),Americas,Mexiko,Mexico,Mexique,Messico,138,162,Latin America & Caribbean,Central America,484,المكسيك,Mexico,México,Mexique,Мексика,墨西哥,🇲🇽
+FSM,FM,583,Micronesia (Federated States of),Micronésie (États fédérés de),Oceania,Mikronesien,Micronesia (Federated States of),Micronésie (États fédérés de),,145,163,East Asia & Pacific,Micronesia,583,ميكرونيزيا (ولايات ــ الموحدة),Micronesia (Federated States of),Micronesia (Estados Federados de),Micronésie (États fédérés de),Микронезия (Федеративные Штаты),密克罗尼西亚 (联邦),🇫🇲
 ,,,,,,Modena,Modena,,,,,Europe & Central Asia,,,,,,,,,
-MDA,MD,498.0,Moldova (the Republic of),Moldova (la République de),Europe,Republik Moldau,Moldova,Moldavie,Moldavia,146.0,165.0,Europe & Central Asia,Eastern Europe,498.0,جمهورية مولدوفا,Republic of Moldova,República de Moldova,République de Moldova,Республика Молдова,摩尔多瓦共和国,🇲🇩
-MCO,MC,492.0,Monaco,Monaco,Europe,Monaco,Monaco,Monaco,Monaco,140.0,166.0,Europe & Central Asia,Western Europe,492.0,موناكو,Monaco,Mónaco,Monaco,Монако,摩纳哥,🇲🇨
-MNG,MN,496.0,Mongolia,Mongolie (la),Asia,Mongolei,Mongolia,Mongolie,Mongolia,141.0,167.0,East Asia & Pacific,Eastern Asia,496.0,منغوليا,Mongolia,Mongolia,Mongolie,Монголия,蒙古,🇲🇳
-MNE,ME,499.0,Montenegro,Monténégro (le),Europe,Montenegro,Montenegro,Monténégro,Montenegro,273.0,2647.0,Europe & Central Asia,Southern Europe,499.0,الجبل الأسود,Montenegro,Montenegro,Monténégro,Черногория,黑山,🇲🇪
-MSR,MS,500.0,Montserrat,Montserrat,Americas,Montserrat,Montserrat,Montserrat,Montserrat,142.0,168.0,Latin America & Caribbean,Caribbean,500.0,,,,,,,🇲🇸
-MAR,MA,504.0,Morocco,Maroc (le),Africa,Marokko,Morocco,Maroc,Marocco,143.0,169.0,Middle East & North Africa,Northern Africa,504.0,المغرب,Morocco,Marruecos,Maroc,Марокко,摩洛哥,🇲🇦
-MOZ,MZ,508.0,Mozambique,Mozambique (le),Africa,Mosambik,Mozambique,Mozambique,Mozambico,144.0,170.0,Sub-Saharan Africa,Eastern Africa,508.0,موزامبيق,Mozambique,Mozambique,Mozambique,Мозамбик,莫桑比克,🇲🇿
-MMR,MM,104.0,Myanmar,Myanmar (le),Asia,Myanmar,Myanmar (Burma),Myanmar (Birmanie),Myanmar (Birmania),28.0,171.0,East Asia & Pacific,South-Eastern Asia,104.0,ميانمار,Myanmar,Myanmar,Myanmar,Мьянма,缅甸,🇲🇲
-NAM,,516.0,Namibia,Namibie (la),Africa,Namibia,Namibia,Namibie,Namibia,147.0,172.0,Sub-Saharan Africa,Southern Africa,516.0,ناميبيا,Namibia,Namibia,Namibie,Намибия,纳米比亚,🇳🇦
+MDA,MD,498,Moldova (the Republic of),Moldova (la République de),Europe,Republik Moldau,Moldova,Moldavie,Moldavia,146,165,Europe & Central Asia,Eastern Europe,498,جمهورية مولدوفا,Republic of Moldova,República de Moldova,République de Moldova,Республика Молдова,摩尔多瓦共和国,🇲🇩
+MCO,MC,492,Monaco,Monaco,Europe,Monaco,Monaco,Monaco,Monaco,140,166,Europe & Central Asia,Western Europe,492,موناكو,Monaco,Mónaco,Monaco,Монако,摩纳哥,🇲🇨
+MNG,MN,496,Mongolia,Mongolie (la),Asia,Mongolei,Mongolia,Mongolie,Mongolia,141,167,East Asia & Pacific,Eastern Asia,496,منغوليا,Mongolia,Mongolia,Mongolie,Монголия,蒙古,🇲🇳
+MNE,ME,499,Montenegro,Monténégro (le),Europe,Montenegro,Montenegro,Monténégro,Montenegro,273,2647,Europe & Central Asia,Southern Europe,499,الجبل الأسود,Montenegro,Montenegro,Monténégro,Черногория,黑山,🇲🇪
+MSR,MS,500,Montserrat,Montserrat,Americas,Montserrat,Montserrat,Montserrat,Montserrat,142,168,Latin America & Caribbean,Caribbean,500,,,,,,,🇲🇸
+MAR,MA,504,Morocco,Maroc (le),Africa,Marokko,Morocco,Maroc,Marocco,143,169,Middle East & North Africa,Northern Africa,504,المغرب,Morocco,Marruecos,Maroc,Марокко,摩洛哥,🇲🇦
+MOZ,MZ,508,Mozambique,Mozambique (le),Africa,Mosambik,Mozambique,Mozambique,Mozambico,144,170,Sub-Saharan Africa,Eastern Africa,508,موزامبيق,Mozambique,Mozambique,Mozambique,Мозамбик,莫桑比克,🇲🇿
+MMR,MM,104,Myanmar,Myanmar (le),Asia,Myanmar,Myanmar (Burma),Myanmar (Birmanie),Myanmar (Birmania),28,171,East Asia & Pacific,South-Eastern Asia,104,ميانمار,Myanmar,Myanmar,Myanmar,Мьянма,缅甸,🇲🇲
+NAM,NA,516,Namibia,Namibie (la),Africa,Namibia,Namibia,Namibie,Namibia,147,172,Sub-Saharan Africa,Southern Africa,516,ناميبيا,Namibia,Namibia,Namibie,Намибия,纳米比亚,🇳🇦
 ,,,,,,Nassau,Nassau,,,,,Latin America & Caribbean,,,,,,,,,
-NRU,NR,520.0,Nauru,Nauru,Oceania,Nauru,Nauru,Nauru,Nauru,148.0,173.0,East Asia & Pacific,Micronesia,520.0,ناورو,Nauru,Nauru,Nauru,Науру,瑙鲁,🇳🇷
-NPL,NP,524.0,Nepal,Népal (le),Asia,Nepal,Nepal,Népal,Nepal,149.0,175.0,South Asia,Southern Asia,524.0,نيبال,Nepal,Nepal,Népal,Непал,尼泊尔,🇳🇵
-NLD,NL,528.0,Netherlands (the),Pays-Bas (les),Europe,Niederlande,Netherlands,Pays-Bas,Paesi Bassi,150.0,177.0,Europe & Central Asia,Western Europe,528.0,هولندا,Netherlands,Países Bajos,Pays-Bas,Нидерланды,荷兰,🇳🇱
-,,,,,Americas,Niederländische Antillen,Netherlands Antilles,,,151.0,176.0,Latin America & Caribbean,Caribbean,,,,,,,,
-NCL,NC,540.0,New Caledonia,Nouvelle-Calédonie (la),Oceania,Neukaledonien,New Caledonia,Nouvelle-Calédonie,Nuova Caledonia,153.0,178.0,East Asia & Pacific,Melanesia,540.0,,,,,,,🇳🇨
-NZL,NZ,554.0,New Zealand,Nouvelle-Zélande (la),Oceania,Neuseeland,New Zealand,Nouvelle-Zélande,Nuova Zelanda,156.0,179.0,East Asia & Pacific,Australia and New Zealand,554.0,نيوزيلندا,New Zealand,Nueva Zelandia,Nouvelle-Zélande,Новая Зеландия,新西兰,🇳🇿
-NIC,NI,558.0,Nicaragua,Nicaragua (le),Americas,Nicaragua,Nicaragua,Nicaragua,Nicaragua,157.0,180.0,Latin America & Caribbean,Central America,558.0,نيكاراغوا,Nicaragua,Nicaragua,Nicaragua,Никарагуа,尼加拉瓜,🇳🇮
-NER,NE,562.0,Niger (the),Niger (le),Africa,Niger,Niger,Niger,Niger,158.0,181.0,Sub-Saharan Africa,Western Africa,562.0,النيجر,Niger,Níger,Niger,Нигер,尼日尔,🇳🇪
-NGA,NG,566.0,Nigeria,Nigéria (le),Africa,Nigeria,Nigeria,Nigéria,Nigeria,159.0,182.0,Sub-Saharan Africa,Western Africa,566.0,نيجيريا,Nigeria,Nigeria,Nigéria,Нигерия,尼日利亚,🇳🇬
-NIU,NU,570.0,Niue,Niue,Oceania,Niue,Niue,Niue,Niue,160.0,183.0,East Asia & Pacific,Polynesia,570.0,,,,,,,🇳🇺
-NFK,NF,574.0,Norfolk Island,Norfolk (l'Île),Oceania,Norfolk-Insel,Norfolk Island,Île Norfolk,Isola Norfolk,161.0,184.0,East Asia & Pacific,Australia and New Zealand,574.0,,,,,,,🇳🇫
-PRK,KP,408.0,Korea (the Democratic People's Republic of),Corée (la République populaire démocratique de),Asia,"Korea, Demokratische Volksrepublik",North Korea,Corée du Nord,Corea del Nord,116.0,67.0,East Asia & Pacific,Eastern Asia,408.0,جمهورية كوريا الشعبية الديمقراطية,Democratic People’s Republic of Korea,República Popular Democrática de Corea,République populaire démocratique de Corée,Корейская Народно-Демократическая Республика,朝鲜民主主义人民共和国,🇰🇵
-MKD,MK,807.0,North Macedonia,Macédoine du Nord (la),Europe,Nordmazedonien,North Macedonia,Macédoine du Nord,Macedonia del Nord,154.0,241.0,Europe & Central Asia,Southern Europe,807.0,مقدونيا الشمالية,North Macedonia,Macedonia del Norte,Macédoine du Nord,Северная Македония,北马其顿,🇲🇰
-MNP,MP,580.0,Northern Mariana Islands (the),Mariannes du Nord (les Îles),Oceania,Nördliche Marianen,Northern Mariana Islands,Îles Mariannes du Nord,Isole Marianne settentrionali,163.0,185.0,East Asia & Pacific,Micronesia,580.0,,,,,,,🇲🇵
-NOR,NO,578.0,Norway,Norvège (la),Europe,Norwegen,Norway,Norvège,Norvegia,162.0,186.0,Europe & Central Asia,Northern Europe,578.0,النرويج,Norway,Noruega,Norvège,Норвегия,挪威,🇳🇴
+NRU,NR,520,Nauru,Nauru,Oceania,Nauru,Nauru,Nauru,Nauru,148,173,East Asia & Pacific,Micronesia,520,ناورو,Nauru,Nauru,Nauru,Науру,瑙鲁,🇳🇷
+NPL,NP,524,Nepal,Népal (le),Asia,Nepal,Nepal,Népal,Nepal,149,175,South Asia,Southern Asia,524,نيبال,Nepal,Nepal,Népal,Непал,尼泊尔,🇳🇵
+NLD,NL,528,Netherlands (the),Pays-Bas (les),Europe,Niederlande,Netherlands,Pays-Bas,Paesi Bassi,150,177,Europe & Central Asia,Western Europe,528,هولندا,Netherlands,Países Bajos,Pays-Bas,Нидерланды,荷兰,🇳🇱
+,,,,,Americas,Niederländische Antillen,Netherlands Antilles,,,151,176,Latin America & Caribbean,Caribbean,,,,,,,,
+NCL,NC,540,New Caledonia,Nouvelle-Calédonie (la),Oceania,Neukaledonien,New Caledonia,Nouvelle-Calédonie,Nuova Caledonia,153,178,East Asia & Pacific,Melanesia,540,,,,,,,🇳🇨
+NZL,NZ,554,New Zealand,Nouvelle-Zélande (la),Oceania,Neuseeland,New Zealand,Nouvelle-Zélande,Nuova Zelanda,156,179,East Asia & Pacific,Australia and New Zealand,554,نيوزيلندا,New Zealand,Nueva Zelandia,Nouvelle-Zélande,Новая Зеландия,新西兰,🇳🇿
+NIC,NI,558,Nicaragua,Nicaragua (le),Americas,Nicaragua,Nicaragua,Nicaragua,Nicaragua,157,180,Latin America & Caribbean,Central America,558,نيكاراغوا,Nicaragua,Nicaragua,Nicaragua,Никарагуа,尼加拉瓜,🇳🇮
+NER,NE,562,Niger (the),Niger (le),Africa,Niger,Niger,Niger,Niger,158,181,Sub-Saharan Africa,Western Africa,562,النيجر,Niger,Níger,Niger,Нигер,尼日尔,🇳🇪
+NGA,NG,566,Nigeria,Nigéria (le),Africa,Nigeria,Nigeria,Nigéria,Nigeria,159,182,Sub-Saharan Africa,Western Africa,566,نيجيريا,Nigeria,Nigeria,Nigéria,Нигерия,尼日利亚,🇳🇬
+NIU,NU,570,Niue,Niue,Oceania,Niue,Niue,Niue,Niue,160,183,East Asia & Pacific,Polynesia,570,,,,,,,🇳🇺
+NFK,NF,574,Norfolk Island,Norfolk (l'Île),Oceania,Norfolk-Insel,Norfolk Island,Île Norfolk,Isola Norfolk,161,184,East Asia & Pacific,Australia and New Zealand,574,,,,,,,🇳🇫
+PRK,KP,408,Korea (the Democratic People's Republic of),Corée (la République populaire démocratique de),Asia,"Korea, Demokratische Volksrepublik",North Korea,Corée du Nord,Corea del Nord,116,67,East Asia & Pacific,Eastern Asia,408,جمهورية كوريا الشعبية الديمقراطية,Democratic People’s Republic of Korea,República Popular Democrática de Corea,République populaire démocratique de Corée,Корейская Народно-Демократическая Республика,朝鲜民主主义人民共和国,🇰🇵
+MKD,MK,807,North Macedonia,Macédoine du Nord (la),Europe,Nordmazedonien,North Macedonia,Macédoine du Nord,Macedonia del Nord,154,241,Europe & Central Asia,Southern Europe,807,مقدونيا الشمالية,North Macedonia,Macedonia del Norte,Macédoine du Nord,Северная Македония,北马其顿,🇲🇰
+MNP,MP,580,Northern Mariana Islands (the),Mariannes du Nord (les Îles),Oceania,Nördliche Marianen,Northern Mariana Islands,Îles Mariannes du Nord,Isole Marianne settentrionali,163,185,East Asia & Pacific,Micronesia,580,,,,,,,🇲🇵
+NOR,NO,578,Norway,Norvège (la),Europe,Norwegen,Norway,Norvège,Norvegia,162,186,Europe & Central Asia,Northern Europe,578,النرويج,Norway,Noruega,Norvège,Норвегия,挪威,🇳🇴
 ,,,,,,Oldenburg,Oldenburg,,,,,Europe & Central Asia,,,,,,,,,
-OMN,OM,512.0,Oman,Oman,Asia,Oman,Oman,Oman,Oman,221.0,187.0,Middle East & North Africa,Western Asia,512.0,عمان,Oman,Omán,Oman,Оман,阿曼,🇴🇲
+OMN,OM,512,Oman,Oman,Asia,Oman,Oman,Oman,Oman,221,187,Middle East & North Africa,Western Asia,512,عمان,Oman,Omán,Oman,Оман,阿曼,🇴🇲
 ,,,,,,Oranje-Freistaat,Orange Free State,,,,,,,,,,,,,,
-PAK,PK,586.0,Pakistan,Pakistan (le),Asia,Pakistan,Pakistan,Pakistan,Pakistan,165.0,188.0,South Asia,Southern Asia,586.0,باكستان,Pakistan,Pakistán,Pakistan,Пакистан,巴基斯坦,🇵🇰
-PLW,PW,585.0,Palau,Palaos (les),Oceania,Palau,Palau,Palaos,Palau,180.0,189.0,East Asia & Pacific,Micronesia,585.0,بالاو,Palau,Palau,Palaos,Палау,帕劳,🇵🇼
-PSE,PS,275.0,"Palestine, State of","Palestine, État de",Asia,Palästina,Palestinian Territories,Territoires palestiniens,Territori palestinesi,,,Middle East & North Africa,Western Asia,275.0,,,,,,,🇵🇸
-PAN,PA,591.0,Panama,Panama (le),Americas,Panama,Panama,Panama,Panamá,166.0,191.0,Latin America & Caribbean,Central America,591.0,بنما,Panama,Panamá,Panama,Панама,巴拿马,🇵🇦
-PNG,PG,598.0,Papua New Guinea,Papouasie-Nouvelle-Guinée (la),Oceania,Papua-Neuguinea,Papua New Guinea,Papouasie-Nouvelle-Guinée,Papua Nuova Guinea,168.0,192.0,East Asia & Pacific,Melanesia,598.0,بابوا غينيا الجديدة,Papua New Guinea,Papua Nueva Guinea,Papouasie-Nouvelle-Guinée,Папуа-Новая Гвинея,巴布亚新几内亚,🇵🇬
-PRY,PY,600.0,Paraguay,Paraguay (le),Americas,Paraguay,Paraguay,Paraguay,Paraguay,169.0,194.0,Latin America & Caribbean,South America,600.0,باراغواي,Paraguay,Paraguay,Paraguay,Парагвай,巴拉圭,🇵🇾
+PAK,PK,586,Pakistan,Pakistan (le),Asia,Pakistan,Pakistan,Pakistan,Pakistan,165,188,South Asia,Southern Asia,586,باكستان,Pakistan,Pakistán,Pakistan,Пакистан,巴基斯坦,🇵🇰
+PLW,PW,585,Palau,Palaos (les),Oceania,Palau,Palau,Palaos,Palau,180,189,East Asia & Pacific,Micronesia,585,بالاو,Palau,Palau,Palaos,Палау,帕劳,🇵🇼
+PSE,PS,275,"Palestine, State of","Palestine, État de",Asia,Palästina,Palestinian Territories,Territoires palestiniens,Territori palestinesi,,,Middle East & North Africa,Western Asia,275,,,,,,,🇵🇸
+PAN,PA,591,Panama,Panama (le),Americas,Panama,Panama,Panama,Panamá,166,191,Latin America & Caribbean,Central America,591,بنما,Panama,Panamá,Panama,Панама,巴拿马,🇵🇦
+PNG,PG,598,Papua New Guinea,Papouasie-Nouvelle-Guinée (la),Oceania,Papua-Neuguinea,Papua New Guinea,Papouasie-Nouvelle-Guinée,Papua Nuova Guinea,168,192,East Asia & Pacific,Melanesia,598,بابوا غينيا الجديدة,Papua New Guinea,Papua Nueva Guinea,Papouasie-Nouvelle-Guinée,Папуа-Новая Гвинея,巴布亚新几内亚,🇵🇬
+PRY,PY,600,Paraguay,Paraguay (le),Americas,Paraguay,Paraguay,Paraguay,Paraguay,169,194,Latin America & Caribbean,South America,600,باراغواي,Paraguay,Paraguay,Paraguay,Парагвай,巴拉圭,🇵🇾
 ,,,,,,Parma,Parma,,,,,Europe & Central Asia,,,,,,,,,
-PER,PE,604.0,Peru,Pérou (le),Americas,Peru,Peru,Pérou,Perù,170.0,195.0,Latin America & Caribbean,South America,604.0,بيرو,Peru,Perú,Pérou,Перу,秘鲁,🇵🇪
-PHL,PH,608.0,Philippines (the),Philippines (les),Asia,Philippinen,Philippines,Philippines,Filippine,171.0,196.0,East Asia & Pacific,South-Eastern Asia,608.0,الفلبين,Philippines,Filipinas,Philippines,Филиппины,菲律宾,🇵🇭
+PER,PE,604,Peru,Pérou (le),Americas,Peru,Peru,Pérou,Perù,170,195,Latin America & Caribbean,South America,604,بيرو,Peru,Perú,Pérou,Перу,秘鲁,🇵🇪
+PHL,PH,608,Philippines (the),Philippines (les),Asia,Philippinen,Philippines,Philippines,Filippine,171,196,East Asia & Pacific,South-Eastern Asia,608,الفلبين,Philippines,Filipinas,Philippines,Филиппины,菲律宾,🇵🇭
 ,,,,,,Piemont Sardinien,Piedmont-Sardinia,,,,,Europe & Central Asia,,,,,,,,,
-PCN,PN,612.0,Pitcairn,Pitcairn,Oceania,Pitcairn,Pitcairn Islands,Îles Pitcairn,Isole Pitcairn,172.0,197.0,East Asia & Pacific,Polynesia,612.0,,,,,,,🇵🇳
-POL,PL,616.0,Poland,Pologne (la),Europe,Polen,Poland,Pologne,Polonia,173.0,198.0,Europe & Central Asia,Eastern Europe,616.0,بولندا,Poland,Polonia,Pologne,Польша,波兰,🇵🇱
-PRT,PT,620.0,Portugal,Portugal (le),Europe,Portugal,Portugal,Portugal,Portogallo,174.0,199.0,Europe & Central Asia,Southern Europe,620.0,البرتغال,Portugal,Portugal,Portugal,Португалия,葡萄牙,🇵🇹
+PCN,PN,612,Pitcairn,Pitcairn,Oceania,Pitcairn,Pitcairn Islands,Îles Pitcairn,Isole Pitcairn,172,197,East Asia & Pacific,Polynesia,612,,,,,,,🇵🇳
+POL,PL,616,Poland,Pologne (la),Europe,Polen,Poland,Pologne,Polonia,173,198,Europe & Central Asia,Eastern Europe,616,بولندا,Poland,Polonia,Pologne,Польша,波兰,🇵🇱
+PRT,PT,620,Portugal,Portugal (le),Europe,Portugal,Portugal,Portugal,Portogallo,174,199,Europe & Central Asia,Southern Europe,620,البرتغال,Portugal,Portugal,Portugal,Португалия,葡萄牙,🇵🇹
 ,,,,,,Preussen,Prussia,,,,,Europe & Central Asia,,,,,,,,,
-PRI,PR,630.0,Puerto Rico,Porto Rico,Americas,Puerto Rico,Puerto Rico,Porto Rico,Portorico,177.0,200.0,Latin America & Caribbean,Caribbean,630.0,,,,,,,🇵🇷
-QAT,QA,634.0,Qatar,Qatar (le),Asia,Katar,Qatar,Qatar,Qatar,179.0,201.0,Middle East & North Africa,Western Asia,634.0,قطر,Qatar,Qatar,Qatar,Катар,卡塔尔,🇶🇦
+PRI,PR,630,Puerto Rico,Porto Rico,Americas,Puerto Rico,Puerto Rico,Porto Rico,Portorico,177,200,Latin America & Caribbean,Caribbean,630,,,,,,,🇵🇷
+QAT,QA,634,Qatar,Qatar (le),Asia,Katar,Qatar,Qatar,Qatar,179,201,Middle East & North Africa,Western Asia,634,قطر,Qatar,Qatar,Qatar,Катар,卡塔尔,🇶🇦
 ,,,,,Asia,Südvietnam,Republic of Vietnam,,,,,East Asia & Pacific,South-Eastern Asia,,,,,,,,
-ROU,RO,642.0,Romania,Roumanie (la),Europe,Rumänien,Romania,Roumanie,Romania,183.0,203.0,Europe & Central Asia,Eastern Europe,642.0,رومانيا,Romania,Rumania,Roumanie,Румыния,罗马尼亚,🇷🇴
-RUS,RU,643.0,Russian Federation (the),Russie (la Fédération de),Europe,Russische Föderation,Russia,Russie,Russia,185.0,204.0,Europe & Central Asia,Eastern Europe,643.0,الاتحاد الروسي,Russian Federation,Federación de Rusia,Fédération de Russie,Российская Федерация,俄罗斯联邦,🇷🇺
-RWA,RW,646.0,Rwanda,Rwanda (le),Africa,Ruanda,Rwanda,Rwanda,Ruanda,184.0,205.0,Sub-Saharan Africa,Eastern Africa,646.0,رواندا,Rwanda,Rwanda,Rwanda,Руанда,卢旺达,🇷🇼
-REU,RE,638.0,Réunion,Réunion (La),Africa,Réunion,Réunion,La Réunion,Riunione,182.0,206.0,,Eastern Africa,638.0,,,,,,,🇷🇪
-MAF,MF,663.0,Saint Martin (French part),Saint-Martin (partie française),Americas,Saint Martin (französischer Teil),Saint Martin (French part),Saint-Martin (partie française),,,,Latin America & Caribbean,Caribbean,663.0,,,,,,,🇲🇫
-WSM,WS,882.0,Samoa,Samoa (le),Oceania,Samoa,Samoa,Samoa,Samoa,244.0,212.0,East Asia & Pacific,Polynesia,882.0,ساموا,Samoa,Samoa,Samoa,Самоа,萨摩亚,🇼🇸
-SMR,SM,674.0,San Marino,Saint-Marin,Europe,San Marino,San Marino,Saint-Marin,San Marino,192.0,213.0,Europe & Central Asia,Southern Europe,674.0,سان مارينو,San Marino,San Marino,Saint-Marin,Сан-Марино,圣马力诺,🇸🇲
+ROU,RO,642,Romania,Roumanie (la),Europe,Rumänien,Romania,Roumanie,Romania,183,203,Europe & Central Asia,Eastern Europe,642,رومانيا,Romania,Rumania,Roumanie,Румыния,罗马尼亚,🇷🇴
+RUS,RU,643,Russian Federation (the),Russie (la Fédération de),Europe,Russische Föderation,Russia,Russie,Russia,185,204,Europe & Central Asia,Eastern Europe,643,الاتحاد الروسي,Russian Federation,Federación de Rusia,Fédération de Russie,Российская Федерация,俄罗斯联邦,🇷🇺
+RWA,RW,646,Rwanda,Rwanda (le),Africa,Ruanda,Rwanda,Rwanda,Ruanda,184,205,Sub-Saharan Africa,Eastern Africa,646,رواندا,Rwanda,Rwanda,Rwanda,Руанда,卢旺达,🇷🇼
+REU,RE,638,Réunion,Réunion (La),Africa,Réunion,Réunion,La Réunion,Riunione,182,206,,Eastern Africa,638,,,,,,,🇷🇪
+MAF,MF,663,Saint Martin (French part),Saint-Martin (partie française),Americas,Saint Martin (französischer Teil),Saint Martin (French part),Saint-Martin (partie française),,,,Latin America & Caribbean,Caribbean,663,,,,,,,🇲🇫
+WSM,WS,882,Samoa,Samoa (le),Oceania,Samoa,Samoa,Samoa,Samoa,244,212,East Asia & Pacific,Polynesia,882,ساموا,Samoa,Samoa,Samoa,Самоа,萨摩亚,🇼🇸
+SMR,SM,674,San Marino,Saint-Marin,Europe,San Marino,San Marino,Saint-Marin,San Marino,192,213,Europe & Central Asia,Southern Europe,674,سان مارينو,San Marino,San Marino,Saint-Marin,Сан-Марино,圣马力诺,🇸🇲
 ,,,,,,Sardinien,Sardinia,,,,,Europe & Central Asia,,,,,,,,,
-SAU,SA,682.0,Saudi Arabia,Arabie saoudite (l'),Asia,Saudi Arabien,Saudi Arabia,Arabie saoudite,Arabia Saudita,194.0,215.0,Middle East & North Africa,Western Asia,682.0,المملكة العربية السعودية,Saudi Arabia,Arabia Saudita,Arabie saoudite,Саудовская Аравия,沙特阿拉伯,🇸🇦
+SAU,SA,682,Saudi Arabia,Arabie saoudite (l'),Asia,Saudi Arabien,Saudi Arabia,Arabie saoudite,Arabia Saudita,194,215,Middle East & North Africa,Western Asia,682,المملكة العربية السعودية,Saudi Arabia,Arabia Saudita,Arabie saoudite,Саудовская Аравия,沙特阿拉伯,🇸🇦
 ,,,,,,Sachsen-Weimar-Eisenach,Saxe-Weimar-Eisenach,,,,,Europe & Central Asia,,,,,,,,,
 ,,,,,,Sachsen,Saxony,,,,,Europe & Central Asia,,,,,,,,,
-SEN,SN,686.0,Senegal,Sénégal (le),Africa,Senegal,Senegal,Sénégal,Senegal,195.0,217.0,Sub-Saharan Africa,Western Africa,686.0,السنغال,Senegal,Senegal,Sénégal,Сенегал,塞内加尔,🇸🇳
-SRB,RS,688.0,Serbia,Serbie (la),Europe,Serbien,Serbia,Serbie,Serbia,272.0,2648.0,Europe & Central Asia,Southern Europe,688.0,صربيا,Serbia,Serbia,Serbie,Сербия,塞尔维亚,🇷🇸
+SEN,SN,686,Senegal,Sénégal (le),Africa,Senegal,Senegal,Sénégal,Senegal,195,217,Sub-Saharan Africa,Western Africa,686,السنغال,Senegal,Senegal,Sénégal,Сенегал,塞内加尔,🇸🇳
+SRB,RS,688,Serbia,Serbie (la),Europe,Serbien,Serbia,Serbie,Serbia,272,2648,Europe & Central Asia,Southern Europe,688,صربيا,Serbia,Serbia,Serbie,Сербия,塞尔维亚,🇷🇸
 ,,,,,,Serbien und Montenegro,Serbia and Montenegro,,,,,Europe & Central Asia,,,,,,,,,
-SYC,SC,690.0,Seychelles,Seychelles (les),Africa,Seychellen,Seychelles,Seychelles,Seychelles,196.0,220.0,Sub-Saharan Africa,Eastern Africa,690.0,سيشيل,Seychelles,Seychelles,Seychelles,Сейшельские Острова,塞舌尔,🇸🇨
-SLE,SL,694.0,Sierra Leone,Sierra Leone (la),Africa,Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone,197.0,221.0,Sub-Saharan Africa,Western Africa,694.0,سيراليون,Sierra Leone,Sierra Leona,Sierra Leone,Сьерра-Леоне,塞拉利昂,🇸🇱
-SGP,SG,702.0,Singapore,Singapour,Asia,Singapur,Singapore,Singapour,Singapore,200.0,222.0,East Asia & Pacific,South-Eastern Asia,702.0,سنغافورة,Singapore,Singapur,Singapour,Сингапур,新加坡,🇸🇬
-SXM,SX,534.0,Sint Maarten (Dutch part),Saint-Martin (partie néerlandaise),Americas,Sint Maarten (Niederländischer Teil),Sint Maarten,Saint-Martin (partie néerlandaise),Sint Maarten,,,Latin America & Caribbean,Caribbean,534.0,,,,,,,🇸🇽
-SVK,SK,703.0,Slovakia,Slovaquie (la),Europe,Slowakei,Slovakia,Slovaquie,Slovacchia,199.0,223.0,Europe & Central Asia,Eastern Europe,703.0,سلوفاكيا,Slovakia,Eslovaquia,Slovaquie,Словакия,斯洛伐克,🇸🇰
-SVN,SI,705.0,Slovenia,Slovénie (la),Europe,Slowenien,Slovenia,Slovénie,Slovenia,198.0,224.0,Europe & Central Asia,Southern Europe,705.0,سلوفينيا,Slovenia,Eslovenia,Slovénie,Словения,斯洛文尼亚,🇸🇮
-SLB,SB,90.0,Solomon Islands,Salomon (les Îles),Oceania,Salomon-Inseln,Solomon Islands,Îles Salomon,Isole Salomone,25.0,225.0,East Asia & Pacific,Melanesia,90.0,جزر سليمان,Solomon Islands,Islas Salomón,Îles Salomon,Соломоновы Острова,所罗门群岛,🇸🇧
-SOM,SO,706.0,Somalia,Somalie (la),Africa,Somalia,Somalia,Somalie,Somalia,201.0,226.0,Sub-Saharan Africa,Eastern Africa,706.0,الصومال,Somalia,Somalia,Somalie,Сомали,索马里,🇸🇴
+SYC,SC,690,Seychelles,Seychelles (les),Africa,Seychellen,Seychelles,Seychelles,Seychelles,196,220,Sub-Saharan Africa,Eastern Africa,690,سيشيل,Seychelles,Seychelles,Seychelles,Сейшельские Острова,塞舌尔,🇸🇨
+SLE,SL,694,Sierra Leone,Sierra Leone (la),Africa,Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone,197,221,Sub-Saharan Africa,Western Africa,694,سيراليون,Sierra Leone,Sierra Leona,Sierra Leone,Сьерра-Леоне,塞拉利昂,🇸🇱
+SGP,SG,702,Singapore,Singapour,Asia,Singapur,Singapore,Singapour,Singapore,200,222,East Asia & Pacific,South-Eastern Asia,702,سنغافورة,Singapore,Singapur,Singapour,Сингапур,新加坡,🇸🇬
+SXM,SX,534,Sint Maarten (Dutch part),Saint-Martin (partie néerlandaise),Americas,Sint Maarten (Niederländischer Teil),Sint Maarten,Saint-Martin (partie néerlandaise),Sint Maarten,,,Latin America & Caribbean,Caribbean,534,,,,,,,🇸🇽
+SVK,SK,703,Slovakia,Slovaquie (la),Europe,Slowakei,Slovakia,Slovaquie,Slovacchia,199,223,Europe & Central Asia,Eastern Europe,703,سلوفاكيا,Slovakia,Eslovaquia,Slovaquie,Словакия,斯洛伐克,🇸🇰
+SVN,SI,705,Slovenia,Slovénie (la),Europe,Slowenien,Slovenia,Slovénie,Slovenia,198,224,Europe & Central Asia,Southern Europe,705,سلوفينيا,Slovenia,Eslovenia,Slovénie,Словения,斯洛文尼亚,🇸🇮
+SLB,SB,90,Solomon Islands,Salomon (les Îles),Oceania,Salomon-Inseln,Solomon Islands,Îles Salomon,Isole Salomone,25,225,East Asia & Pacific,Melanesia,90,جزر سليمان,Solomon Islands,Islas Salomón,Îles Salomon,Соломоновы Острова,所罗门群岛,🇸🇧
+SOM,SO,706,Somalia,Somalie (la),Africa,Somalia,Somalia,Somalie,Somalia,201,226,Sub-Saharan Africa,Eastern Africa,706,الصومال,Somalia,Somalia,Somalie,Сомали,索马里,🇸🇴
 ,,,,,Africa,Somaliland,Somaliland,,,,,Sub-Saharan Africa,Eastern Africa,,,,,,,,
-ZAF,ZA,710.0,South Africa,Afrique du Sud (l'),Africa,Südafrika,South Africa,Afrique du Sud,Sudafrica,202.0,227.0,Sub-Saharan Africa,Southern Africa,710.0,جنوب أفريقيا,South Africa,Sudáfrica,Afrique du Sud,Южная Африка,南非,🇿🇦
-SGS,GS,239.0,South Georgia and the South Sandwich Islands,Géorgie du Sud-et-les Îles Sandwich du Sud (la),,Südgeorgien und die Südlichen Sandwichinseln,South Georgia & South Sandwich Islands,Géorgie du Sud et îles Sandwich du Sud,Georgia del Sud e Sandwich australi,,228.0,East Asia & Pacific,,239.0,,,,,,,🇬🇸
-KOR,KR,410.0,Korea (the Republic of),Corée (la République de),Asia,"Korea, Republik von",South Korea,Corée du Sud,Corea del Sud,117.0,202.0,East Asia & Pacific,Eastern Asia,410.0,جمهورية كوريا,Republic of Korea,República de Corea,République de Corée,Республика Корея,大韩民国,🇰🇷
-SSD,SS,728.0,South Sudan,Soudan du Sud (le),Africa,Südsudan,South Sudan,Soudan du Sud,Sud Sudan,277.0,74.0,Sub-Saharan Africa,Northern Africa,728.0,جنوب السودان,South Sudan,Sudán del Sur,Soudan du Sud,Южный Судан,南苏丹,🇸🇸
-ESP,ES,724.0,Spain,Espagne (l'),Europe,Spanien,Spain,Espagne,Spagna,203.0,229.0,Europe & Central Asia,Southern Europe,724.0,إسبانيا,Spain,España,Espagne,Испания,西班牙,🇪🇸
-LKA,LK,144.0,Sri Lanka,Sri Lanka,Asia,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,38.0,231.0,South Asia,Southern Asia,144.0,سري لانكا,Sri Lanka,Sri Lanka,Sri Lanka,Шри-Ланка,斯里兰卡,🇱🇰
-BLM,BL,652.0,Saint Barthélemy,Saint-Barthélemy,Americas,Saint-Barthelemy,St. Barthélemy,Saint-Barthélemy,Saint-Barthélemy,,,Latin America & Caribbean,Caribbean,652.0,,,,,,,🇧🇱
-SHN,SH,654.0,"Saint Helena, Ascension and Tristan da Cunha","Sainte-Hélène, Ascension et Tristan da Cunha",Africa,"St. Helena, Ascension und Tristan da Cunha",St. Helena,Sainte-Hélène,Sant’Elena,187.0,207.0,,Western Africa,654.0,,,,,,,🇸🇭
-KNA,KN,659.0,Saint Kitts and Nevis,Saint-Kitts-et-Nevis,Americas,St. Kitts und Nevis,St. Kitts & Nevis,Saint-Christophe-et-Niévès,Saint Kitts e Nevis,188.0,208.0,Latin America & Caribbean,Caribbean,659.0,سانت كيتس ونيفس,Saint Kitts and Nevis,Saint Kitts y Nevis,Saint-Kitts-et-Nevis,Сент-Китс и Невис,圣基茨和尼维斯,🇰🇳
-LCA,LC,662.0,Saint Lucia,Sainte-Lucie,Americas,Saint Lucia,St. Lucia,Sainte-Lucie,Saint Lucia,189.0,209.0,Latin America & Caribbean,Caribbean,662.0,سانت لوسيا,Saint Lucia,Santa Lucía,Sainte-Lucie,Сент-Люсия,圣卢西亚,🇱🇨
-SPM,PM,666.0,Saint Pierre and Miquelon,Saint-Pierre-et-Miquelon,Americas,Saint-Pierre und Miquelon,St. Pierre & Miquelon,Saint-Pierre-et-Miquelon,Saint-Pierre e Miquelon,190.0,210.0,North America,Northern America,666.0,,,,,,,🇵🇲
-VCT,VC,670.0,Saint Vincent and the Grenadines,Saint-Vincent-et-les Grenadines,Americas,St. Vincent und die Grenadinen,St. Vincent & Grenadines,Saint-Vincent-et-les-Grenadines,Saint Vincent e Grenadine,191.0,211.0,Latin America & Caribbean,Caribbean,670.0,سانت فنسنت وجزر غرينادين,Saint Vincent and the Grenadines,San Vicente y las Granadinas,Saint-Vincent-et-les Grenadines,Сент-Винсент и Гренадины,圣文森特和格林纳丁斯,🇻🇨
+ZAF,ZA,710,South Africa,Afrique du Sud (l'),Africa,Südafrika,South Africa,Afrique du Sud,Sudafrica,202,227,Sub-Saharan Africa,Southern Africa,710,جنوب أفريقيا,South Africa,Sudáfrica,Afrique du Sud,Южная Африка,南非,🇿🇦
+SGS,GS,239,South Georgia and the South Sandwich Islands,Géorgie du Sud-et-les Îles Sandwich du Sud (la),,Südgeorgien und die Südlichen Sandwichinseln,South Georgia & South Sandwich Islands,Géorgie du Sud et îles Sandwich du Sud,Georgia del Sud e Sandwich australi,,228,East Asia & Pacific,,239,,,,,,,🇬🇸
+KOR,KR,410,Korea (the Republic of),Corée (la République de),Asia,"Korea, Republik von",South Korea,Corée du Sud,Corea del Sud,117,202,East Asia & Pacific,Eastern Asia,410,جمهورية كوريا,Republic of Korea,República de Corea,République de Corée,Республика Корея,大韩民国,🇰🇷
+SSD,SS,728,South Sudan,Soudan du Sud (le),Africa,Südsudan,South Sudan,Soudan du Sud,Sud Sudan,277,74,Sub-Saharan Africa,Northern Africa,728,جنوب السودان,South Sudan,Sudán del Sur,Soudan du Sud,Южный Судан,南苏丹,🇸🇸
+ESP,ES,724,Spain,Espagne (l'),Europe,Spanien,Spain,Espagne,Spagna,203,229,Europe & Central Asia,Southern Europe,724,إسبانيا,Spain,España,Espagne,Испания,西班牙,🇪🇸
+LKA,LK,144,Sri Lanka,Sri Lanka,Asia,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,38,231,South Asia,Southern Asia,144,سري لانكا,Sri Lanka,Sri Lanka,Sri Lanka,Шри-Ланка,斯里兰卡,🇱🇰
+BLM,BL,652,Saint Barthélemy,Saint-Barthélemy,Americas,Saint-Barthelemy,St. Barthélemy,Saint-Barthélemy,Saint-Barthélemy,,,Latin America & Caribbean,Caribbean,652,,,,,,,🇧🇱
+SHN,SH,654,"Saint Helena, Ascension and Tristan da Cunha","Sainte-Hélène, Ascension et Tristan da Cunha",Africa,"St. Helena, Ascension und Tristan da Cunha",St. Helena,Sainte-Hélène,Sant’Elena,187,207,,Western Africa,654,,,,,,,🇸🇭
+KNA,KN,659,Saint Kitts and Nevis,Saint-Kitts-et-Nevis,Americas,St. Kitts und Nevis,St. Kitts & Nevis,Saint-Christophe-et-Niévès,Saint Kitts e Nevis,188,208,Latin America & Caribbean,Caribbean,659,سانت كيتس ونيفس,Saint Kitts and Nevis,Saint Kitts y Nevis,Saint-Kitts-et-Nevis,Сент-Китс и Невис,圣基茨和尼维斯,🇰🇳
+LCA,LC,662,Saint Lucia,Sainte-Lucie,Americas,Saint Lucia,St. Lucia,Sainte-Lucie,Saint Lucia,189,209,Latin America & Caribbean,Caribbean,662,سانت لوسيا,Saint Lucia,Santa Lucía,Sainte-Lucie,Сент-Люсия,圣卢西亚,🇱🇨
+SPM,PM,666,Saint Pierre and Miquelon,Saint-Pierre-et-Miquelon,Americas,Saint-Pierre und Miquelon,St. Pierre & Miquelon,Saint-Pierre-et-Miquelon,Saint-Pierre e Miquelon,190,210,North America,Northern America,666,,,,,,,🇵🇲
+VCT,VC,670,Saint Vincent and the Grenadines,Saint-Vincent-et-les Grenadines,Americas,St. Vincent und die Grenadinen,St. Vincent & Grenadines,Saint-Vincent-et-les-Grenadines,Saint Vincent e Grenadine,191,211,Latin America & Caribbean,Caribbean,670,سانت فنسنت وجزر غرينادين,Saint Vincent and the Grenadines,San Vicente y las Granadinas,Saint-Vincent-et-les Grenadines,Сент-Винсент и Гренадины,圣文森特和格林纳丁斯,🇻🇨
 ,,,,,,,Stateless,,,,,,,,,,,,,,
-SDN,SD,729.0,Sudan (the),Soudan (le),Africa,Sudan,Sudan,Soudan,Sudan,276.0,6.0,Sub-Saharan Africa,Northern Africa,729.0,السودان,Sudan,Sudán,Soudan,Судан,苏丹,🇸🇩
-SUR,SR,740.0,Suriname,Suriname (le),Americas,Surinam,Suriname,Suriname,Suriname,207.0,233.0,Latin America & Caribbean,South America,740.0,سورينام,Suriname,Suriname,Suriname,Суринам,苏里南,🇸🇷
-SJM,SJ,744.0,Svalbard and Jan Mayen,Svalbard et l'Île Jan Mayen (le),Europe,Svalbard und Jan Mayen,Svalbard & Jan Mayen,Svalbard et Jan Mayen,Svalbard e Jan Mayen,260.0,234.0,,Northern Europe,744.0,,,,,,,🇸🇯
-SWE,SE,752.0,Sweden,Suède (la),Europe,Schweden,Sweden,Suède,Svezia,210.0,236.0,Europe & Central Asia,Northern Europe,752.0,السويد,Sweden,Suecia,Suède,Швеция,瑞典,🇸🇪
-CHE,CH,756.0,Switzerland,Suisse (la),Europe,Schweiz,Switzerland,Suisse,Svizzera,211.0,237.0,Europe & Central Asia,Western Europe,756.0,سويسرا,Switzerland,Suiza,Suisse,Швейцария,瑞士,🇨🇭
-SYR,SY,760.0,Syrian Arab Republic (the),République arabe syrienne (la),Asia,Syrische Arabische Republik,Syria,Syrie,Siria,212.0,238.0,Middle East & North Africa,Western Asia,760.0,الجمهورية العربية السورية,Syrian Arab Republic,República Árabe Siria,République arabe syrienne,Сирийская Арабская Республика,阿拉伯叙利亚共和国,🇸🇾
-STP,ST,678.0,Sao Tome and Principe,Sao Tomé-et-Principe,Africa,Sao Tome und Principe,São Tomé & Príncipe,Sao Tomé-et-Principe,São Tomé e Príncipe,193.0,214.0,Sub-Saharan Africa,Middle Africa,678.0,سان تومي وبرينسيبي,Sao Tome and Principe,Santo Tomé y Príncipe,Sao Tomé-et-Principe,Сан-Томе и Принсипи,圣多美和普林西比,🇸🇹
-TWN,TW,158.0,Taiwan (Province of China),Taïwan (Province de Chine),Asia,Taiwan,Taiwan,Taïwan,Taiwan,214.0,,East Asia & Pacific,Eastern Asia,,,,,,,,🇹🇼
-TJK,TJ,762.0,Tajikistan,Tadjikistan (le),Asia,Tadschikistan,Tajikistan,Tadjikistan,Tagikistan,208.0,239.0,Europe & Central Asia,Central Asia,762.0,طاجيكستان,Tajikistan,Tayikistán,Tadjikistan,Таджикистан,塔吉克斯坦,🇹🇯
-TZA,TZ,834.0,"Tanzania, the United Republic of",Tanzanie (la République-Unie de),Africa,Tansania,Tanzania,Tanzanie,Tanzania,215.0,257.0,Sub-Saharan Africa,Eastern Africa,834.0,جمهورية تنزانيا المتحدة,United Republic of Tanzania,República Unida de Tanzanía,République-Unie de Tanzanie,Объединенная Республика Танзания,坦桑尼亚联合共和国,🇹🇿
-THA,TH,764.0,Thailand,Thaïlande (la),Asia,Thailand,Thailand,Thaïlande,Thailandia,216.0,240.0,East Asia & Pacific,South-Eastern Asia,764.0,تايلند,Thailand,Tailandia,Thaïlande,Таиланд,泰国,🇹🇭
+SDN,SD,729,Sudan (the),Soudan (le),Africa,Sudan,Sudan,Soudan,Sudan,276,6,Sub-Saharan Africa,Northern Africa,729,السودان,Sudan,Sudán,Soudan,Судан,苏丹,🇸🇩
+SUR,SR,740,Suriname,Suriname (le),Americas,Surinam,Suriname,Suriname,Suriname,207,233,Latin America & Caribbean,South America,740,سورينام,Suriname,Suriname,Suriname,Суринам,苏里南,🇸🇷
+SJM,SJ,744,Svalbard and Jan Mayen,Svalbard et l'Île Jan Mayen (le),Europe,Svalbard und Jan Mayen,Svalbard & Jan Mayen,Svalbard et Jan Mayen,Svalbard e Jan Mayen,260,234,,Northern Europe,744,,,,,,,🇸🇯
+SWE,SE,752,Sweden,Suède (la),Europe,Schweden,Sweden,Suède,Svezia,210,236,Europe & Central Asia,Northern Europe,752,السويد,Sweden,Suecia,Suède,Швеция,瑞典,🇸🇪
+CHE,CH,756,Switzerland,Suisse (la),Europe,Schweiz,Switzerland,Suisse,Svizzera,211,237,Europe & Central Asia,Western Europe,756,سويسرا,Switzerland,Suiza,Suisse,Швейцария,瑞士,🇨🇭
+SYR,SY,760,Syrian Arab Republic (the),République arabe syrienne (la),Asia,Syrische Arabische Republik,Syria,Syrie,Siria,212,238,Middle East & North Africa,Western Asia,760,الجمهورية العربية السورية,Syrian Arab Republic,República Árabe Siria,République arabe syrienne,Сирийская Арабская Республика,阿拉伯叙利亚共和国,🇸🇾
+STP,ST,678,Sao Tome and Principe,Sao Tomé-et-Principe,Africa,Sao Tome und Principe,São Tomé & Príncipe,Sao Tomé-et-Principe,São Tomé e Príncipe,193,214,Sub-Saharan Africa,Middle Africa,678,سان تومي وبرينسيبي,Sao Tome and Principe,Santo Tomé y Príncipe,Sao Tomé-et-Principe,Сан-Томе и Принсипи,圣多美和普林西比,🇸🇹
+TWN,TW,158,Taiwan (Province of China),Taïwan (Province de Chine),Asia,Taiwan,Taiwan,Taïwan,Taiwan,214,,East Asia & Pacific,Eastern Asia,,,,,,,,🇹🇼
+TJK,TJ,762,Tajikistan,Tadjikistan (le),Asia,Tadschikistan,Tajikistan,Tadjikistan,Tagikistan,208,239,Europe & Central Asia,Central Asia,762,طاجيكستان,Tajikistan,Tayikistán,Tadjikistan,Таджикистан,塔吉克斯坦,🇹🇯
+TZA,TZ,834,"Tanzania, the United Republic of",Tanzanie (la République-Unie de),Africa,Tansania,Tanzania,Tanzanie,Tanzania,215,257,Sub-Saharan Africa,Eastern Africa,834,جمهورية تنزانيا المتحدة,United Republic of Tanzania,República Unida de Tanzanía,République-Unie de Tanzanie,Объединенная Республика Танзания,坦桑尼亚联合共和国,🇹🇿
+THA,TH,764,Thailand,Thaïlande (la),Asia,Thailand,Thailand,Thaïlande,Thailandia,216,240,East Asia & Pacific,South-Eastern Asia,764,تايلند,Thailand,Tailandia,Thaïlande,Таиланд,泰国,🇹🇭
 ,,,,,,,Tibet,,,,,,,,,,,,,,
-TLS,TL,626.0,Timor-Leste,Timor-Leste (le),Asia,Timor-Leste,Timor-Leste,Timor oriental,Timor Est,176.0,242.0,East Asia & Pacific,South-Eastern Asia,626.0,تيمور-ليشتي,Timor-Leste,Timor-Leste,Timor-Leste,Тимор-Лешти,东帝汶,🇹🇱
-TGO,TG,768.0,Togo,Togo (le),Africa,Togo,Togo,Togo,Togo,217.0,243.0,Sub-Saharan Africa,Western Africa,768.0,توغو,Togo,Togo,Togo,Того,多哥,🇹🇬
-TKL,TK,772.0,Tokelau,Tokelau (les),Oceania,Tokelau,Tokelau,Tokelau,Tokelau,218.0,244.0,East Asia & Pacific,Polynesia,772.0,,,,,,,🇹🇰
-TON,TO,776.0,Tonga,Tonga (les),Oceania,Tonga,Tonga,Tonga,Tonga,219.0,245.0,East Asia & Pacific,Polynesia,776.0,تونغا,Tonga,Tonga,Tonga,Тонга,汤加,🇹🇴
-TTO,TT,780.0,Trinidad and Tobago,Trinité-et-Tobago (la),Americas,Trinidad und Tobago,Trinidad & Tobago,Trinité-et-Tobago,Trinidad e Tobago,220.0,246.0,Latin America & Caribbean,Caribbean,780.0,ترينيداد وتوباغو,Trinidad and Tobago,Trinidad y Tabago,Trinité-et-Tobago,Тринидад и Тобаго,特立尼达和多巴哥,🇹🇹
-TUN,TN,788.0,Tunisia,Tunisie (la),Africa,Tunesien,Tunisia,Tunisie,Tunisia,222.0,248.0,Middle East & North Africa,Northern Africa,788.0,تونس,Tunisia,Túnez,Tunisie,Тунис,突尼斯,🇹🇳
-TUR,TR,792.0,Turkey,Turquie (la),Asia,Türkei,Turkey,Turquie,Turchia,223.0,249.0,Europe & Central Asia,Western Asia,792.0,تركيا,Türkiye,Türkiye,Türkiye,Турция,土耳其,🇹🇷
-TKM,TM,795.0,Turkmenistan,Turkménistan (le),Asia,Turkmenistan,Turkmenistan,Turkménistan,Turkmenistan,213.0,250.0,Europe & Central Asia,Central Asia,795.0,تركمانستان,Turkmenistan,Turkmenistán,Turkménistan,Туркменистан,土库曼斯坦,🇹🇲
-TCA,TC,796.0,Turks and Caicos Islands (the),Turks-et-Caïcos (les Îles),Americas,Turks- und Caicosinseln,Turks & Caicos Islands,Îles Turques-et-Caïques,Isole Turks e Caicos,224.0,251.0,Latin America & Caribbean,Caribbean,796.0,,,,,,,🇹🇨
+TLS,TL,626,Timor-Leste,Timor-Leste (le),Asia,Timor-Leste,Timor-Leste,Timor oriental,Timor Est,176,242,East Asia & Pacific,South-Eastern Asia,626,تيمور-ليشتي,Timor-Leste,Timor-Leste,Timor-Leste,Тимор-Лешти,东帝汶,🇹🇱
+TGO,TG,768,Togo,Togo (le),Africa,Togo,Togo,Togo,Togo,217,243,Sub-Saharan Africa,Western Africa,768,توغو,Togo,Togo,Togo,Того,多哥,🇹🇬
+TKL,TK,772,Tokelau,Tokelau (les),Oceania,Tokelau,Tokelau,Tokelau,Tokelau,218,244,East Asia & Pacific,Polynesia,772,,,,,,,🇹🇰
+TON,TO,776,Tonga,Tonga (les),Oceania,Tonga,Tonga,Tonga,Tonga,219,245,East Asia & Pacific,Polynesia,776,تونغا,Tonga,Tonga,Tonga,Тонга,汤加,🇹🇴
+TTO,TT,780,Trinidad and Tobago,Trinité-et-Tobago (la),Americas,Trinidad und Tobago,Trinidad & Tobago,Trinité-et-Tobago,Trinidad e Tobago,220,246,Latin America & Caribbean,Caribbean,780,ترينيداد وتوباغو,Trinidad and Tobago,Trinidad y Tabago,Trinité-et-Tobago,Тринидад и Тобаго,特立尼达和多巴哥,🇹🇹
+TUN,TN,788,Tunisia,Tunisie (la),Africa,Tunesien,Tunisia,Tunisie,Tunisia,222,248,Middle East & North Africa,Northern Africa,788,تونس,Tunisia,Túnez,Tunisie,Тунис,突尼斯,🇹🇳
+TUR,TR,792,Turkey,Turquie (la),Asia,Türkei,Turkey,Turquie,Turchia,223,249,Europe & Central Asia,Western Asia,792,تركيا,Türkiye,Türkiye,Türkiye,Турция,土耳其,🇹🇷
+TKM,TM,795,Turkmenistan,Turkménistan (le),Asia,Turkmenistan,Turkmenistan,Turkménistan,Turkmenistan,213,250,Europe & Central Asia,Central Asia,795,تركمانستان,Turkmenistan,Turkmenistán,Turkménistan,Туркменистан,土库曼斯坦,🇹🇲
+TCA,TC,796,Turks and Caicos Islands (the),Turks-et-Caïcos (les Îles),Americas,Turks- und Caicosinseln,Turks & Caicos Islands,Îles Turques-et-Caïques,Isole Turks e Caicos,224,251,Latin America & Caribbean,Caribbean,796,,,,,,,🇹🇨
 ,,,,,,Toskana,Tuscany,,,,,Europe & Central Asia,,,,,,,,,
-TUV,TV,798.0,Tuvalu,Tuvalu (les),Oceania,Tuvalu,Tuvalu,Tuvalu,Tuvalu,227.0,252.0,East Asia & Pacific,Polynesia,798.0,توفالو,Tuvalu,Tuvalu,Tuvalu,Тувалу,图瓦卢,🇹🇻
+TUV,TV,798,Tuvalu,Tuvalu (les),Oceania,Tuvalu,Tuvalu,Tuvalu,Tuvalu,227,252,East Asia & Pacific,Polynesia,798,توفالو,Tuvalu,Tuvalu,Tuvalu,Тувалу,图瓦卢,🇹🇻
 ,,,,,,Königreich beider Sizilien,Two Sicilies,,,,,Europe & Central Asia,,,,,,,,,
-VIR,VI,850.0,Virgin Islands (U.S.),Vierges des États-Unis (les Îles),Americas,"Virgin Islands, U.S.",U.S. Virgin Islands,Îles Vierges des États-Unis,Isole Vergini Americane,240.0,258.0,Latin America & Caribbean,Caribbean,850.0,,,,,,,🇻🇮
-UGA,UG,800.0,Uganda,Ouganda (l'),Africa,Uganda,Uganda,Ouganda,Uganda,226.0,253.0,Sub-Saharan Africa,Eastern Africa,800.0,أوغندا,Uganda,Uganda,Ouganda,Уганда,乌干达,🇺🇬
-UKR,UA,804.0,Ukraine,Ukraine (l'),Europe,Ukraine,Ukraine,Ukraine,Ucraina,230.0,254.0,Europe & Central Asia,Eastern Europe,804.0,أوكرانيا,Ukraine,Ucrania,Ukraine,Украина,乌克兰,🇺🇦
-ARE,AE,784.0,United Arab Emirates (the),Émirats arabes unis (les),Asia,Vereinigte Arabische Emirate,United Arab Emirates,Émirats arabes unis,Emirati Arabi Uniti,225.0,255.0,Middle East & North Africa,Western Asia,784.0,الإمارات العربية المتحدة,United Arab Emirates,Emiratos Árabes Unidos,Émirats arabes unis,Объединенные Арабские Эмираты,阿拉伯联合酋长国,🇦🇪
+VIR,VI,850,Virgin Islands (U.S.),Vierges des États-Unis (les Îles),Americas,"Virgin Islands, U.S.",U.S. Virgin Islands,Îles Vierges des États-Unis,Isole Vergini Americane,240,258,Latin America & Caribbean,Caribbean,850,,,,,,,🇻🇮
+UGA,UG,800,Uganda,Ouganda (l'),Africa,Uganda,Uganda,Ouganda,Uganda,226,253,Sub-Saharan Africa,Eastern Africa,800,أوغندا,Uganda,Uganda,Ouganda,Уганда,乌干达,🇺🇬
+UKR,UA,804,Ukraine,Ukraine (l'),Europe,Ukraine,Ukraine,Ukraine,Ucraina,230,254,Europe & Central Asia,Eastern Europe,804,أوكرانيا,Ukraine,Ucrania,Ukraine,Украина,乌克兰,🇺🇦
+ARE,AE,784,United Arab Emirates (the),Émirats arabes unis (les),Asia,Vereinigte Arabische Emirate,United Arab Emirates,Émirats arabes unis,Emirati Arabi Uniti,225,255,Middle East & North Africa,Western Asia,784,الإمارات العربية المتحدة,United Arab Emirates,Emiratos Árabes Unidos,Émirats arabes unis,Объединенные Арабские Эмираты,阿拉伯联合酋长国,🇦🇪
 ,,,,,Asia,Vereinigte Arabische Republik,United Arab Republic,,,,,Middle East & North Africa,Western Asia,,,,,,,,
-GBR,GB,826.0,United Kingdom,Royaume-Uni,Europe,Großbritannien,United Kingdom,Royaume-Uni,Regno Unito,229.0,256.0,Europe & Central Asia,Northern Europe,826.0,المملكة المتحدة لبريطانيا العظمى وآيرلندا الشمالية,United Kingdom of Great Britain and Northern Ireland,Reino Unido de Gran Bretaña e Irlanda del Norte,Royaume-Uni de Grande-Bretagne et d’Irlande du Nord,Соединенное Королевство Великобритании и Северной Ирландии,大不列颠及北爱尔兰联合王国,🇬🇧
+GBR,GB,826,United Kingdom,Royaume-Uni,Europe,Großbritannien,United Kingdom,Royaume-Uni,Regno Unito,229,256,Europe & Central Asia,Northern Europe,826,المملكة المتحدة لبريطانيا العظمى وآيرلندا الشمالية,United Kingdom of Great Britain and Northern Ireland,Reino Unido de Gran Bretaña e Irlanda del Norte,Royaume-Uni de Grande-Bretagne et d’Irlande du Nord,Соединенное Королевство Великобритании и Северной Ирландии,大不列颠及北爱尔兰联合王国,🇬🇧
 ,,,,,,Vereinigte Provinz CA,United Province CA,,,,,,,,,,,,,,
-USA,US,840.0,United States of America (the),États-Unis d'Amérique (les),Americas,Vereinigte Staaten,United States,États-Unis,Stati Uniti,231.0,259.0,North America,Northern America,840.0,الولايات المتحدة الأمريكية,United States of America,Estados Unidos de América,États-Unis d’Amérique,Соединенные Штаты Америки,美利坚合众国,🇺🇸
-UMI,UM,581.0,United States Minor Outlying Islands (the),Mineures éloignées des États-Unis (les),,United States Minor Outlying Islands,United States Minor Outlying Islands (the),Mineures éloignées des États-Unis (les),,,,,,581.0,,,,,,,🇺🇲
+USA,US,840,United States of America (the),États-Unis d'Amérique (les),Americas,Vereinigte Staaten,United States,États-Unis,Stati Uniti,231,259,North America,Northern America,840,الولايات المتحدة الأمريكية,United States of America,Estados Unidos de América,États-Unis d’Amérique,Соединенные Штаты Америки,美利坚合众国,🇺🇸
+UMI,UM,581,United States Minor Outlying Islands (the),Mineures éloignées des États-Unis (les),,United States Minor Outlying Islands,United States Minor Outlying Islands (the),Mineures éloignées des États-Unis (les),,,,,,581,,,,,,,🇺🇲
 ,,,,,,,Unknown,,,,,,,,,,,,,,
-URY,UY,858.0,Uruguay,Uruguay (l'),Americas,Uruguay,Uruguay,Uruguay,Uruguay,234.0,260.0,Latin America & Caribbean,South America,858.0,أوروغواي,Uruguay,Uruguay,Uruguay,Уругвай,乌拉圭,🇺🇾
-UZB,UZ,860.0,Uzbekistan,Ouzbékistan (l'),Asia,Usbekistan,Uzbekistan,Ouzbékistan,Uzbekistan,235.0,261.0,Europe & Central Asia,Central Asia,860.0,أوزبكستان,Uzbekistan,Uzbekistán,Ouzbékistan,Узбекистан,乌兹别克斯坦,🇺🇿
-VUT,VU,548.0,Vanuatu,Vanuatu (le),Oceania,Vanuatu,Vanuatu,Vanuatu,Vanuatu,155.0,262.0,East Asia & Pacific,Melanesia,548.0,فانواتو,Vanuatu,Vanuatu,Vanuatu,Вануату,瓦努阿图,🇻🇺
-VAT,VA,336.0,Holy See (the),Saint-Siège (le),Europe,Vatikanstaat,Vatican City,État de la Cité du Vatican,Città del Vaticano,94.0,110.0,Europe & Central Asia,Southern Europe,336.0,,,,,,,🇻🇦
-VEN,VE,862.0,Venezuela (Bolivarian Republic of),Venezuela (République bolivarienne du),Americas,Venezuela,Venezuela,Venezuela,Venezuela,236.0,263.0,Latin America & Caribbean,South America,862.0,فنزويلا (جمهورية - البوليفارية),Venezuela (Bolivarian Republic of),Venezuela (República Bolivariana de),Venezuela (République bolivarienne du),Венесуэла (Боливарианская Республика),委内瑞拉（玻利瓦尔共和国）,🇻🇪
-VNM,VN,704.0,Viet Nam,Viet Nam (le),Asia,Vietnam,Vietnam,Vietnam,Vietnam,237.0,264.0,East Asia & Pacific,South-Eastern Asia,704.0,فييت نام,Viet Nam,Viet Nam,Viet Nam,Вьетнам,越南,🇻🇳
-WLF,WF,876.0,Wallis and Futuna,Wallis-et-Futuna,Oceania,Wallis und Futuna,Wallis & Futuna,Wallis-et-Futuna,Wallis e Futuna,243.0,266.0,,Polynesia,876.0,,,,,,,🇼🇫
-ESH,EH,732.0,Western Sahara,Sahara occidental (le),Africa,Westsahara,Western Sahara,Sahara occidental,Sahara occidentale,205.0,268.0,,Northern Africa,732.0,,,,,,,🇪🇭
+URY,UY,858,Uruguay,Uruguay (l'),Americas,Uruguay,Uruguay,Uruguay,Uruguay,234,260,Latin America & Caribbean,South America,858,أوروغواي,Uruguay,Uruguay,Uruguay,Уругвай,乌拉圭,🇺🇾
+UZB,UZ,860,Uzbekistan,Ouzbékistan (l'),Asia,Usbekistan,Uzbekistan,Ouzbékistan,Uzbekistan,235,261,Europe & Central Asia,Central Asia,860,أوزبكستان,Uzbekistan,Uzbekistán,Ouzbékistan,Узбекистан,乌兹别克斯坦,🇺🇿
+VUT,VU,548,Vanuatu,Vanuatu (le),Oceania,Vanuatu,Vanuatu,Vanuatu,Vanuatu,155,262,East Asia & Pacific,Melanesia,548,فانواتو,Vanuatu,Vanuatu,Vanuatu,Вануату,瓦努阿图,🇻🇺
+VAT,VA,336,Holy See (the),Saint-Siège (le),Europe,Vatikanstaat,Vatican City,État de la Cité du Vatican,Città del Vaticano,94,110,Europe & Central Asia,Southern Europe,336,,,,,,,🇻🇦
+VEN,VE,862,Venezuela (Bolivarian Republic of),Venezuela (République bolivarienne du),Americas,Venezuela,Venezuela,Venezuela,Venezuela,236,263,Latin America & Caribbean,South America,862,فنزويلا (جمهورية - البوليفارية),Venezuela (Bolivarian Republic of),Venezuela (República Bolivariana de),Venezuela (République bolivarienne du),Венесуэла (Боливарианская Республика),委内瑞拉（玻利瓦尔共和国）,🇻🇪
+VNM,VN,704,Viet Nam,Viet Nam (le),Asia,Vietnam,Vietnam,Vietnam,Vietnam,237,264,East Asia & Pacific,South-Eastern Asia,704,فييت نام,Viet Nam,Viet Nam,Viet Nam,Вьетнам,越南,🇻🇳
+WLF,WF,876,Wallis and Futuna,Wallis-et-Futuna,Oceania,Wallis und Futuna,Wallis & Futuna,Wallis-et-Futuna,Wallis e Futuna,243,266,,Polynesia,876,,,,,,,🇼🇫
+ESH,EH,732,Western Sahara,Sahara occidental (le),Africa,Westsahara,Western Sahara,Sahara occidental,Sahara occidentale,205,268,,Northern Africa,732,,,,,,,🇪🇭
 ,,,,,,Württemberg,Wuerttemburg,,,,,Europe & Central Asia,,,,,,,,,
 ,,,,,,,Würtemberg,,,,,Europe & Central Asia,,,,,,,,,
-YEM,YE,887.0,Yemen,Yémen (le),Asia,Jemen,Yemen,Yémen,Yemen,249.0,269.0,Middle East & North Africa,Western Asia,887.0,اليمن,Yemen,Yemen,Yémen,Йемен,也门,🇾🇪
+YEM,YE,887,Yemen,Yémen (le),Asia,Jemen,Yemen,Yémen,Yemen,249,269,Middle East & North Africa,Western Asia,887,اليمن,Yemen,Yemen,Yémen,Йемен,也门,🇾🇪
 ,,,,,,Jemenitische Arabische Republik,Yemen Arab Republic,,,,,Middle East & North Africa,,,,,,,,,
 ,,,,,,Demokratische Volksrepublik Jemen,Yemen People's Republic,,,,,Middle East & North Africa,,,,,,,,,
 ,,,,,,Jugoslawien,Yugoslavia,,,,,Europe & Central Asia,,,,,,,,,
-ZMB,ZM,894.0,Zambia,Zambie (la),Africa,Sambia,Zambia,Zambie,Zambia,251.0,270.0,Sub-Saharan Africa,Eastern Africa,894.0,زامبيا,Zambia,Zambia,Zambie,Замбия,赞比亚,🇿🇲
+ZMB,ZM,894,Zambia,Zambie (la),Africa,Sambia,Zambia,Zambie,Zambia,251,270,Sub-Saharan Africa,Eastern Africa,894,زامبيا,Zambia,Zambia,Zambie,Замбия,赞比亚,🇿🇲
 ,,,,,,,Zanzibar,,,,,Sub-Saharan Africa,,,,,,,,,
-ZWE,ZW,716.0,Zimbabwe,Zimbabwe (le),Africa,Simbabwe,Zimbabwe,Zimbabwe,Zimbabwe,181.0,271.0,Sub-Saharan Africa,Eastern Africa,716.0,زمبابوي,Zimbabwe,Zimbabwe,Zimbabwe,Зимбабве,津巴布韦,🇿🇼
-ALA,AX,248.0,Åland Islands,Åland(les Îles),Europe,Ålandinseln,Åland Islands,Îles Åland,Isole Åland,,,Europe & Central Asia,Northern Europe,248.0,,,,,,,🇦🇽
+ZWE,ZW,716,Zimbabwe,Zimbabwe (le),Africa,Simbabwe,Zimbabwe,Zimbabwe,Zimbabwe,181,271,Sub-Saharan Africa,Eastern Africa,716,زمبابوي,Zimbabwe,Zimbabwe,Zimbabwe,Зимбабве,津巴布韦,🇿🇼
+ALA,AX,248,Åland Islands,Åland(les Îles),Europe,Ålandinseln,Åland Islands,Îles Åland,Isole Åland,,,Europe & Central Asia,Northern Europe,248,,,,,,,🇦🇽
 ,,,,,,,,,,,,,,,,,,,,,
 SPECIAL COUNTRY CODE COMBINATIONS TO MATCH IN WDPA,,,,,,,,,,,,,,,,,,,,,
 FRA;ITA;MCO,,,,,,,,,,,,,,,,,,,,,
