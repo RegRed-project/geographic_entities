@@ -1,9 +1,9 @@
-locationID,country,stateProvince,county,countryCode,locality,remarks
-MOBI_1SP_RUS,Russian Federation (the),Saint Petersburg,,RU,,Saint Petersburg has a special administrative designation. This code was made only for RegRed usage.
-MOBI_1SJ_NOR,Norway,Svalbard,,NO,,
-MOBI_1XK_XKX,Kosovo,,,XK,,
-MOBI_1PT-20_PT,Portugal,Azores,,PT,,
-MOBI_3CL-VS _CHL,Chile,Región de Valparaíso,Provincia de Valparaíso,CL,Juan Fernández,
-MOBI_1ES-CN_ESP,Spain,Canary Islands,,ES,,
-MOBI_2CL-MA_CHL,Chile,Región de Magallanes y Antártica Chilena,Provincia de la Antártica Chilena,CL,Chilean Antarctica,Chilean claimed territory without Magallanes
-MOBI_1CUW_CUW,Curacao,,,CW,,
+locationID,country,stateProvince,county,countryCode,locality,isCustomRegion,remarks
+MOBI_1SP_RUS,Russian Federation (the),Saint Petersburg,,RU,,No,Saint Petersburg has a special administrative designation. This code was made only for RegRed usage.
+MOBI_1SJ_NOR,Norway,Svalbard,,NO,,No,
+MOBI_1XK_XKX,Kosovo,,,XK,,No,
+MOBI_1PT-20_PT,Portugal,Azores,,PT,,No,
+MOBI_3CL-VS _CHL,Chile,Región de Valparaíso,Provincia de Valparaíso,CL,Juan Fernández,No,
+MOBI_1ES-CN_ESP,Spain,Canary Islands,,ES,,No,
+MOBI_2CL-MA_CHL,Chile,Región de Magallanes y Antártica Chilena,Provincia de la Antártica Chilena,CL,Chilean Antarctica,No,Chilean claimed territory without Magallanes
+MOBI_1CUW_CUW,Curacao,,,CW,,,

@@ -1,11 +1,12 @@
-locationID,locality,remarks
-MOBI_1ES_ESP,Continental Spain,Spain without the Canary Islands autonomous community
-MOBI_1CL-VS_CHL,Desventuradas,Island in northern Chile
-MOBI_2CL-VS_CHL,Salas y Gómez,Island in northern Chile
-MOBI_1CL-MA_CHL,Región de Magallanes y Antártica Chilena,Excluding the ADM3 (municipality) Chilean Antarctic
-MOBI_1PT_PRT,Continental Portugal,Portugal without islands
-MOBI_1CA-NL_CAN,Labrador,Continental territory of Newfoundland and Labrador province in Canada
-MOBI_1US-AZ_US,Navajo Nation,Arizona territory
-MOBI_1EC_ECU,Continental Ecuador,Ecuador without the Galápagos province
-MOBI_1CZ-PL-HU-SK-AT-UK-RO-RS_EU,Carpathians,Mountain range in Eastern Europe
-MOBI_1LS-ZA-SZ_AF,South Africa/Lesotho/Eswatini,Southern African countries. Eswatini and Lesotho are countries enclosed within South Africa.
+locationID,locality,remarks,isCustomRegion
+MOBI_1ES_ESP,Continental Spain,Spain without the Canary Islands autonomous community,Yes
+MOBI_1CL-VS_CHL,Desventuradas,Island in northern Chile,Yes
+MOBI_2CL-VS_CHL,Salas y Gómez,Island in northern Chile,Yes
+MOBI_1CL-MA_CHL,Región de Magallanes y Antártica Chilena,Excluding the ADM3 (municipality) Chilean Antarctic,Yes
+MOBI_1PT_PRT,Continental Portugal,Portugal without islands,Yes
+MOBI_1CA-NL_CAN,Labrador,Continental territory of Newfoundland and Labrador province in Canada,Yes
+MOBI_1US-AZ_US,Navajo Nation,Arizona territory,Yes
+MOBI_1EC_ECU,Continental Ecuador,Ecuador without the Galápagos province,Yes
+MOBI_1CZ-PL-HU-SK-AT-UK-RO-RS_EU,Carpathians,Mountain range in Eastern Europe,Yes
+MOBI_1LS-ZA-SZ_AF,South Africa/Lesotho/Eswatini,Southern African countries. Eswatini and Lesotho are countries enclosed within South Africa.,Yes
+MOBI_1BD-BT-IN-MV-NP-PK-LK,"Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka","Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka",Yes
