@@ -8,5 +8,6 @@ MOBI_1CA-NL_CAN,Labrador,Continental territory of Newfoundland and Labrador prov
 MOBI_1US-AZ_US,Navajo Nation,Arizona territory,Yes
 MOBI_1EC_ECU,Continental Ecuador,Ecuador without the Galápagos province,Yes
 MOBI_1CZ-PL-HU-SK-AT-UK-RO-RS_EU,Carpathians,Mountain range in Eastern Europe,Yes
-MOBI_1LS-ZA-SZ_AF,South Africa/Lesotho/Eswatini,Southern African countries. Eswatini and Lesotho are countries enclosed within South Africa.,Yes
+MOBI_1LS-ZA-SZ_AF,"South Africa, Lesotho, and Eswatini",Southern African countries. Eswatini and Lesotho are countries enclosed within South Africa.,Yes
 MOBI_1BD-BT-IN-MV-NP-PK-LK,"Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka","Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka",Yes
+MOBI_1AR-B_AR,Tandilia mountains,Mountain range in Buenos Aires province,Yes
