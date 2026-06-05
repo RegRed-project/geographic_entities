@@ -21,9 +21,9 @@
         .stats { font-size: 0.9em; color: #666; }
         .loading { text-align: center; padding: 40px; color: #667eea; font-weight: bold; }
         .table-container { overflow-x: auto; margin-bottom: 20px; }
-        table { width: 100%; border-collapse: collapse; font-size: 0.85em; }
-        th { background: #f0f0f0; padding: 8px; text-align: left; font-weight: bold; border-bottom: 2px solid #ddd; position: sticky; top: 0; }
-        td { padding: 6px 8px; border-bottom: 1px solid #eee; }
+        table { width: 100%; border-collapse: collapse; font-size: 0.85em; table-layout: fixed; }
+        th { background: #f0f0f0; padding: 8px; text-align: left; font-weight: bold; border-bottom: 2px solid #ddd; position: sticky; top: 0; white-space: normal; overflow-wrap: anywhere; word-break: break-word; }
+        td { padding: 6px 8px; border-bottom: 1px solid #eee; white-space: normal; overflow-wrap: anywhere; word-break: break-word; }
         tr:hover { background: #f9f9f9; }
         .pagination { display: flex; justify-content: center; gap: 5px; margin-top: 20px; flex-wrap: wrap; }
         .pagination button { padding: 6px 10px; border: 1px solid #ddd; background: white; border-radius: 3px; cursor: pointer; font-size: 0.85em; }
